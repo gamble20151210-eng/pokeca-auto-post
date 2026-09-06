@@ -1,2 +1,2 @@
-def calculate_rate():
-    return 0
+def calculate_rate(cards):
+    # 処理

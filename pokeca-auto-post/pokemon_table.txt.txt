@@ -1,0 +1,7242 @@
+この表はポケモンの外国語名の一覧です。番号順に並べてあります。
+== 第一世代==
+{| {{graytable|c}}
+! style="background-color:#f8f6f0;" class=c|番号
+! style="background-color:#ffc1c1;"|日本語
+! style="background-color:#ff6fff;"|英語、イタリア語、スペイン語
+! style="background-color:#eff19c;"|ドイツ語 
+! style="background-color:#c5e4f5;"|フランス語
+! style="background-color:#9481d8;"|韓国語
+! style="background-color:#FFE0C4;"|中国語（簡）
+! style="background-color:#FFE0C4;"|中国語（繁）
+|-
+| 0001
+|[[フシギダネ]]
+|Bulbasaur
+|Bisasam
+|Bulbizarre
+|lang="ko"|이상해씨
+|lang="zh-hans"|妙蛙种子
+|lang="zh-hant"|妙蛙種子
+|-
+| 0002
+|[[フシギソウ]]
+|Ivysaur
+|Bisaknosp
+|Herbizarre
+|lang="ko"|이상해풀
+|lang="zh-hans"|妙蛙草
+|lang="zh-hant"|妙蛙草
+|-
+| 0003
+|[[フシギバナ]]
+|Venusaur
+|Bisaflor
+|Florizarre
+|lang="ko"|이상해꽃
+|lang="zh-hans"|妙蛙花
+|lang="zh-hant"|妙蛙花
+|-
+| 0004
+|[[ヒトカゲ]]
+|Charmander
+|Glumanda
+|Salamèche
+|lang="ko"|파이리
+|lang="zh-hans"|小火龙
+|lang="zh-hant"|小火龍
+|-
+| 0005
+|[[リザード]]
+|Charmeleon
+|Glutexo
+|Reptincel
+|lang="ko"|리자드
+|lang="zh-hans"|火恐龙
+|lang="zh-hant"|火恐龍
+|-
+| 0006
+|[[リザードン]]
+|Charizard
+|Glurak
+|Dracaufeu
+|lang="ko"|리자몽
+|lang="zh-hans"|喷火龙
+|lang="zh-hant"|噴火龍
+|-
+| 0007
+|[[ゼニガメ]]
+|Squirtle
+|Schiggy
+|Carapuce
+|lang="ko"|꼬부기
+|lang="zh-hans"|杰尼龟
+|lang="zh-hant"|傑尼龜
+|-
+| 0008
+|[[カメール]]
+|Wartortle
+|Schillok
+|Carabaffe
+|lang="ko"|어니부기
+|lang="zh-hans"|卡咪龟
+|lang="zh-hant"|卡咪龜
+|-
+| 0009
+|[[カメックス]]
+|Blastoise
+|Turtok
+|Tortank
+|lang="ko"|거북왕
+|lang="zh-hans"|水箭龟
+|lang="zh-hant"|水箭龜
+|-
+| 0010
+|[[キャタピー]]
+|Caterpie
+|Raupy
+|Chenipan
+|lang="ko"|캐터피
+|lang="zh-hans"|绿毛虫
+|lang="zh-hant"|綠毛蟲
+|-
+| 0011
+|[[トランセル]]
+|Metapod
+|Safcon
+|Chrysacier
+|lang="ko"|단데기
+|lang="zh-hans"|铁甲蛹
+|lang="zh-hant"|鐵甲蛹
+|-
+| 0012
+|[[バタフリー]]
+|Butterfree
+|Smettbo
+|Papilusion
+|lang="ko"|버터플
+|lang="zh-hans"|巴大蝶
+|lang="zh-hant"|巴大蝶
+|-
+| 0013
+|[[ビードル]]
+|Weedle
+|Hornliu
+|Aspicot
+|lang="ko"|뿔충이
+|lang="zh-hans"|独角虫
+|lang="zh-hant"|獨角蟲
+|-
+| 0014
+|[[コクーン]]
+|Kakuna
+|Kokuna
+|Coconfort
+|lang="ko"|딱충이
+|lang="zh-hans"|铁壳蛹
+|lang="zh-hant"|鐵殼蛹
+|-
+| 0015
+|[[スピアー]]
+|Beedrill
+|Bibor
+|Dardargnan
+|lang="ko"|독침붕
+|lang="zh-hans"|大针蜂
+|lang="zh-hant"|大針蜂
+|-
+| 0016
+|[[ポッポ]]
+|Pidgey
+|Taubsi
+|Roucool
+|lang="ko"|구구
+|lang="zh-hans"|波波
+|lang="zh-hant"|波波
+|-
+| 0017
+|[[ピジョン]]
+|Pidgeotto
+|Tauboga
+|Roucoups
+|lang="ko"|피죤
+|lang="zh-hans"|比比鸟
+|lang="zh-hant"|比比鳥
+|-
+| 0018
+|[[ピジョット]]
+|Pidgeot
+|Tauboss
+|Roucarnage
+|lang="ko"|피죤투
+|lang="zh-hans"|大比鸟
+|lang="zh-hant"|大比鳥
+|-
+| 0019
+|[[コラッタ]]
+|Rattata
+|Rattfratz
+|Rattata
+|lang="ko"|꼬렛
+|lang="zh-hans"|小拉达
+|lang="zh-hant"|小拉達
+|-
+| 0020
+|[[ラッタ]]
+|Raticate
+|Rattikarl
+|Rattatac
+|lang="ko"|레트라
+|lang="zh-hans"|拉达
+|lang="zh-hant"|拉達
+|-
+| 0021
+|[[オニスズメ]]
+|Spearow
+|Habitak
+|Piafabec
+|lang="ko"|깨비참
+|lang="zh-hans"|烈雀
+|lang="zh-hant"|烈雀
+|-
+| 0022
+|[[オニドリル]]
+|Fearow
+|Ibitak
+|Rapasdepic
+|lang="ko"|깨비드릴조
+|lang="zh-hans"|大嘴雀
+|lang="zh-hant"|大嘴雀
+|-
+| 0023
+|[[アーボ]]
+|Ekans
+|Rettan
+|Abo
+|lang="ko"|아보
+|lang="zh-hans"|阿柏蛇
+|lang="zh-hant"|阿柏蛇
+|-
+| 0024
+|[[アーボック]]
+|Arbok
+|Arbok
+|Arbok
+|lang="ko"|아보크
+|lang="zh-hans"|阿柏怪
+|lang="zh-hant"|阿柏怪
+|-
+| 0025
+|[[ピカチュウ]]
+|Pikachu
+|Pikachu
+|Pikachu
+|lang="ko"|피카츄
+|lang="zh-hans"|皮卡丘
+|lang="zh-hant"|皮卡丘
+|-
+| 0026
+|[[ライチュウ]]
+|Raichu
+|Raichu
+|Raichu
+|lang="ko"|라이츄
+|lang="zh-hans"|雷丘
+|lang="zh-hant"|雷丘
+|-
+| 0027
+|[[サンド]]
+|Sandshrew
+|Sandan
+|Sabelette
+|lang="ko"|모래두지
+|lang="zh-hans"|穿山鼠
+|lang="zh-hant"|穿山鼠
+|-
+| 0028
+|[[サンドパン]]
+|Sandslash
+|Sandamer
+|Sablaireau
+|lang="ko"|고지
+|lang="zh-hans"|穿山王
+|lang="zh-hant"|穿山王
+|-
+| 0029
+|[[ニドラン♀]]
+|Nidoran♀
+|Nidoran♀
+|Nidoran♀
+|lang="ko"|니드런♀
+|lang="zh-hans"|尼多兰
+|lang="zh-hant"|尼多蘭
+|-
+| 0030
+|[[ニドリーナ]]
+|Nidorina
+|Nidorina
+|Nidorina
+|lang="ko"|니드리나
+|lang="zh-hans"|尼多娜
+|lang="zh-hant"|尼多娜
+|-
+| 0031
+|[[ニドクイン]]
+|Nidoqueen
+|Nidoqueen
+|Nidoqueen
+|lang="ko"|니드퀸
+|lang="zh-hans"|尼多后
+|lang="zh-hant"|尼多后
+|-
+| 0032
+|[[ニドラン♂]]
+|Nidoran♂
+|Nidoran♂
+|Nidoran♂
+|lang="ko"|니드런♂
+|lang="zh-hans"|尼多朗
+|lang="zh-hant"|尼多朗
+|-
+| 0033
+|[[ニドリーノ]]
+|Nidorino
+|Nidorino
+|Nidorino
+|lang="ko"|니드리노
+|lang="zh-hans"|尼多力诺
+|lang="zh-hant"|尼多力諾
+|-
+| 0034
+|[[ニドキング]]
+|Nidoking
+|Nidoking
+|Nidoking
+|lang="ko"|니드킹
+|lang="zh-hans"|尼多王
+|lang="zh-hant"|尼多王
+|-
+| 0035
+|[[ピッピ]]
+|Clefairy
+|Piepi
+|Mélofée
+|lang="ko"|삐삐
+|lang="zh-hans"|皮皮
+|lang="zh-hant"|皮皮
+|-
+| 0036
+|[[ピクシー]]
+|Clefable
+|Pixi
+|Mélodelfe
+|lang="ko"|픽시
+|lang="zh-hans"|皮可西
+|lang="zh-hant"|皮可西
+|-
+| 0037
+|[[ロコン]]
+|Vulpix
+|Vulpix
+|Goupix
+|lang="ko"|식스테일
+|lang="zh-hans"|六尾
+|lang="zh-hant"|六尾
+|-
+| 0038
+|[[キュウコン]]
+|Ninetales
+|Vulnona
+|Feunard
+|lang="ko"|나인테일
+|lang="zh-hans"|九尾
+|lang="zh-hant"|九尾
+|-
+| 0039
+|[[プリン]]
+|Jigglypuff
+|Pummeluff
+|Rondoudou
+|lang="ko"|푸린
+|lang="zh-hans"|胖丁
+|lang="zh-hant"|胖丁
+|-
+| 0040
+|[[プクリン]]
+|Wigglytuff
+|Knuddeluff
+|Grodoudou
+|lang="ko"|푸크린
+|lang="zh-hans"|胖可丁
+|lang="zh-hant"|胖可丁
+|-
+| 0041
+|[[ズバット]]
+|Zubat
+|Zubat
+|Nosferapti
+|lang="ko"|주뱃
+|lang="zh-hans"|超音蝠
+|lang="zh-hant"|超音蝠
+|-
+| 0042
+|[[ゴルバット]]
+|Golbat
+|Golbat
+|Nosferalto
+|lang="ko"|골뱃
+|lang="zh-hans"|大嘴蝠
+|lang="zh-hant"|大嘴蝠
+|-
+| 0043
+|[[ナゾノクサ]]
+|Oddish
+|Myrapla
+|Mystherbe
+|lang="ko"|뚜벅쵸
+|lang="zh-hans"|走路草
+|lang="zh-hant"|走路草
+|-
+| 0044
+|[[クサイハナ]]
+|Gloom
+|Duflor
+|Ortide
+|lang="ko"|냄새꼬
+|lang="zh-hans"|臭臭花
+|lang="zh-hant"|臭臭花
+|-
+| 0045
+|[[ラフレシア]]
+|Vileplume
+|Giflor
+|Rafflesia
+|lang="ko"|라플레시아
+|lang="zh-hans"|霸王花
+|lang="zh-hant"|霸王花
+|-
+| 0046
+|[[パラス]]
+|Paras
+|Paras
+|Paras
+|lang="ko"|파라스
+|lang="zh-hans"|派拉斯
+|lang="zh-hant"|派拉斯
+|-
+| 0047
+|[[パラセクト]]
+|Parasect
+|Parasek
+|Parasect
+|lang="ko"|파라섹트
+|lang="zh-hans"|派拉斯特
+|lang="zh-hant"|派拉斯特
+|-
+| 0048
+|[[コンパン]]
+|Venonat
+|Bluzuk
+|Mimitoss
+|lang="ko"|콘팡
+|lang="zh-hans"|毛球
+|lang="zh-hant"|毛球
+|-
+| 0049
+|[[モルフォン]]
+|Venomoth
+|Omot
+|Aéromite
+|lang="ko"|도나리
+|lang="zh-hans"|摩鲁蛾
+|lang="zh-hant"|摩魯蛾
+|-
+| 0050
+|[[ディグダ]]
+|Diglett
+|Digda
+|Taupiqueur
+|lang="ko"|디그다
+|lang="zh-hans"|地鼠
+|lang="zh-hant"|地鼠
+|-
+| 0051
+|[[ダグトリオ]]
+|Dugtrio
+|Digdri
+|Triopikeur
+|lang="ko"|닥트리오
+|lang="zh-hans"|三地鼠
+|lang="zh-hant"|三地鼠
+|-
+| 0052
+|[[ニャース]]
+|Meowth
+|Mauzi
+|Miaouss
+|lang="ko"|나옹
+|lang="zh-hans"|喵喵
+|lang="zh-hant"|喵喵
+|-
+| 0053
+|[[ペルシアン]]
+|Persian
+|Snobilikat
+|Persian
+|lang="ko"|페르시온
+|lang="zh-hans"|猫老大
+|lang="zh-hant"|貓老大
+|-
+| 0054
+|[[コダック]]
+|Psyduck
+|Enton
+|Psykokwak
+|lang="ko"|고라파덕
+|lang="zh-hans"|可达鸭
+|lang="zh-hant"|可達鴨
+|-
+| 0055
+|[[ゴルダック]]
+|Golduck
+|Entoron
+|Akwakwak
+|lang="ko"|골덕
+|lang="zh-hans"|哥达鸭
+|lang="zh-hant"|哥達鴨
+|-
+| 0056
+|[[マンキー]]
+|Mankey
+|Menki
+|Férosinge
+|lang="ko"|망키
+|lang="zh-hans"|猴怪
+|lang="zh-hant"|猴怪
+|-
+| 0057
+|[[オコリザル]]
+|Primeape
+|Rasaff
+|Colossinge
+|lang="ko"|성원숭
+|lang="zh-hans"|火暴猴
+|lang="zh-hant"|火爆猴
+|-
+| 0058
+|[[ガーディ]]
+|Growlithe
+|Fukano
+|Caninos
+|lang="ko"|가디
+|lang="zh-hans"|卡蒂狗
+|lang="zh-hant"|卡蒂狗
+|-
+| 0059
+|[[ウインディ]]
+|Arcanine
+|Arkani
+|Arcanin
+|lang="ko"|윈디
+|lang="zh-hans"|风速狗
+|lang="zh-hant"|風速狗
+|-
+| 0060
+|[[ニョロモ]]
+|Poliwag
+|Quapsel
+|Ptitard
+|lang="ko"|발챙이
+|lang="zh-hans"|蚊香蝌蚪
+|lang="zh-hant"|蚊香蝌蚪
+|-
+| 0061
+|[[ニョロゾ]]
+|Poliwhirl
+|Quaputzi
+|Têtarte
+|lang="ko"|수륙챙이
+|lang="zh-hans"|蚊香君
+|lang="zh-hant"|蚊香君
+|-
+| 0062
+|[[ニョロボン]]
+|Poliwrath
+|Quappo
+|Tartard
+|lang="ko"|강챙이
+|lang="zh-hans"|蚊香泳士
+|lang="zh-hant"|蚊香泳士
+|-
+| 0063
+|[[ケーシィ]]
+|Abra
+|Abra
+|Abra
+|lang="ko"|캐이시
+|lang="zh-hans"|凯西
+|lang="zh-hant"|凱西
+|-
+| 0064
+|[[ユンゲラー]]
+|Kadabra
+|Kadabra
+|Kadabra
+|lang="ko"|윤겔라
+|lang="zh-hans"|勇基拉
+|lang="zh-hant"|勇基拉
+|-
+| 0065
+|[[フーディン]]
+|Alakazam
+|Simsala
+|Alakazam
+|lang="ko"|후딘
+|lang="zh-hans"|胡地
+|lang="zh-hant"|胡地
+|-
+| 0066
+|[[ワンリキー]]
+|Machop
+|Machollo
+|Machoc
+|lang="ko"|알통몬
+|lang="zh-hans"|腕力
+|lang="zh-hant"|腕力
+|-
+| 0067
+|[[ゴーリキー]]
+|Machoke
+|Maschock
+|Machopeur
+|lang="ko"|근육몬
+|lang="zh-hans"|豪力
+|lang="zh-hant"|豪力
+|-
+| 0068
+|[[カイリキー]]
+|Machamp
+|Machomei
+|Mackogneur
+|lang="ko"|괴력몬
+|lang="zh-hans"|怪力
+|lang="zh-hant"|怪力
+|-
+| 0069
+|[[マダツボミ]]
+|Bellsprout
+|Knofensa
+|Chétiflor
+|lang="ko"|모다피
+|lang="zh-hans"|喇叭芽
+|lang="zh-hant"|喇叭芽
+|-
+| 0070
+|[[ウツドン]]
+|Weepinbell
+|Ultrigaria
+|Boustiflor
+|lang="ko"|우츠동
+|lang="zh-hans"|口呆花
+|lang="zh-hant"|口呆花
+|-
+| 0071
+|[[ウツボット]]
+|Victreebel
+|Sarzenia
+|Empiflor
+|lang="ko"|우츠보트
+|lang="zh-hans"|大食花
+|lang="zh-hant"|大食花
+|-
+| 0072
+|[[メノクラゲ]]
+|Tentacool
+|Tentacha
+|Tentacool
+|lang="ko"|왕눈해
+|lang="zh-hans"|玛瑙水母
+|lang="zh-hant"|瑪瑙水母
+|-
+| 0073
+|[[ドククラゲ]]
+|Tentacruel
+|Tentoxa
+|Tentacruel
+|lang="ko"|독파리
+|lang="zh-hans"|毒刺水母
+|lang="zh-hant"|毒刺水母
+|-
+| 0074
+|[[イシツブテ]]
+|Geodude
+|Kleinstein
+|Racaillou
+|lang="ko"|꼬마돌
+|lang="zh-hans"|小拳石
+|lang="zh-hant"|小拳石
+|-
+| 0075
+|[[ゴローン]]
+|Graveler
+|Georok
+|Gravalanch
+|lang="ko"|데구리
+|lang="zh-hans"|隆隆石
+|lang="zh-hant"|隆隆石
+|-
+| 0076
+|[[ゴローニャ]]
+|Golem
+|Geowaz
+|Grolem
+|lang="ko"|딱구리
+|lang="zh-hans"|隆隆岩
+|lang="zh-hant"|隆隆岩
+|-
+| 0077
+|[[ポニータ]]
+|Ponyta
+|Ponita
+|Ponyta
+|lang="ko"|포니타
+|lang="zh-hans"|小火马
+|lang="zh-hant"|小火馬
+|-
+| 0078
+|[[ギャロップ]]
+|Rapidash
+|Gallopa
+|Galopa
+|lang="ko"|날쌩마
+|lang="zh-hans"|烈焰马
+|lang="zh-hant"|烈焰馬
+|-
+| 0079
+|[[ヤドン]]
+|Slowpoke
+|Flegmon
+|Ramoloss
+|lang="ko"|야돈
+|lang="zh-hans"|呆呆兽
+|lang="zh-hant"|呆呆獸
+|-
+| 0080
+|[[ヤドラン]]
+|Slowbro
+|Lahmus
+|Flagadoss
+|lang="ko"|야도란
+|lang="zh-hans"|呆壳兽
+|lang="zh-hant"|呆殼獸
+|-
+| 0081
+|[[コイル]]
+|Magnemite
+|Magnetilo
+|Magnéti
+|lang="ko"|코일
+|lang="zh-hans"|小磁怪
+|lang="zh-hant"|小磁怪
+|-
+| 0082
+|[[レアコイル]]
+|Magneton
+|Magneton
+|Magnéton
+|lang="ko"|레어코일
+|lang="zh-hans"|三合一磁怪
+|lang="zh-hant"|三合一磁怪
+|-
+| 0083
+|[[カモネギ]]
+|Farfetch'd
+|Porenta
+|Canarticho
+|lang="ko"|파오리
+|lang="zh-hans"|大葱鸭
+|lang="zh-hant"|大蔥鴨
+|-
+| 0084
+|[[ドードー]]
+|Doduo
+|Dodu
+|Doduo
+|lang="ko"|두두
+|lang="zh-hans"|嘟嘟
+|lang="zh-hant"|嘟嘟
+|-
+| 0085
+|[[ドードリオ]]
+|Dodrio
+|Dodri
+|Dodrio
+|lang="ko"|두트리오
+|lang="zh-hans"|嘟嘟利
+|lang="zh-hant"|嘟嘟利
+|-
+| 0086
+|[[パウワウ]]
+|Seel
+|Jurob
+|Otaria
+|lang="ko"|쥬쥬
+|lang="zh-hans"|小海狮
+|lang="zh-hant"|小海獅
+|-
+| 0087
+|[[ジュゴン]]
+|Dewgong
+|Jugong
+|Lamantine
+|lang="ko"|쥬레곤
+|lang="zh-hans"|白海狮
+|lang="zh-hant"|白海獅
+|-
+| 0088
+|[[ベトベター]]
+|Grimer
+|Sleima
+|Tadmorv
+|lang="ko"|질퍽이
+|lang="zh-hans"|臭泥
+|lang="zh-hant"|臭泥
+|-
+| 0089
+|[[ベトベトン]]
+|Muk
+|Sleimok
+|Grotadmorv
+|lang="ko"|질뻐기
+|lang="zh-hans"|臭臭泥
+|lang="zh-hant"|臭臭泥
+|-
+| 0090
+|[[シェルダー]]
+|Shellder
+|Muschas
+|Kokiyas
+|lang="ko"|셀러
+|lang="zh-hans"|大舌贝
+|lang="zh-hant"|大舌貝
+|-
+| 0091
+|[[パルシェン]]
+|Cloyster
+|Austos
+|Crustabri
+|lang="ko"|파르셀
+|lang="zh-hans"|刺甲贝
+|lang="zh-hant"|刺甲貝
+|-
+| 0092
+|[[ゴース]]
+|Gastly
+|Nebulak
+|Fantominus
+|lang="ko"|고오스
+|lang="zh-hans"|鬼斯
+|lang="zh-hant"|鬼斯
+|-
+| 0093
+|[[ゴースト]]
+|Haunter
+|Alpollo
+|Spectrum
+|lang="ko"|고우스트
+|lang="zh-hans"|鬼斯通
+|lang="zh-hant"|鬼斯通
+|-
+| 0094
+|[[ゲンガー]]
+|Gengar
+|Gengar
+|Ectoplasma
+|lang="ko"|팬텀
+|lang="zh-hans"|耿鬼
+|lang="zh-hant"|耿鬼
+|-
+| 0095
+|[[イワーク]]
+|Onix
+|Onix
+|Onix
+|lang="ko"|롱스톤
+|lang="zh-hans"|大岩蛇
+|lang="zh-hant"|大岩蛇
+|-
+| 0096
+|[[スリープ]]
+|Drowzee
+|Traumato
+|Soporifik
+|lang="ko"|슬리프
+|lang="zh-hans"|催眠貘
+|lang="zh-hant"|催眠貘
+|-
+| 0097
+|[[スリーパー]]
+|Hypno
+|Hypno
+|Hypnomade
+|lang="ko"|슬리퍼
+|lang="zh-hans"|引梦貘人
+|lang="zh-hant"|引夢貘人
+|-
+| 0098
+|[[クラブ]]
+|Krabby
+|Krabby
+|Krabby
+|lang="ko"|크랩
+|lang="zh-hans"|大钳蟹
+|lang="zh-hant"|大鉗蟹
+|-
+| 0099
+|[[キングラー]]
+|Kingler
+|Kingler
+|Krabboss
+|lang="ko"|킹크랩
+|lang="zh-hans"|巨钳蟹
+|lang="zh-hant"|巨鉗蟹
+|-
+| 0100
+|[[ビリリダマ]]
+|Voltorb
+|Voltobal
+|Voltorbe
+|lang="ko"|찌리리공
+|lang="zh-hans"|霹雳电球
+|lang="zh-hant"|霹靂電球
+|-
+| 0101
+|[[マルマイン]]
+|Electrode
+|Lektrobal
+|Électrode
+|lang="ko"|붐볼
+|lang="zh-hans"|顽皮雷弹
+|lang="zh-hant"|頑皮雷彈
+|-
+| 0102
+|[[タマタマ]]
+|Exeggcute
+|Owei
+|Noeunoeuf
+|lang="ko"|아라리
+|lang="zh-hans"|蛋蛋
+|lang="zh-hant"|蛋蛋
+|-
+| 0103
+|[[ナッシー]]
+|Exeggutor
+|Kokowei
+|Noadkoko
+|lang="ko"|나시
+|lang="zh-hans"|椰蛋树
+|lang="zh-hant"|椰蛋樹
+|-
+| 0104
+|[[カラカラ]]
+|Cubone
+|Tragosso
+|Osselait
+|lang="ko"|탕구리
+|lang="zh-hans"|卡拉卡拉
+|lang="zh-hant"|卡拉卡拉
+|-
+| 0105
+|[[ガラガラ]]
+|Marowak
+|Knogga
+|Ossatueur
+|lang="ko"|텅구리
+|lang="zh-hans"|嘎啦嘎啦
+|lang="zh-hant"|嘎啦嘎啦
+|-
+| 0106
+|[[サワムラー]]
+|Hitmonlee
+|Kicklee
+|Kicklee
+|lang="ko"|시라소몬
+|lang="zh-hans"|飞腿郎
+|lang="zh-hant"|飛腿郎
+|-
+| 0107
+|[[エビワラー]]
+|Hitmonchan
+|Nockchan
+|Tygnon
+|lang="ko"|홍수몬
+|lang="zh-hans"|快拳郎
+|lang="zh-hant"|快拳郎
+|-
+| 0108
+|[[ベロリンガ]]
+|Lickitung
+|Schlurp
+|Excelangue
+|lang="ko"|내루미
+|lang="zh-hans"|大舌头
+|lang="zh-hant"|大舌頭
+|-
+| 0109
+|[[ドガース]]
+|Koffing
+|Smogon
+|Smogo
+|lang="ko"|또가스
+|lang="zh-hans"|瓦斯弹
+|lang="zh-hant"|瓦斯彈
+|-
+| 0110
+|[[マタドガス]]
+|Weezing
+|Smogmog
+|Smogogo
+|lang="ko"|또도가스
+|lang="zh-hans"|双弹瓦斯
+|lang="zh-hant"|雙彈瓦斯
+|-
+| 0111
+|[[サイホーン]]
+|Rhyhorn
+|Rihorn
+|Rhinocorne
+|lang="ko"|뿔카노
+|lang="zh-hans"|独角犀牛
+|lang="zh-hant"|獨角犀牛
+|-
+| 0112
+|[[サイドン]]
+|Rhydon
+|Rizeros
+|Rhinoféros
+|lang="ko"|코뿌리
+|lang="zh-hans"|钻角犀兽
+|lang="zh-hant"|鑽角犀獸
+|-
+| 0113
+|[[ラッキー]]
+|Chansey
+|Chaneira
+|Leveinard
+|lang="ko"|럭키
+|lang="zh-hans"|吉利蛋
+|lang="zh-hant"|吉利蛋
+|-
+| 0114
+|[[モンジャラ]]
+|Tangela
+|Tangela
+|Saquedeneu
+|lang="ko"|덩구리
+|lang="zh-hans"|蔓藤怪
+|lang="zh-hant"|蔓藤怪
+|-
+| 0115
+|[[ガルーラ]]
+|Kangaskhan
+|Kangama
+|Kangourex
+|lang="ko"|캥카
+|lang="zh-hans"|袋兽
+|lang="zh-hant"|袋獸
+|-
+| 0116
+|[[タッツー]]
+|Horsea
+|Seeper
+|Hypotrempe
+|lang="ko"|쏘드라
+|lang="zh-hans"|墨海马
+|lang="zh-hant"|墨海馬
+|-
+| 0117
+|[[シードラ]]
+|Seadra
+|Seemon
+|Hypocéan
+|lang="ko"|시드라
+|lang="zh-hans"|海刺龙
+|lang="zh-hant"|海刺龍
+|-
+| 0118
+|[[トサキント]]
+|Goldeen
+|Goldini
+|Poissirène
+|lang="ko"|콘치
+|lang="zh-hans"|角金鱼
+|lang="zh-hant"|角金魚
+|-
+| 0119
+|[[アズマオウ]]
+|Seaking
+|Golking
+|Poissoroy
+|lang="ko"|왕콘치
+|lang="zh-hans"|金鱼王
+|lang="zh-hant"|金魚王
+|-
+| 0120
+|[[ヒトデマン]]
+|Staryu
+|Sterndu
+|Stari
+|lang="ko"|별가사리
+|lang="zh-hans"|海星星
+|lang="zh-hant"|海星星
+|-
+| 0121
+|[[スターミー]]
+|Starmie
+|Starmie
+|Staross
+|lang="ko"|아쿠스타
+|lang="zh-hans"|宝石海星
+|lang="zh-hant"|寶石海星
+|-
+| 0122
+|[[バリヤード]]
+|Mr. Mime
+|Pantimos
+|M. Mime
+|lang="ko"|마임맨
+|lang="zh-hans"|魔墙人偶
+|lang="zh-hant"|魔牆人偶
+|-
+| 0123
+|[[ストライク]]
+|Scyther
+|Sichlor
+|Insécateur
+|lang="ko"|스라크
+|lang="zh-hans"|飞天螳螂
+|lang="zh-hant"|飛天螳螂
+|-
+| 0124
+|[[ルージュラ]]
+|Jynx
+|Rossana
+|Lippoutou
+|lang="ko"|루주라
+|lang="zh-hans"|迷唇姐
+|lang="zh-hant"|迷唇姐
+|-
+| 0125
+|[[エレブー]]
+|Electabuzz
+|Elektek
+|Élektek
+|lang="ko"|에레브
+|lang="zh-hans"|电击兽
+|lang="zh-hant"|電擊獸
+|-
+| 0126
+|[[ブーバー]]
+|Magmar
+|Magmar
+|Magmar
+|lang="ko"|마그마
+|lang="zh-hans"|鸭嘴火兽
+|lang="zh-hant"|鴨嘴火獸
+|-
+| 0127
+|[[カイロス]]
+|Pinsir
+|Pinsir
+|Scarabrute
+|lang="ko"|쁘사이저
+|lang="zh-hans"|凯罗斯
+|lang="zh-hant"|凱羅斯
+|-
+| 0128
+|[[ケンタロス]]
+|Tauros
+|Tauros
+|Tauros
+|lang="ko"|켄타로스
+|lang="zh-hans"|肯泰罗
+|lang="zh-hant"|肯泰羅
+|-
+| 0129
+|[[コイキング]]
+|Magikarp
+|Karpador
+|Magicarpe
+|lang="ko"|잉어킹
+|lang="zh-hans"|鲤鱼王
+|lang="zh-hant"|鯉魚王
+|-
+| 0130
+|[[ギャラドス]]
+|Gyarados
+|Garados
+|Léviator
+|lang="ko"|갸라도스
+|lang="zh-hans"|暴鲤龙
+|lang="zh-hant"|暴鯉龍
+|-
+| 0131
+|[[ラプラス]]
+|Lapras
+|Lapras
+|Lokhlass
+|lang="ko"|라프라스
+|lang="zh-hans"|拉普拉斯
+|lang="zh-hant"|拉普拉斯
+|-
+| 0132
+|[[メタモン]]
+|Ditto
+|Ditto
+|Métamorph
+|lang="ko"|메타몽
+|lang="zh-hans"|百变怪
+|lang="zh-hant"|百變怪
+|-
+| 0133
+|[[イーブイ]]
+|Eevee
+|Evoli
+|Évoli
+|lang="ko"|이브이
+|lang="zh-hans"|伊布
+|lang="zh-hant"|伊布
+|-
+| 0134
+|[[シャワーズ]]
+|Vaporeon
+|Aquana
+|Aquali
+|lang="ko"|샤미드
+|lang="zh-hans"|水伊布
+|lang="zh-hant"|水伊布
+|-
+| 0135
+|[[サンダース]]
+|Jolteon
+|Blitza
+|Voltali
+|lang="ko"|쥬피썬더
+|lang="zh-hans"|雷伊布
+|lang="zh-hant"|雷伊布
+|-
+| 0136
+|[[ブースター]]
+|Flareon
+|Flamara
+|Pyroli
+|lang="ko"|부스터
+|lang="zh-hans"|火伊布
+|lang="zh-hant"|火伊布
+|-
+| 0137
+|[[ポリゴン]]
+|Porygon
+|Porygon
+|Porygon
+|lang="ko"|폴리곤
+|lang="zh-hans"|多边兽
+|lang="zh-hant"|多邊獸
+|-
+| 0138
+|[[オムナイト]]
+|Omanyte
+|Amonitas
+|Amonita
+|lang="ko"|암나이트
+|lang="zh-hans"|菊石兽
+|lang="zh-hant"|菊石獸
+|-
+| 0139
+|[[オムスター]]
+|Omastar
+|Amoroso
+|Amonistar
+|lang="ko"|암스타
+|lang="zh-hans"|多刺菊石兽
+|lang="zh-hant"|多刺菊石獸
+|-
+| 0140
+|[[カブト]]
+|Kabuto
+|Kabuto
+|Kabuto
+|lang="ko"|투구
+|lang="zh-hans"|化石盔
+|lang="zh-hant"|化石盔
+|-
+| 0141
+|[[カブトプス]]
+|Kabutops
+|Kabutops
+|Kabutops
+|lang="ko"|투구푸스
+|lang="zh-hans"|镰刀盔
+|lang="zh-hant"|鐮刀盔
+|-
+| 0142
+|[[プテラ]]
+|Aerodactyl
+|Aerodactyl
+|Ptéra
+|lang="ko"|프테라
+|lang="zh-hans"|化石翼龙
+|lang="zh-hant"|化石翼龍
+|-
+| 0143
+|[[カビゴン]]
+|Snorlax
+|Relaxo
+|Ronflex
+|lang="ko"|잠만보
+|lang="zh-hans"|卡比兽
+|lang="zh-hant"|卡比獸
+|-
+| 0144
+|[[フリーザー]]
+|Articuno
+|Arktos
+|Artikodin
+|lang="ko"|프리져
+|lang="zh-hans"|急冻鸟
+|lang="zh-hant"|急凍鳥
+|-
+| 0145
+|[[サンダー]]
+|Zapdos
+|Zapdos
+|Électhor
+|lang="ko"|썬더
+|lang="zh-hans"|闪电鸟
+|lang="zh-hant"|閃電鳥
+|-
+| 0146
+|[[ファイヤー]]
+|Moltres
+|Lavados
+|Sulfura
+|lang="ko"|파이어
+|lang="zh-hans"|火焰鸟
+|lang="zh-hant"|火焰鳥
+|-
+| 0147
+|[[ミニリュウ]]
+|Dratini
+|Dratini
+|Minidraco
+|lang="ko"|미뇽
+|lang="zh-hans"|迷你龙
+|lang="zh-hant"|迷你龍
+|-
+| 0148
+|[[ハクリュー]]
+|Dragonair
+|Dragonir
+|Draco
+|lang="ko"|신뇽
+|lang="zh-hans"|哈克龙
+|lang="zh-hant"|哈克龍
+|-
+| 0149
+|[[カイリュー]]
+|Dragonite
+|Dragoran
+|Dracolosse
+|lang="ko"|망나뇽
+|lang="zh-hans"|快龙
+|lang="zh-hant"|快龍
+|-
+| 0150
+|[[ミュウツー]]
+|Mewtwo
+|Mewtu
+|Mewtwo
+|lang="ko"|뮤츠
+|lang="zh-hans"|超梦
+|lang="zh-hant"|超夢
+|-
+| 0151
+|[[ミュウ]]
+|Mew
+|Mew
+|Mew
+|lang="ko"|뮤
+|lang="zh-hans"|梦幻
+|lang="zh-hant"|夢幻
+|}
+
+== 第二世代 ==
+{| {{graytable|c}}
+! style="background-color:#f8f6f0;" class=c|番号
+! style="background-color:#ffc1c1;"|日本語
+! style="background-color:#ff6fff;"|英語、イタリア語、スペイン語
+! style="background-color:#eff19c;"|ドイツ語 
+! style="background-color:#c5e4f5;"|フランス語
+! style="background-color:#9481d8;"|韓国語
+! style="background-color:#FFE0C4;"|中国語（簡）
+! style="background-color:#FFE0C4;"|中国語（繁）
+|-
+| 0152
+|[[チコリータ]]
+|Chikorita
+|Endivie
+|Germignon
+|lang="ko"|치코리타
+|lang="zh-hans"|菊草叶
+|lang="zh-hant"|菊草葉
+|-
+| 0153
+|[[ベイリーフ]]
+|Bayleef
+|Lorblatt
+|Macronium
+|lang="ko"|베이리프
+|lang="zh-hans"|月桂叶
+|lang="zh-hant"|月桂葉
+|-
+| 0154
+|[[メガニウム]]
+|Meganium
+|Meganie
+|Méganium
+|lang="ko"|메가니움
+|lang="zh-hans"|大竺葵
+|lang="zh-hant"|大竺葵
+|-
+| 0155
+|[[ヒノアラシ]]
+|Cyndaquil
+|Feurigel
+|Héricendre
+|lang="ko"|브케인
+|lang="zh-hans"|火球鼠
+|lang="zh-hant"|火球鼠
+|-
+| 0156
+|[[マグマラシ]]
+|Quilava
+|Igelavar
+|Feurisson
+|lang="ko"|마그케인
+|lang="zh-hans"|火岩鼠
+|lang="zh-hant"|火岩鼠
+|-
+| 0157
+|[[バクフーン]]
+|Typhlosion
+|Tornupto
+|Typhlosion
+|lang="ko"|블레이범
+|lang="zh-hans"|火暴兽
+|lang="zh-hant"|火爆獸
+|-
+| 0158
+|[[ワニノコ]]
+|Totodile
+|Karnimani
+|Kaiminus
+|lang="ko"|리아코
+|lang="zh-hans"|小锯鳄
+|lang="zh-hant"|小鋸鱷
+|-
+| 0159
+|[[アリゲイツ]]
+|Croconaw
+|Tyracroc
+|Crocrodil
+|lang="ko"|엘리게이
+|lang="zh-hans"|蓝鳄
+|lang="zh-hant"|藍鱷
+|-
+| 0160
+|[[オーダイル]]
+|Feraligatr
+|Impergator
+|Aligatueur
+|lang="ko"|장크로다일
+|lang="zh-hans"|大力鳄
+|lang="zh-hant"|大力鱷
+|-
+| 0161
+|[[オタチ]]
+|Sentret
+|Wiesor
+|Fouinette
+|lang="ko"|꼬리선
+|lang="zh-hans"|尾立
+|lang="zh-hant"|尾立
+|-
+| 0162
+|[[オオタチ]]
+|Furret
+|Wiesenior
+|Fouinar
+|lang="ko"|다꼬리
+|lang="zh-hans"|大尾立
+|lang="zh-hant"|大尾立
+|-
+| 0163
+|[[ホーホー]]
+|Hoothoot
+|Hoothoot
+|Hoothoot
+|lang="ko"|부우부
+|lang="zh-hans"|咕咕
+|lang="zh-hant"|咕咕
+|-
+| 0164
+|[[ヨルノズク]]
+|Noctowl
+|Noctuh
+|Noarfang
+|lang="ko"|야부엉
+|lang="zh-hans"|猫头夜鹰
+|lang="zh-hant"|貓頭夜鷹
+|-
+| 0165
+|[[レディバ]]
+|Ledyba
+|Ledyba
+|Coxy
+|lang="ko"|레디바
+|lang="zh-hans"|芭瓢虫
+|lang="zh-hant"|芭瓢蟲
+|-
+| 0166
+|[[レディアン]]
+|Ledian
+|Ledian
+|Coxyclaque
+|lang="ko"|레디안
+|lang="zh-hans"|安瓢虫
+|lang="zh-hant"|安瓢蟲
+|-
+| 0167
+|[[イトマル]]
+|Spinarak
+|Webarak
+|Mimigal
+|lang="ko"|페이검
+|lang="zh-hans"|圆丝蛛
+|lang="zh-hant"|圓絲蛛
+|-
+| 0168
+|[[アリアドス]]
+|Ariados
+|Ariados
+|Migalos
+|lang="ko"|아리아도스
+|lang="zh-hans"|阿利多斯
+|lang="zh-hant"|阿利多斯
+|-
+| 0169
+|[[クロバット]]
+|Crobat
+|Iksbat
+|Nostenfer
+|lang="ko"|크로뱃
+|lang="zh-hans"|叉字蝠
+|lang="zh-hant"|叉字蝠
+|-
+| 0170
+|[[チョンチー]]
+|Chinchou
+|Lampi
+|Loupio
+|lang="ko"|초라기
+|lang="zh-hans"|灯笼鱼
+|lang="zh-hant"|燈籠魚
+|-
+| 0171
+|[[ランターン]]
+|Lanturn
+|Lanturn
+|Lanturn
+|lang="ko"|랜턴
+|lang="zh-hans"|电灯怪
+|lang="zh-hant"|電燈怪
+|-
+| 0172
+|[[ピチュー]]
+|Pichu
+|Pichu
+|Pichu
+|lang="ko"|피츄
+|lang="zh-hans"|皮丘
+|lang="zh-hant"|皮丘
+|-
+| 0173
+|[[ピィ]]
+|Cleffa
+|Pii
+|Mélo
+|lang="ko"|삐
+|lang="zh-hans"|皮宝宝
+|lang="zh-hant"|皮寶寶
+|-
+| 0174
+|[[ププリン]]
+|Igglybuff
+|Fluffeluff
+|Toudoudou
+|lang="ko"|푸푸린
+|lang="zh-hans"|宝宝丁
+|lang="zh-hant"|寶寶丁
+|-
+| 0175
+|[[トゲピー]]
+|Togepi
+|Togepi
+|Togepi
+|lang="ko"|토게피
+|lang="zh-hans"|波克比
+|lang="zh-hant"|波克比
+|-
+| 0176
+|[[トゲチック]]
+|Togetic
+|Togetic
+|Togetic
+|lang="ko"|토게틱
+|lang="zh-hans"|波克基古
+|lang="zh-hant"|波克基古
+|-
+| 0177
+|[[ネイティ]]
+|Natu
+|Natu
+|Natu
+|lang="ko"|네이티
+|lang="zh-hans"|天然雀
+|lang="zh-hant"|天然雀
+|-
+| 0178
+|[[ネイティオ]]
+|Xatu
+|Xatu
+|Xatu
+|lang="ko"|네이티오
+|lang="zh-hans"|天然鸟
+|lang="zh-hant"|天然鳥
+|-
+| 0179
+|[[メリープ]]
+|Mareep
+|Voltilamm
+|Wattouat
+|lang="ko"|메리프
+|lang="zh-hans"|咩利羊
+|lang="zh-hant"|咩利羊
+|-
+| 0180
+|[[モココ]]
+|Flaaffy
+|Waaty
+|Lainergie
+|lang="ko"|보송송
+|lang="zh-hans"|茸茸羊
+|lang="zh-hant"|茸茸羊
+|-
+| 0181
+|[[デンリュウ]]
+|Ampharos
+|Ampharos
+|Pharamp
+|lang="ko"|전룡
+|lang="zh-hans"|电龙
+|lang="zh-hant"|電龍
+|-
+| 0182
+|[[キレイハナ]]
+|Bellossom
+|Blubella
+|Joliflor
+|lang="ko"|아르코
+|lang="zh-hans"|美丽花
+|lang="zh-hant"|美麗花
+|-
+| 0183
+|[[マリル]]
+|Marill
+|Marill
+|Marill
+|lang="ko"|마릴
+|lang="zh-hans"|玛力露
+|lang="zh-hant"|瑪力露
+|-
+| 0184
+|[[マリルリ]]
+|Azumarill
+|Azumarill
+|Azumarill
+|lang="ko"|마릴리
+|lang="zh-hans"|玛力露丽
+|lang="zh-hant"|瑪力露麗
+|-
+| 0185
+|[[ウソッキー]]
+|Sudowoodo
+|Mogelbaum
+|Simularbre
+|lang="ko"|꼬지모
+|lang="zh-hans"|树才怪
+|lang="zh-hant"|樹才怪
+|-
+| 0186
+|[[ニョロトノ]]
+|Politoed
+|Quaxo
+|Tarpaud
+|lang="ko"|왕구리
+|lang="zh-hans"|蚊香蛙皇
+|lang="zh-hant"|蚊香蛙皇
+|-
+| 0187
+|[[ハネッコ]]
+|Hoppip
+|Hoppspross
+|Granivol
+|lang="ko"|통통코
+|lang="zh-hans"|毽子草
+|lang="zh-hant"|毽子草
+|-
+| 0188
+|[[ポポッコ]]
+|Skiploom
+|Hubelupf
+|Floravol
+|lang="ko"|두코
+|lang="zh-hans"|毽子花
+|lang="zh-hant"|毽子花
+|-
+| 0189
+|[[ワタッコ]]
+|Jumpluff
+|Papungha
+|Cotovol
+|lang="ko"|솜솜코
+|lang="zh-hans"|毽子棉
+|lang="zh-hant"|毽子棉
+|-
+| 0190
+|[[エイパム]]
+|Aipom
+|Griffel
+|Capumain
+|lang="ko"|에이팜
+|lang="zh-hans"|长尾怪手
+|lang="zh-hant"|長尾怪手
+|-
+| 0191
+|[[ヒマナッツ]]
+|Sunkern
+|Sonnkern
+|Tournegrin
+|lang="ko"|해너츠
+|lang="zh-hans"|向日种子
+|lang="zh-hant"|向日種子
+|-
+| 0192
+|[[キマワリ]]
+|Sunflora
+|Sonnflora
+|Héliatronc
+|lang="ko"|해루미
+|lang="zh-hans"|向日花怪
+|lang="zh-hant"|向日花怪
+|-
+| 0193
+|[[ヤンヤンマ]]
+|Yanma
+|Yanma
+|Yanma
+|lang="ko"|왕자리
+|lang="zh-hans"|蜻蜻蜓
+|lang="zh-hant"|蜻蜻蜓
+|-
+| 0194
+|[[ウパー]]
+|Wooper
+|Felino
+|Axoloto
+|lang="ko"|우파
+|lang="zh-hans"|乌波
+|lang="zh-hant"|烏波
+|-
+| 0195
+|[[ヌオー]]
+|Quagsire
+|Morlord
+|Maraiste
+|lang="ko"|누오
+|lang="zh-hans"|沼王
+|lang="zh-hant"|沼王
+|-
+| 0196
+|[[エーフィ]]
+|Espeon
+|Psiana
+|Mentali
+|lang="ko"|에브이
+|lang="zh-hans"|太阳伊布
+|lang="zh-hant"|太陽伊布
+|-
+| 0197
+|[[ブラッキー]]
+|Umbreon
+|Nachtara
+|Noctali
+|lang="ko"|블래키
+|lang="zh-hans"|月亮伊布
+|lang="zh-hant"|月亮伊布
+|-
+| 0198
+|[[ヤミカラス]]
+|Murkrow
+|Kramurx
+|Cornèbre
+|lang="ko"|니로우
+|lang="zh-hans"|黑暗鸦
+|lang="zh-hant"|黑暗鴉
+|-
+| 0199
+|[[ヤドキング]]
+|Slowking
+|Laschoking
+|Roigada
+|lang="ko"|야도킹
+|lang="zh-hans"|呆呆王
+|lang="zh-hant"|呆呆王
+|-
+| 0200
+|[[ムウマ]]
+|Misdreavus
+|Traunfugil
+|Feuforêve
+|lang="ko"|무우마
+|lang="zh-hans"|梦妖
+|lang="zh-hant"|夢妖
+|-
+| 0201
+|[[アンノーン]]
+|Unown
+|Icognito
+|Zarbi
+|lang="ko"|안농
+|lang="zh-hans"|未知图腾
+|lang="zh-hant"|未知圖騰
+|-
+| 0202
+|[[ソーナンス]]
+|Wobbuffet
+|Woingenau
+|Qulbutoké
+|lang="ko"|마자용
+|lang="zh-hans"|果然翁
+|lang="zh-hant"|果然翁
+|-
+| 0203
+|[[キリンリキ]]
+|Girafarig
+|Girafarig
+|Girafarig
+|lang="ko"|키링키
+|lang="zh-hans"|麒麟奇
+|lang="zh-hant"|麒麟奇
+|-
+| 0204
+|[[クヌギダマ]]
+|Pineco
+|Tannza
+|Pomdepik
+|lang="ko"|피콘
+|lang="zh-hans"|榛果球
+|lang="zh-hant"|榛果球
+|-
+| 0205
+|[[フォレトス]]
+|Forretress
+|Forstellka
+|Foretress
+|lang="ko"|쏘콘
+|lang="zh-hans"|佛烈托斯
+|lang="zh-hant"|佛烈托斯
+|-
+| 0206
+|[[ノコッチ]]
+|Dunsparce
+|Dummisel
+|Insolourdo
+|lang="ko"|노고치
+|lang="zh-hans"|土龙弟弟
+|lang="zh-hant"|土龍弟弟
+|-
+| 0207
+|[[グライガー]]
+|Gligar
+|Skorgla
+|Scorplane
+|lang="ko"|글라이거
+|lang="zh-hans"|天蝎
+|lang="zh-hant"|天蠍
+|-
+| 0208
+|[[ハガネール]]
+|Steelix
+|Stahlos
+|Steelix
+|lang="ko"|강철톤
+|lang="zh-hans"|大钢蛇
+|lang="zh-hant"|大鋼蛇
+|-
+| 0209
+|[[ブルー]]
+|Snubbull
+|Snubbull
+|Snubbull
+|lang="ko"|블루
+|lang="zh-hans"|布鲁
+|lang="zh-hant"|布魯
+|-
+| 0210
+|[[グランブル]]
+|Granbull
+|Granbull
+|Granbull
+|lang="ko"|그랑블루
+|lang="zh-hans"|布鲁皇
+|lang="zh-hant"|布魯皇
+|-
+| 0211
+|[[ハリーセン]]
+|Qwilfish
+|Baldorfish
+|Qwilfish
+|lang="ko"|침바루
+|lang="zh-hans"|千针鱼
+|lang="zh-hant"|千針魚
+|-
+| 0212
+|[[ハッサム]]
+|Scizor
+|Scherox
+|Cizayox
+|lang="ko"|핫삼
+|lang="zh-hans"|巨钳螳螂
+|lang="zh-hant"|巨鉗螳螂
+|-
+| 0213
+|[[ツボツボ]]
+|Shuckle
+|Pottrott
+|Caratroc
+|lang="ko"|단단지
+|lang="zh-hans"|壶壶
+|lang="zh-hant"|壺壺
+|-
+| 0214
+|[[ヘラクロス]]
+|Heracross
+|Skaraborn
+|Scarhino
+|lang="ko"|헤라크로스
+|lang="zh-hans"|赫拉克罗斯
+|lang="zh-hant"|赫拉克羅斯
+|-
+| 0215
+|[[ニューラ]]
+|Sneasel
+|Sniebel
+|Farfuret
+|lang="ko"|포푸니
+|lang="zh-hans"|狃拉
+|lang="zh-hant"|狃拉
+|-
+| 0216
+|[[ヒメグマ]]
+|Teddiursa
+|Teddiursa
+|Teddiursa
+|lang="ko"|깜지곰
+|lang="zh-hans"|熊宝宝
+|lang="zh-hant"|熊寶寶
+|-
+| 0217
+|[[リングマ]]
+|Ursaring
+|Ursaring
+|Ursaring
+|lang="ko"|링곰
+|lang="zh-hans"|圈圈熊
+|lang="zh-hant"|圈圈熊
+|-
+| 0218
+|[[マグマッグ]]
+|Slugma
+|Schneckmag
+|Limagma
+|lang="ko"|마그마그
+|lang="zh-hans"|熔岩虫
+|lang="zh-hant"|熔岩蟲
+|-
+| 0219
+|[[マグカルゴ]]
+|Magcargo
+|Magcargo
+|Volcaropod
+|lang="ko"|마그카르고
+|lang="zh-hans"|熔岩蜗牛
+|lang="zh-hant"|熔岩蝸牛
+|-
+| 0220
+|[[ウリムー]]
+|Swinub
+|Quiekel
+|Marcacrin
+|lang="ko"|꾸꾸리
+|lang="zh-hans"|小山猪
+|lang="zh-hant"|小山豬
+|-
+| 0221
+|[[イノムー]]
+|Piloswine
+|Keifel
+|Cochignon
+|lang="ko"|메꾸리
+|lang="zh-hans"|长毛猪
+|lang="zh-hant"|長毛豬
+|-
+| 0222
+|[[サニーゴ]]
+|Corsola
+|Corasonn
+|Corayon
+|lang="ko"|코산호
+|lang="zh-hans"|太阳珊瑚
+|lang="zh-hant"|太陽珊瑚
+|-
+| 0223
+|[[テッポウオ]]
+|Remoraid
+|Remoraid
+|Rémoraid
+|lang="ko"|총어
+|lang="zh-hans"|铁炮鱼
+|lang="zh-hant"|鐵炮魚
+|-
+| 0224
+|[[オクタン]]
+|Octillery
+|Octillery
+|Octillery
+|lang="ko"|대포무노
+|lang="zh-hans"|章鱼桶
+|lang="zh-hant"|章魚桶
+|-
+| 0225
+|[[デリバード]]
+|Delibird
+|Botogel
+|Cadoizo
+|lang="ko"|딜리버드
+|lang="zh-hans"|信使鸟
+|lang="zh-hant"|信使鳥
+|-
+| 0226
+|[[マンタイン]]
+|Mantine
+|Mantax
+|Démanta
+|lang="ko"|만타인
+|lang="zh-hans"|巨翅飞鱼
+|lang="zh-hant"|巨翅飛魚
+|-
+| 0227
+|[[エアームド]]
+|Skarmory
+|Panzaeron
+|Airmure
+|lang="ko"|무장조
+|lang="zh-hans"|盔甲鸟
+|lang="zh-hant"|盔甲鳥
+|-
+| 0228
+|[[デルビル]]
+|Houndour
+|Hunduster
+|Malosse
+|lang="ko"|델빌
+|lang="zh-hans"|戴鲁比
+|lang="zh-hant"|戴魯比
+|-
+| 0229
+|[[ヘルガー]]
+|Houndoom
+|Hundemon
+|Démolosse
+|lang="ko"|헬가
+|lang="zh-hans"|黑鲁加
+|lang="zh-hant"|黑魯加
+|-
+| 0230
+|[[キングドラ]]
+|Kingdra
+|Seedraking
+|Hyporoi
+|lang="ko"|킹드라
+|lang="zh-hans"|刺龙王
+|lang="zh-hant"|刺龍王
+|-
+| 0231
+|[[ゴマゾウ]]
+|Phanpy
+|Phanpy
+|Phanpy
+|lang="ko"|코코리
+|lang="zh-hans"|小小象
+|lang="zh-hant"|小小象
+|-
+| 0232
+|[[ドンファン]]
+|Donphan
+|Donphan
+|Donphan
+|lang="ko"|코리갑
+|lang="zh-hans"|顿甲
+|lang="zh-hant"|頓甲
+|-
+| 0233
+|[[ポリゴン2]]
+|Porygon2
+|Porygon2
+|Porygon2
+|lang="ko"|폴리곤2
+|lang="zh-hans"|多边兽2型
+|lang="zh-hant"|多邊獸II
+|-
+| 0234
+|[[オドシシ]]
+|Stantler
+|Damhirplex
+|Cerfrousse
+|lang="ko"|노라키
+|lang="zh-hans"|惊角鹿
+|lang="zh-hant"|驚角鹿
+|-
+| 0235
+|[[ドーブル]]
+|Smeargle
+|Farbeagle
+|Queulorior
+|lang="ko"|루브도
+|lang="zh-hans"|图图犬
+|lang="zh-hant"|圖圖犬
+|-
+| 0236
+|[[バルキー]]
+|Tyrogue
+|Rabauz
+|Debugant
+|lang="ko"|배루키
+|lang="zh-hans"|无畏小子
+|lang="zh-hant"|無畏小子
+|-
+| 0237
+|[[カポエラー]]
+|Hitmontop
+|Kapoera
+|Kapoera
+|lang="ko"|카포에라
+|lang="zh-hans"|战舞郎
+|lang="zh-hant"|戰舞郎
+|-
+| 0238
+|[[ムチュール]]
+|Smoochum
+|Kussilla
+|Lippouti
+|lang="ko"|뽀뽀라
+|lang="zh-hans"|迷唇娃
+|lang="zh-hant"|迷唇娃
+|-
+| 0239
+|[[エレキッド]]
+|Elekid
+|Elekid
+|Élekid
+|lang="ko"|에레키드
+|lang="zh-hans"|电击怪
+|lang="zh-hant"|電擊怪
+|-
+| 0240
+|[[ブビィ]]
+|Magby
+|Magby
+|Magby
+|lang="ko"|마그비
+|lang="zh-hans"|鸭嘴宝宝
+|lang="zh-hant"|鴨嘴寶寶
+|-
+| 0241
+|[[ミルタンク]]
+|Miltank
+|Miltank
+|Écrémeuh
+|lang="ko"|밀탱크
+|lang="zh-hans"|大奶罐
+|lang="zh-hant"|大奶罐
+|-
+| 0242
+|[[ハピナス]]
+|Blissey
+|Heiteira
+|Leuphorie
+|lang="ko"|해피나스
+|lang="zh-hans"|幸福蛋
+|lang="zh-hant"|幸福蛋
+|-
+| 0243
+|[[ライコウ]]
+|Raikou
+|Raikou
+|Raikou
+|lang="ko"|라이코
+|lang="zh-hans"|雷公
+|lang="zh-hant"|雷公
+|-
+| 0244
+|[[エンテイ]]
+|Entei
+|Entei
+|Entei
+|lang="ko"|앤테이
+|lang="zh-hans"|炎帝
+|lang="zh-hant"|炎帝
+|-
+| 0245
+|[[スイクン]]
+|Suicune
+|Suicune
+|Suicune
+|lang="ko"|스이쿤
+|lang="zh-hans"|水君
+|lang="zh-hant"|水君
+|-
+| 0246
+|[[ヨーギラス]]
+|Larvitar
+|Larvitar
+|Embrylex
+|lang="ko"|애버라스
+|lang="zh-hans"|幼基拉斯
+|lang="zh-hant"|幼基拉斯
+|-
+| 0247
+|[[サナギラス]]
+|Pupitar
+|Pupitar
+|Ymphect
+|lang="ko"|데기라스
+|lang="zh-hans"|沙基拉斯
+|lang="zh-hant"|沙基拉斯
+|-
+| 0248
+|[[バンギラス]]
+|Tyranitar
+|Despotar
+|Tyranocif
+|lang="ko"|마기라스
+|lang="zh-hans"|班基拉斯
+|lang="zh-hant"|班基拉斯
+|-
+| 0249
+|[[ルギア]]
+|Lugia
+|Lugia
+|Lugia
+|lang="ko"|루기아
+|lang="zh-hans"|洛奇亚
+|lang="zh-hant"|洛奇亞
+|-
+| 0250
+|[[ホウオウ]]
+|Ho-Oh
+|Ho-Oh
+|Ho-Oh
+|lang="ko"|칠색조
+|lang="zh-hans"|凤王
+|lang="zh-hant"|鳳王
+|-
+| 0251
+|[[セレビィ]]
+|Celebi
+|Celebi
+|Celebi
+|lang="ko"|세레비
+|lang="zh-hans"|时拉比
+|lang="zh-hant"|時拉比
+|}
+
+== 第三世代 ==
+{| {{graytable|c}}
+! style="background-color:#f8f6f0;" class=c|番号
+! style="background-color:#ffc1c1;"|日本語
+! style="background-color:#ff6fff;"|英語、イタリア語、スペイン語
+! style="background-color:#eff19c;"|ドイツ語 
+! style="background-color:#c5e4f5;"|フランス語
+! style="background-color:#9481d8;"|韓国語
+! style="background-color:#FFE0C4;"|中国語（簡）
+! style="background-color:#FFE0C4;"|中国語（繁）
+|-
+| 0252
+|[[キモリ]]
+|Treecko
+|Geckarbor
+|Arcko
+|lang="ko"|나무지기
+|lang="zh-hans"|木守宫
+|lang="zh-hant"|木守宮
+|-
+| 0253
+|[[ジュプトル]]
+|Grovyle
+|Reptain
+|Massko
+|lang="ko"|나무돌이
+|lang="zh-hans"|森林蜥蜴
+|lang="zh-hant"|森林蜥蜴
+|-
+| 0254
+|[[ジュカイン]]
+|Sceptile
+|Gewaldro
+|Jungko
+|lang="ko"|나무킹
+|lang="zh-hans"|蜥蜴王
+|lang="zh-hant"|蜥蜴王
+|-
+| 0255
+|[[アチャモ]]
+|Torchic
+|Flemmli
+|Poussifeu
+|lang="ko"|아차모
+|lang="zh-hans"|火稚鸡
+|lang="zh-hant"|火稚雞
+|-
+| 0256
+|[[ワカシャモ]]
+|Combusken
+|Jungglut
+|Galifeu
+|lang="ko"|영치코
+|lang="zh-hans"|力壮鸡
+|lang="zh-hant"|力壯雞
+|-
+| 0257
+|[[バシャーモ]]
+|Blaziken
+|Lohgock
+|Braségali
+|lang="ko"|번치코
+|lang="zh-hans"|火焰鸡
+|lang="zh-hant"|火焰雞
+|-
+| 0258
+|[[ミズゴロウ]]
+|Mudkip
+|Hydropi
+|Gobou
+|lang="ko"|물짱이
+|lang="zh-hans"|水跃鱼
+|lang="zh-hant"|水躍魚
+|-
+| 0259
+|[[ヌマクロー]]
+|Marshtomp
+|Moorabbel
+|Flobio
+|lang="ko"|늪짱이
+|lang="zh-hans"|沼跃鱼
+|lang="zh-hant"|沼躍魚
+|-
+| 0260
+|[[ラグラージ]]
+|Swampert
+|Sumpex
+|Laggron
+|lang="ko"|대짱이
+|lang="zh-hans"|巨沼怪
+|lang="zh-hant"|巨沼怪
+|-
+| 0261
+|[[ポチエナ]]
+|Poochyena
+|Fiffyen
+|Medhyèna
+|lang="ko"|포챠나
+|lang="zh-hans"|土狼犬
+|lang="zh-hant"|土狼犬
+|-
+| 0262
+|[[グラエナ]]
+|Mightyena
+|Magnayen
+|Grahyèna
+|lang="ko"|그라에나
+|lang="zh-hans"|大狼犬
+|lang="zh-hant"|大狼犬
+|-
+| 0263
+|[[ジグザグマ]]
+|Zigzagoon
+|Zigzachs
+|Zigzaton
+|lang="ko"|지그제구리
+|lang="zh-hans"|蛇纹熊
+|lang="zh-hant"|蛇紋熊
+|-
+| 0264
+|[[マッスグマ]]
+|Linoone
+|Geradaks
+|Linéon
+|lang="ko"|직구리
+|lang="zh-hans"|直冲熊
+|lang="zh-hant"|直衝熊
+|-
+| 0265
+|[[ケムッソ]]
+|Wurmple
+|Waumpel
+|Chenipotte
+|lang="ko"|개무소
+|lang="zh-hans"|刺尾虫
+|lang="zh-hant"|刺尾蟲
+|-
+| 0266
+|[[カラサリス]]
+|Silcoon
+|Schaloko
+|Armulys
+|lang="ko"|실쿤
+|lang="zh-hans"|甲壳茧
+|lang="zh-hant"|甲殼繭
+|-
+| 0267
+|[[アゲハント]]
+|Beautifly
+|Papinella
+|Charmillon
+|lang="ko"|뷰티플라이
+|lang="zh-hans"|狩猎凤蝶
+|lang="zh-hant"|狩獵鳳蝶
+|-
+| 0268
+|[[マユルド]]
+|Cascoon
+|Panekon
+|Blindalys
+|lang="ko"|카스쿤
+|lang="zh-hans"|盾甲茧
+|lang="zh-hant"|盾甲繭
+|-
+| 0269
+|[[ドクケイル]]
+|Dustox
+|Pudox
+|Papinox
+|lang="ko"|독케일
+|lang="zh-hans"|毒粉蛾
+|lang="zh-hant"|毒粉蛾
+|-
+| 0270
+|[[ハスボー]]
+|Lotad
+|Loturzel
+|Nénupiot
+|lang="ko"|연꽃몬
+|lang="zh-hans"|莲叶童子
+|lang="zh-hant"|蓮葉童子
+|-
+| 0271
+|[[ハスブレロ]]
+|Lombre
+|Lombrero
+|Lombre
+|lang="ko"|로토스
+|lang="zh-hans"|莲帽小童
+|lang="zh-hant"|蓮帽小童
+|-
+| 0272
+|[[ルンパッパ]]
+|Ludicolo
+|Kappalores
+|Ludicolo
+|lang="ko"|로파파
+|lang="zh-hans"|乐天河童
+|lang="zh-hant"|樂天河童
+|-
+| 0273
+|[[タネボー]]
+|Seedot
+|Samurzel
+|Grainipiot
+|lang="ko"|도토링
+|lang="zh-hans"|橡实果
+|lang="zh-hant"|橡實果
+|-
+| 0274
+|[[コノハナ]]
+|Nuzleaf
+|Blanas
+|Pifeuil
+|lang="ko"|잎새코
+|lang="zh-hans"|长鼻叶
+|lang="zh-hant"|長鼻葉
+|-
+| 0275
+|[[ダーテング]]
+|Shiftry
+|Tengulist
+|Tengalice
+|lang="ko"|다탱구
+|lang="zh-hans"|狡猾天狗
+|lang="zh-hant"|狡猾天狗
+|-
+| 0276
+|[[スバメ]]
+|Taillow
+|Schwalbini
+|Nirondelle
+|lang="ko"|테일로
+|lang="zh-hans"|傲骨燕
+|lang="zh-hant"|傲骨燕
+|-
+| 0277
+|[[オオスバメ]]
+|Swellow
+|Schwalboss
+|Hélédelle
+|lang="ko"|스왈로
+|lang="zh-hans"|大王燕
+|lang="zh-hant"|大王燕
+|-
+| 0278
+|[[キャモメ]]
+|Wingull
+|Wingull
+|Goélise
+|lang="ko"|갈모매
+|lang="zh-hans"|长翅鸥
+|lang="zh-hant"|長翅鷗
+|-
+| 0279
+|[[ペリッパー]]
+|Pelipper
+|Pelipper
+|Bekipan
+|lang="ko"|패리퍼
+|lang="zh-hans"|大嘴鸥
+|lang="zh-hant"|大嘴鷗
+|-
+| 0280
+|[[ラルトス]]
+|Ralts
+|Trasla
+|Tarsal
+|lang="ko"|랄토스
+|lang="zh-hans"|拉鲁拉丝
+|lang="zh-hant"|拉魯拉絲
+|-
+| 0281
+|[[キルリア]]
+|Kirlia
+|Kirlia
+|Kirlia
+|lang="ko"|킬리아
+|lang="zh-hans"|奇鲁莉安
+|lang="zh-hant"|奇魯莉安
+|-
+| 0282
+|[[サーナイト]]
+|Gardevoir
+|Guardevoir
+|Gardevoir
+|lang="ko"|가디안
+|lang="zh-hans"|沙奈朵
+|lang="zh-hant"|沙奈朵
+|-
+| 0283
+|[[アメタマ]]
+|Surskit
+|Gehweiher
+|Arakdo
+|lang="ko"|비구술
+|lang="zh-hans"|溜溜糖球
+|lang="zh-hant"|溜溜糖球
+|-
+| 0284
+|[[アメモース]]
+|Masquerain
+|Maskeregen
+|Maskadra
+|lang="ko"|비나방
+|lang="zh-hans"|雨翅蛾
+|lang="zh-hant"|雨翅蛾
+|-
+| 0285
+|[[キノココ]]
+|Shroomish
+|Knilz
+|Balignon
+|lang="ko"|버섯꼬
+|lang="zh-hans"|蘑蘑菇
+|lang="zh-hant"|蘑蘑菇
+|-
+| 0286
+|[[キノガッサ]]
+|Breloom
+|Kapilz
+|Chapignon
+|lang="ko"|버섯모
+|lang="zh-hans"|斗笠菇
+|lang="zh-hant"|斗笠菇
+|-
+| 0287
+|[[ナマケロ]]
+|Slakoth
+|Bummelz
+|Parecool
+|lang="ko"|게을로
+|lang="zh-hans"|懒人獭
+|lang="zh-hant"|懶人獺
+|-
+| 0288
+|[[ヤルキモノ]]
+|Vigoroth
+|Muntier
+|Vigoroth
+|lang="ko"|발바로
+|lang="zh-hans"|过动猿
+|lang="zh-hant"|過動猿
+|-
+| 0289
+|[[ケッキング]]
+|Slaking
+|Letarking
+|Monaflèmit
+|lang="ko"|게을킹
+|lang="zh-hans"|请假王
+|lang="zh-hant"|請假王
+|-
+| 0290
+|[[ツチニン]]
+|Nincada
+|Nincada
+|Ningale
+|lang="ko"|토중몬
+|lang="zh-hans"|土居忍士
+|lang="zh-hant"|土居忍士
+|-
+| 0291
+|[[テッカニン]]
+|Ninjask
+|Ninjask
+|Ninjask
+|lang="ko"|아이스크
+|lang="zh-hans"|铁面忍者
+|lang="zh-hant"|鐵面忍者
+|-
+| 0292
+|[[ヌケニン]]
+|Shedinja
+|Ninjatom
+|Munja
+|lang="ko"|껍질몬
+|lang="zh-hans"|脱壳忍者
+|lang="zh-hant"|脫殼忍者
+|-
+| 0293
+|[[ゴニョニョ]]
+|Whismur
+|Flurmel
+|Chuchmur
+|lang="ko"|소곤룡
+|lang="zh-hans"|咕妞妞
+|lang="zh-hant"|咕妞妞
+|-
+| 0294
+|[[ドゴーム]]
+|Loudred
+|Krakeelo
+|Ramboum
+|lang="ko"|노공룡
+|lang="zh-hans"|吼爆弹
+|lang="zh-hant"|吼爆彈
+|-
+| 0295
+|[[バクオング]]
+|Exploud
+|Krawumms
+|Brouhabam
+|lang="ko"|폭음룡
+|lang="zh-hans"|爆音怪
+|lang="zh-hant"|爆音怪
+|-
+| 0296
+|[[マクノシタ]]
+|Makuhita
+|Makuhita
+|Makuhita
+|lang="ko"|마크탕
+|lang="zh-hans"|幕下力士
+|lang="zh-hant"|幕下力士
+|-
+| 0297
+|[[ハリテヤマ]]
+|Hariyama
+|Hariyama
+|Hariyama
+|lang="ko"|하리뭉
+|lang="zh-hans"|铁掌力士
+|lang="zh-hant"|鐵掌力士
+|-
+| 0298
+|[[ルリリ]]
+|Azurill
+|Azurill
+|Azurill
+|lang="ko"|루리리
+|lang="zh-hans"|露力丽
+|lang="zh-hant"|露力麗
+|-
+| 0299
+|[[ノズパス]]
+|Nosepass
+|Nasgnet
+|Tarinor
+|lang="ko"|코코파스
+|lang="zh-hans"|朝北鼻
+|lang="zh-hant"|朝北鼻
+|-
+| 0300
+|[[エネコ]]
+|Skitty
+|Eneco
+|Skitty
+|lang="ko"|에나비
+|lang="zh-hans"|向尾喵
+|lang="zh-hant"|向尾喵
+|-
+| 0301
+|[[エネコロロ]]
+|Delcatty
+|Enekoro
+|Delcatty
+|lang="ko"|델케티
+|lang="zh-hans"|优雅猫
+|lang="zh-hant"|優雅貓
+|-
+| 0302
+|[[ヤミラミ]]
+|Sableye
+|Zobiris
+|Ténéfix
+|lang="ko"|깜까미
+|lang="zh-hans"|勾魂眼
+|lang="zh-hant"|勾魂眼
+|-
+| 0303
+|[[クチート]]
+|Mawile
+|Flunkifer
+|Mysdibule
+|lang="ko"|입치트
+|lang="zh-hans"|大嘴娃
+|lang="zh-hant"|大嘴娃
+|-
+| 0304
+|[[ココドラ]]
+|Aron
+|Stollunior
+|Galekid
+|lang="ko"|가보리
+|lang="zh-hans"|可可多拉
+|lang="zh-hant"|可可多拉
+|-
+| 0305
+|[[コドラ]]
+|Lairon
+|Stollrak
+|Galegon
+|lang="ko"|갱도라
+|lang="zh-hans"|可多拉
+|lang="zh-hant"|可多拉
+|-
+| 0306
+|[[ボスゴドラ]]
+|Aggron
+|Stolloss
+|Galeking
+|lang="ko"|보스로라
+|lang="zh-hans"|波士可多拉
+|lang="zh-hant"|波士可多拉
+|-
+| 0307
+|[[アサナン]]
+|Meditite
+|Meditie
+|Méditikka
+|lang="ko"|요가랑
+|lang="zh-hans"|玛沙那
+|lang="zh-hant"|瑪沙那
+|-
+| 0308
+|[[チャーレム]]
+|Medicham
+|Meditalis
+|Charmina
+|lang="ko"|요가램
+|lang="zh-hans"|恰雷姆
+|lang="zh-hant"|恰雷姆
+|-
+| 0309
+|[[ラクライ]]
+|Electrike
+|Frizelbliz
+|Dynavolt
+|lang="ko"|썬더라이
+|lang="zh-hans"|落雷兽
+|lang="zh-hant"|落雷獸
+|-
+| 0310
+|[[ライボルト]]
+|Manectric
+|Voltenso
+|Élecsprint
+|lang="ko"|썬더볼트
+|lang="zh-hans"|雷电兽
+|lang="zh-hant"|雷電獸
+|-
+| 0311
+|[[プラスル]]
+|Plusle
+|Plusle
+|Posipi
+|lang="ko"|플러시
+|lang="zh-hans"|正电拍拍
+|lang="zh-hant"|正電拍拍
+|-
+| 0312
+|[[マイナン]]
+|Minun
+|Minun
+|Négapi
+|lang="ko"|마이농
+|lang="zh-hans"|负电拍拍
+|lang="zh-hant"|負電拍拍
+|-
+| 0313
+|[[バルビート]]
+|Volbeat
+|Volbeat
+|Muciole
+|lang="ko"|볼비트
+|lang="zh-hans"|电萤虫
+|lang="zh-hant"|電螢蟲
+|-
+| 0314
+|[[イルミーゼ]]
+|Illumise
+|Illumise
+|Lumivole
+|lang="ko"|네오비트
+|lang="zh-hans"|甜甜萤
+|lang="zh-hant"|甜甜螢
+|-
+| 0315
+|[[ロゼリア]]
+|Roselia
+|Roselia
+|Rosélia
+|lang="ko"|로젤리아
+|lang="zh-hans"|毒蔷薇
+|lang="zh-hant"|毒薔薇
+|-
+| 0316
+|[[ゴクリン]]
+|Gulpin
+|Schluppuck
+|Gloupti
+|lang="ko"|꼴깍몬
+|lang="zh-hans"|溶食兽
+|lang="zh-hant"|溶食獸
+|-
+| 0317
+|[[マルノーム]]
+|Swalot
+|Schlukwech
+|Avaltout
+|lang="ko"|꿀꺽몬
+|lang="zh-hans"|吞食兽
+|lang="zh-hant"|吞食獸
+|-
+| 0318
+|[[キバニア]]
+|Carvanha
+|Kanivanha
+|Carvanha
+|lang="ko"|샤프니아
+|lang="zh-hans"|利牙鱼
+|lang="zh-hant"|利牙魚
+|-
+| 0319
+|[[サメハダー]]
+|Sharpedo
+|Tohaido
+|Sharpedo
+|lang="ko"|샤크니아
+|lang="zh-hans"|巨牙鲨
+|lang="zh-hant"|巨牙鯊
+|-
+| 0320
+|[[ホエルコ]]
+|Wailmer
+|Wailmer
+|Wailmer
+|lang="ko"|고래왕자
+|lang="zh-hans"|吼吼鲸
+|lang="zh-hant"|吼吼鯨
+|-
+| 0321
+|[[ホエルオー]]
+|Wailord
+|Wailord
+|Wailord
+|lang="ko"|고래왕
+|lang="zh-hans"|吼鲸王
+|lang="zh-hant"|吼鯨王
+|-
+| 0322
+|[[ドンメル]]
+|Numel
+|Camaub
+|Chamallot
+|lang="ko"|둔타
+|lang="zh-hans"|呆火驼
+|lang="zh-hant"|呆火駝
+|-
+| 0323
+|[[バクーダ]]
+|Camerupt
+|Camerupt
+|Camérupt
+|lang="ko"|폭타
+|lang="zh-hans"|喷火驼
+|lang="zh-hant"|噴火駝
+|-
+| 0324
+|[[コータス]]
+|Torkoal
+|Qurtel
+|Chartor
+|lang="ko"|코터스
+|lang="zh-hans"|煤炭龟
+|lang="zh-hant"|煤炭龜
+|-
+| 0325
+|[[バネブー]]
+|Spoink
+|Spoink
+|Spoink
+|lang="ko"|피그점프
+|lang="zh-hans"|跳跳猪
+|lang="zh-hant"|跳跳豬
+|-
+| 0326
+|[[ブーピッグ]]
+|Grumpig
+|Groink
+|Groret
+|lang="ko"|피그킹
+|lang="zh-hans"|噗噗猪
+|lang="zh-hant"|噗噗豬
+|-
+| 0327
+|[[パッチール]]
+|Spinda
+|Pandir
+|Spinda
+|lang="ko"|얼루기
+|lang="zh-hans"|晃晃斑
+|lang="zh-hant"|晃晃斑
+|-
+| 0328
+|[[ナックラー]]
+|Trapinch
+|Knacklion
+|Kraknoix
+|lang="ko"|톱치
+|lang="zh-hans"|大颚蚁
+|lang="zh-hant"|大顎蟻
+|-
+| 0329
+|[[ビブラーバ]]
+|Vibrava
+|Vibrava
+|Vibraninf
+|lang="ko"|비브라바
+|lang="zh-hans"|超音波幼虫
+|lang="zh-hant"|超音波幼蟲
+|-
+| 0330
+|[[フライゴン]]
+|Flygon
+|Libelldra
+|Libégon
+|lang="ko"|플라이곤
+|lang="zh-hans"|沙漠蜻蜓
+|lang="zh-hant"|沙漠蜻蜓
+|-
+| 0331
+|[[サボネア]]
+|Cacnea
+|Tuska
+|Cacnea
+|lang="ko"|선인왕
+|lang="zh-hans"|刺球仙人掌
+|lang="zh-hant"|刺球仙人掌
+|-
+| 0332
+|[[ノクタス]]
+|Cacturne
+|Noktuska
+|Cacturne
+|lang="ko"|밤선인
+|lang="zh-hans"|梦歌仙人掌
+|lang="zh-hant"|夢歌仙人掌
+|-
+| 0333
+|[[チルット]]
+|Swablu
+|Wablu
+|Tylton
+|lang="ko"|파비코
+|lang="zh-hans"|青绵鸟
+|lang="zh-hant"|青綿鳥
+|-
+| 0334
+|[[チルタリス]]
+|Altaria
+|Altaria
+|Altaria
+|lang="ko"|파비코리
+|lang="zh-hans"|七夕青鸟
+|lang="zh-hant"|七夕青鳥
+|-
+| 0335
+|[[ザングース]]
+|Zangoose
+|Sengo
+|Mangriff
+|lang="ko"|쟝고
+|lang="zh-hans"|猫鼬斩
+|lang="zh-hant"|貓鼬斬
+|-
+| 0336
+|[[ハブネーク]]
+|Seviper
+|Vipitis
+|Séviper
+|lang="ko"|세비퍼
+|lang="zh-hans"|饭匙蛇
+|lang="zh-hant"|飯匙蛇
+|-
+| 0337
+|[[ルナトーン]]
+|Lunatone
+|Lunastein
+|Séléroc
+|lang="ko"|루나톤
+|lang="zh-hans"|月石
+|lang="zh-hant"|月石
+|-
+| 0338
+|[[ソルロック]]
+|Solrock
+|Sonnfel
+|Solaroc
+|lang="ko"|솔록
+|lang="zh-hans"|太阳岩
+|lang="zh-hant"|太陽岩
+|-
+| 0339
+|[[ドジョッチ]]
+|Barboach
+|Schmerbe
+|Barloche
+|lang="ko"|미꾸리
+|lang="zh-hans"|泥泥鳅
+|lang="zh-hant"|泥泥鰍
+|-
+| 0340
+|[[ナマズン]]
+|Whiscash
+|Welsar
+|Barbicha
+|lang="ko"|메깅
+|lang="zh-hans"|鲶鱼王
+|lang="zh-hant"|鯰魚王
+|-
+| 0341
+|[[ヘイガニ]]
+|Corphish
+|Krebscorps
+|Écrapince
+|lang="ko"|가재군
+|lang="zh-hans"|龙虾小兵
+|lang="zh-hant"|龍蝦小兵
+|-
+| 0342
+|[[シザリガー]]
+|Crawdaunt
+|Krebutack
+|Colhomard
+|lang="ko"|가재장군
+|lang="zh-hans"|铁螯龙虾
+|lang="zh-hant"|鐵螯龍蝦
+|-
+| 0343
+|[[ヤジロン]]
+|Baltoy
+|Puppance
+|Balbuto
+|lang="ko"|오뚝군
+|lang="zh-hans"|天秤偶
+|lang="zh-hant"|天秤偶
+|-
+| 0344
+|[[ネンドール]]
+|Claydol
+|Lepumentas
+|Kaorine
+|lang="ko"|점토도리
+|lang="zh-hans"|念力土偶
+|lang="zh-hant"|念力土偶
+|-
+| 0345
+|[[リリーラ]]
+|Lileep
+|Liliep
+|Lilia
+|lang="ko"|릴링
+|lang="zh-hans"|触手百合
+|lang="zh-hant"|觸手百合
+|-
+| 0346
+|[[ユレイドル]]
+|Cradily
+|Wielie
+|Vacilys
+|lang="ko"|릴리요
+|lang="zh-hans"|摇篮百合
+|lang="zh-hant"|搖籃百合
+|-
+| 0347
+|[[アノプス]]
+|Anorith
+|Anorith
+|Anorith
+|lang="ko"|아노딥스
+|lang="zh-hans"|太古羽虫
+|lang="zh-hant"|太古羽蟲
+|-
+| 0348
+|[[アーマルド]]
+|Armaldo
+|Armaldo
+|Armaldo
+|lang="ko"|아말도
+|lang="zh-hans"|太古盔甲
+|lang="zh-hant"|太古盔甲
+|-
+| 0349
+|[[ヒンバス]]
+|Feebas
+|Barschwa
+|Barpau
+|lang="ko"|빈티나
+|lang="zh-hans"|丑丑鱼
+|lang="zh-hant"|醜醜魚
+|-
+| 0350
+|[[ミロカロス]]
+|Milotic
+|Milotic
+|Milobellus
+|lang="ko"|밀로틱
+|lang="zh-hans"|美纳斯
+|lang="zh-hant"|美納斯
+|-
+| 0351
+|[[ポワルン]]
+|Castform
+|Formeo
+|Morphéo
+|lang="ko"|캐스퐁
+|lang="zh-hans"|飘浮泡泡
+|lang="zh-hant"|飄浮泡泡
+|-
+| 0352
+|[[カクレオン]]
+|Kecleon
+|Kecleon
+|Kecleon
+|lang="ko"|켈리몬
+|lang="zh-hans"|变隐龙
+|lang="zh-hant"|變隱龍
+|-
+| 0353
+|[[カゲボウズ]]
+|Shuppet
+|Shuppet
+|Polichombr
+|lang="ko"|어둠대신
+|lang="zh-hans"|怨影娃娃
+|lang="zh-hant"|怨影娃娃
+|-
+| 0354
+|[[ジュペッタ]]
+|Banette
+|Banette
+|Branette
+|lang="ko"|다크펫
+|lang="zh-hans"|诅咒娃娃
+|lang="zh-hant"|詛咒娃娃
+|-
+| 0355
+|[[ヨマワル]]
+|Duskull
+|Zwirrlicht
+|Skelénox
+|lang="ko"|해골몽
+|lang="zh-hans"|夜巡灵
+|lang="zh-hant"|夜巡靈
+|-
+| 0356
+|[[サマヨール]]
+|Dusclops
+|Zwirrklop
+|Téraclope
+|lang="ko"|미라몽
+|lang="zh-hans"|彷徨夜灵
+|lang="zh-hant"|彷徨夜靈
+|-
+| 0357
+|[[トロピウス]]
+|Tropius
+|Tropius
+|Tropius
+|lang="ko"|트로피우스
+|lang="zh-hans"|热带龙
+|lang="zh-hant"|熱帶龍
+|-
+| 0358
+|[[チリーン]]
+|Chimecho
+|Palimpalim
+|Éoko
+|lang="ko"|치렁
+|lang="zh-hans"|风铃铃
+|lang="zh-hant"|風鈴鈴
+|-
+| 0359
+|[[アブソル]]
+|Absol
+|Absol
+|Absol
+|lang="ko"|앱솔
+|lang="zh-hans"|阿勃梭鲁
+|lang="zh-hant"|阿勃梭魯
+|-
+| 0360
+|[[ソーナノ]]
+|Wynaut
+|Isso
+|Okéoké
+|lang="ko"|마자
+|lang="zh-hans"|小果然
+|lang="zh-hant"|小果然
+|-
+| 0361
+|[[ユキワラシ]]
+|Snorunt
+|Schneppke
+|Stalgamin
+|lang="ko"|눈꼬마
+|lang="zh-hans"|雪童子
+|lang="zh-hant"|雪童子
+|-
+| 0362
+|[[オニゴーリ]]
+|Glalie
+|Firnontor
+|Oniglali
+|lang="ko"|얼음귀신
+|lang="zh-hans"|冰鬼护
+|lang="zh-hant"|冰鬼護
+|-
+| 0363
+|[[タマザラシ]]
+|Spheal
+|Seemops
+|Obalie
+|lang="ko"|대굴레오
+|lang="zh-hans"|海豹球
+|lang="zh-hant"|海豹球
+|-
+| 0364
+|[[トドグラー]]
+|Sealeo
+|Seejong
+|Phogleur
+|lang="ko"|씨레오
+|lang="zh-hans"|海魔狮
+|lang="zh-hant"|海魔獅
+|-
+| 0365
+|[[トドゼルガ]]
+|Walrein
+|Walraisa
+|Kaimorse
+|lang="ko"|씨카이저
+|lang="zh-hans"|帝牙海狮
+|lang="zh-hant"|帝牙海獅
+|-
+| 0366
+|[[パールル]]
+|Clamperl
+|Perlu
+|Coquiperl
+|lang="ko"|진주몽
+|lang="zh-hans"|珍珠贝
+|lang="zh-hant"|珍珠貝
+|-
+| 0367
+|[[ハンテール]]
+|Huntail
+|Aalabyss
+|Serpang
+|lang="ko"|헌테일
+|lang="zh-hans"|猎斑鱼
+|lang="zh-hant"|獵斑魚
+|-
+| 0368
+|[[サクラビス]]
+|Gorebyss
+|Saganabyss
+|Rosabyss
+|lang="ko"|분홍장이
+|lang="zh-hans"|樱花鱼
+|lang="zh-hant"|櫻花魚
+|-
+| 0369
+|[[ジーランス]]
+|Relicanth
+|Relicanth
+|Relicanth
+|lang="ko"|시라칸
+|lang="zh-hans"|古空棘鱼
+|lang="zh-hant"|古空棘魚
+|-
+| 0370
+|[[ラブカス]]
+|Luvdisc
+|Liebiskus
+|Lovdisc
+|lang="ko"|사랑동이
+|lang="zh-hans"|爱心鱼
+|lang="zh-hant"|愛心魚
+|-
+| 0371
+|[[タツベイ]]
+|Bagon
+|Kindwurm
+|Draby
+|lang="ko"|아공이
+|lang="zh-hans"|宝贝龙
+|lang="zh-hant"|寶貝龍
+|-
+| 0372
+|[[コモルー]]
+|Shelgon
+|Draschel
+|Drackhaus
+|lang="ko"|쉘곤
+|lang="zh-hans"|甲壳龙
+|lang="zh-hant"|甲殼龍
+|-
+| 0373
+|[[ボーマンダ]]
+|Salamence
+|Brutalanda
+|Drattak
+|lang="ko"|보만다
+|lang="zh-hans"|暴飞龙
+|lang="zh-hant"|暴飛龍
+|-
+| 0374
+|[[ダンバル]]
+|Beldum
+|Tanhel
+|Terhal
+|lang="ko"|메탕
+|lang="zh-hans"|铁哑铃
+|lang="zh-hant"|鐵啞鈴
+|-
+| 0375
+|[[メタング]]
+|Metang
+|Metang
+|Métang
+|lang="ko"|메탕구
+|lang="zh-hans"|金属怪
+|lang="zh-hant"|金屬怪
+|-
+| 0376
+|[[メタグロス]]
+|Metagross
+|Metagross
+|Métalosse
+|lang="ko"|메타그로스
+|lang="zh-hans"|巨金怪
+|lang="zh-hant"|巨金怪
+|-
+| 0377
+|[[レジロック]]
+|Regirock
+|Regirock
+|Regirock
+|lang="ko"|레지락
+|lang="zh-hans"|雷吉洛克
+|lang="zh-hant"|雷吉洛克
+|-
+| 0378
+|[[レジアイス]]
+|Regice
+|Regice
+|Regice
+|lang="ko"|레지아이스
+|lang="zh-hans"|雷吉艾斯
+|lang="zh-hant"|雷吉艾斯
+|-
+| 0379
+|[[レジスチル]]
+|Registeel
+|Registeel
+|Registeel
+|lang="ko"|레지스틸
+|lang="zh-hans"|雷吉斯奇鲁
+|lang="zh-hant"|雷吉斯奇魯
+|-
+| 0380
+|[[ラティアス]]
+|Latias
+|Latias
+|Latias
+|lang="ko"|라티아스
+|lang="zh-hans"|拉帝亚斯
+|lang="zh-hant"|拉帝亞斯
+|-
+| 0381
+|[[ラティオス]]
+|Latios
+|Latios
+|Latios
+|lang="ko"|라티오스
+|lang="zh-hans"|拉帝欧斯
+|lang="zh-hant"|拉帝歐斯
+|-
+| 0382
+|[[カイオーガ]]
+|Kyogre
+|Kyogre
+|Kyogre
+|lang="ko"|가이오가
+|lang="zh-hans"|盖欧卡
+|lang="zh-hant"|蓋歐卡
+|-
+| 0383
+|[[グラードン]]
+|Groudon
+|Groudon
+|Groudon
+|lang="ko"|그란돈
+|lang="zh-hans"|固拉多
+|lang="zh-hant"|固拉多
+|-
+| 0384
+|[[レックウザ]]
+|Rayquaza
+|Rayquaza
+|Rayquaza
+|lang="ko"|레쿠쟈
+|lang="zh-hans"|烈空坐
+|lang="zh-hant"|烈空坐
+|-
+| 0385
+|[[ジラーチ]]
+|Jirachi
+|Jirachi
+|Jirachi
+|lang="ko"|지라치
+|lang="zh-hans"|基拉祈
+|lang="zh-hant"|基拉祈
+|-
+| 0386
+|[[デオキシス]]
+|Deoxys
+|Deoxys
+|Deoxys
+|lang="ko"|테오키스
+|lang="zh-hans"|代欧奇希斯
+|lang="zh-hant"|代歐奇希斯
+|}
+
+== 第四世代 ==
+{| {{graytable|c}}
+! style="background-color:#f8f6f0;" class=c|番号
+! style="background-color:#ffc1c1;"|日本語
+! style="background-color:#ff6fff;"|英語、イタリア語、スペイン語
+! style="background-color:#eff19c;"|ドイツ語 
+! style="background-color:#c5e4f5;"|フランス語
+! style="background-color:#9481d8;"|韓国語
+! style="background-color:#FFE0C4;"|中国語（簡）
+! style="background-color:#FFE0C4;"|中国語（繁）
+|-
+| 0387
+|[[ナエトル]]
+|Turtwig
+|Chelast
+|Tortipouss
+|lang="ko"|모부기
+|lang="zh-hans"|草苗龟
+|lang="zh-hant"|草苗龜
+|-
+| 0388
+|[[ハヤシガメ]]
+|Grotle
+|Chelcarain
+|Boskara
+|lang="ko"|수풀부기
+|lang="zh-hans"|树林龟
+|lang="zh-hant"|樹林龜
+|-
+| 0389
+|[[ドダイトス]]
+|Torterra
+|Chelterrar
+|Torterra
+|lang="ko"|토대부기
+|lang="zh-hans"|土台龟
+|lang="zh-hant"|土台龜
+|-
+| 0390
+|[[ヒコザル]]
+|Chimchar
+|Panflam
+|Ouisticram
+|lang="ko"|불꽃숭이
+|lang="zh-hans"|小火焰猴
+|lang="zh-hant"|小火焰猴
+|-
+| 0391
+|[[モウカザル]]
+|Monferno
+|Panpyro
+|Chimpenfeu
+|lang="ko"|파이숭이
+|lang="zh-hans"|猛火猴
+|lang="zh-hant"|猛火猴
+|-
+| 0392
+|[[ゴウカザル]]
+|Infernape
+|Panferno
+|Simiabraz
+|lang="ko"|초염몽
+|lang="zh-hans"|烈焰猴
+|lang="zh-hant"|烈焰猴
+|-
+| 0393
+|[[ポッチャマ]]
+|Piplup
+|Plinfa
+|Tiplouf
+|lang="ko"|팽도리
+|lang="zh-hans"|波加曼
+|lang="zh-hant"|波加曼
+|-
+| 0394
+|[[ポッタイシ]]
+|Prinplup
+|Pliprin
+|Prinplouf
+|lang="ko"|팽태자
+|lang="zh-hans"|波皇子
+|lang="zh-hant"|波皇子
+|-
+| 0395
+|[[エンペルト]]
+|Empoleon
+|Impoleon
+|Pingoléon
+|lang="ko"|엠페르트
+|lang="zh-hans"|帝王拿波
+|lang="zh-hant"|帝王拿波
+|-
+| 0396
+|[[ムックル]]
+|Starly
+|Staralili
+|Étourmi
+|lang="ko"|찌르꼬
+|lang="zh-hans"|姆克儿
+|lang="zh-hant"|姆克兒
+|-
+| 0397
+|[[ムクバード]]
+|Staravia
+|Staravia
+|Étourvol
+|lang="ko"|찌르버드
+|lang="zh-hans"|姆克鸟
+|lang="zh-hant"|姆克鳥
+|-
+| 0398
+|[[ムクホーク]]
+|Staraptor
+|Staraptor
+|Étouraptor
+|lang="ko"|찌르호크
+|lang="zh-hans"|姆克鹰
+|lang="zh-hant"|姆克鷹
+|-
+| 0399
+|[[ビッパ]]
+|Bidoof
+|Bidiza
+|Keunotor
+|lang="ko"|비버니
+|lang="zh-hans"|大牙狸
+|lang="zh-hant"|大牙狸
+|-
+| 0400
+|[[ビーダル]]
+|Bibarel
+|Bidifas
+|Castorno
+|lang="ko"|비버통
+|lang="zh-hans"|大尾狸
+|lang="zh-hant"|大尾狸
+|-
+| 0401
+|[[コロボーシ]]
+|Kricketot
+|Zirpurze
+|Crikzik
+|lang="ko"|귀뚤뚜기
+|lang="zh-hans"|圆法师
+|lang="zh-hant"|圓法師
+|-
+| 0402
+|[[コロトック]]
+|Kricketune
+|Zirpeise
+|Mélokrik
+|lang="ko"|귀뚤톡크
+|lang="zh-hans"|音箱蟀
+|lang="zh-hant"|音箱蟀
+|-
+| 0403
+|[[コリンク]]
+|Shinx
+|Sheinux
+|Lixy
+|lang="ko"|꼬링크
+|lang="zh-hans"|小猫怪
+|lang="zh-hant"|小貓怪
+|-
+| 0404
+|[[ルクシオ]]
+|Luxio
+|Luxio
+|Luxio
+|lang="ko"|럭시오
+|lang="zh-hans"|勒克猫
+|lang="zh-hant"|勒克貓
+|-
+| 0405
+|[[レントラー]]
+|Luxray
+|Luxtra
+|Luxray
+|lang="ko"|렌트라
+|lang="zh-hans"|伦琴猫
+|lang="zh-hant"|倫琴貓
+|-
+| 0406
+|[[スボミー]]
+|Budew
+|Knospi
+|Rozbouton
+|lang="ko"|꼬몽울
+|lang="zh-hans"|含羞苞
+|lang="zh-hant"|含羞苞
+|-
+| 0407
+|[[ロズレイド]]
+|Roserade
+|Roserade
+|Roserade
+|lang="ko"|로즈레이드
+|lang="zh-hans"|罗丝雷朵
+|lang="zh-hant"|羅絲雷朵
+|-
+| 0408
+|[[ズガイドス]]
+|Cranidos
+|Koknodon
+|Kranidos
+|lang="ko"|두개도스
+|lang="zh-hans"|头盖龙
+|lang="zh-hant"|頭蓋龍
+|-
+| 0409
+|[[ラムパルド]]
+|Rampardos
+|Rameidon
+|Charkos
+|lang="ko"|램펄드
+|lang="zh-hans"|战槌龙
+|lang="zh-hant"|戰槌龍
+|-
+| 0410
+|[[タテトプス]]
+|Shieldon
+|Schilterus
+|Dinoclier
+|lang="ko"|방패톱스
+|lang="zh-hans"|盾甲龙
+|lang="zh-hant"|盾甲龍
+|-
+| 0411
+|[[トリデプス]]
+|Bastiodon
+|Bollterus
+|Bastiodon
+|lang="ko"|바리톱스
+|lang="zh-hans"|护城龙
+|lang="zh-hant"|護城龍
+|-
+| 0412
+|[[ミノムッチ]]
+|Burmy
+|Burmy
+|Cheniti
+|lang="ko"|도롱충이
+|lang="zh-hans"|结草儿
+|lang="zh-hant"|結草兒
+|-
+| 0413
+|[[ミノマダム]]
+|Wormadam
+|Burmadame
+|Cheniselle
+|lang="ko"|도롱마담
+|lang="zh-hans"|结草贵妇
+|lang="zh-hant"|結草貴婦
+|-
+| 0414
+|[[ガーメイル]]
+|Mothim
+|Moterpel
+|Papilord
+|lang="ko"|나메일
+|lang="zh-hans"|绅士蛾
+|lang="zh-hant"|紳士蛾
+|-
+| 0415
+|[[ミツハニー]]
+|Combee
+|Wadribie
+|Apitrini
+|lang="ko"|세꿀버리
+|lang="zh-hans"|三蜜蜂
+|lang="zh-hant"|三蜜蜂
+|-
+| 0416
+|[[ビークイン]]
+|Vespiquen
+|Honweisel
+|Apireine
+|lang="ko"|비퀸
+|lang="zh-hans"|蜂女王
+|lang="zh-hant"|蜂女王
+|-
+| 0417
+|[[パチリス]]
+|Pachirisu
+|Pachirisu
+|Pachirisu
+|lang="ko"|파치리스
+|lang="zh-hans"|帕奇利兹
+|lang="zh-hant"|帕奇利茲
+|-
+| 0418
+|[[ブイゼル]]
+|Buizel
+|Bamelin
+|Mustébouée
+|lang="ko"|브이젤
+|lang="zh-hans"|泳圈鼬
+|lang="zh-hant"|泳圈鼬
+|-
+| 0419
+|[[フローゼル]]
+|Floatzel
+|Bojelin
+|Mustéflott
+|lang="ko"|플로젤
+|lang="zh-hans"|浮潜鼬
+|lang="zh-hant"|浮潛鼬
+|-
+| 0420
+|[[チェリンボ]]
+|Cherubi
+|Kikugi
+|Ceribou
+|lang="ko"|체리버
+|lang="zh-hans"|樱花宝
+|lang="zh-hant"|櫻花寶
+|-
+| 0421
+|[[チェリム]]
+|Cherrim
+|Kinoso
+|Ceriflor
+|lang="ko"|체리꼬
+|lang="zh-hans"|樱花儿
+|lang="zh-hant"|櫻花兒
+|-
+| 0422
+|[[カラナクシ]]
+|Shellos
+|Schalellos
+|Sancoki
+|lang="ko"|깝질무
+|lang="zh-hans"|无壳海兔
+|lang="zh-hant"|無殼海兔
+|-
+| 0423
+|[[トリトドン]]
+|Gastrodon
+|Gastrodon
+|Tritosor
+|lang="ko"|트리토돈
+|lang="zh-hans"|海兔兽
+|lang="zh-hant"|海兔獸
+|-
+| 0424
+|[[エテボース]]
+|Ambipom
+|Ambidiffel
+|Capidextre
+|lang="ko"|겟핸보숭
+|lang="zh-hans"|双尾怪手
+|lang="zh-hant"|雙尾怪手
+|-
+| 0425
+|[[フワンテ]]
+|Drifloon
+|Driftlon
+|Baudrive
+|lang="ko"|흔들풍손
+|lang="zh-hans"|飘飘球
+|lang="zh-hant"|飄飄球
+|-
+| 0426
+|[[フワライド]]
+|Drifblim
+|Drifzepeli
+|Grodrive
+|lang="ko"|둥실라이드
+|lang="zh-hans"|随风球
+|lang="zh-hant"|隨風球
+|-
+| 0427
+|[[ミミロル]]
+|Buneary
+|Haspiror
+|Laporeille
+|lang="ko"|이어롤
+|lang="zh-hans"|卷卷耳
+|lang="zh-hant"|捲捲耳
+|-
+| 0428
+|[[ミミロップ]]
+|Lopunny
+|Schlapor
+|Lockpin
+|lang="ko"|이어롭
+|lang="zh-hans"|长耳兔
+|lang="zh-hant"|長耳兔
+|-
+| 0429
+|[[ムウマージ]]
+|Mismagius
+|Traunmagil
+|Magirêve
+|lang="ko"|무우마직
+|lang="zh-hans"|梦妖魔
+|lang="zh-hant"|夢妖魔
+|-
+| 0430
+|[[ドンカラス]]
+|Honchkrow
+|Kramshef
+|Corboss
+|lang="ko"|돈크로우
+|lang="zh-hans"|乌鸦头头
+|lang="zh-hant"|烏鴉頭頭
+|-
+| 0431
+|[[ニャルマー]]
+|Glameow
+|Charmian
+|Chaglam
+|lang="ko"|나옹마
+|lang="zh-hans"|魅力喵
+|lang="zh-hant"|魅力喵
+|-
+| 0432
+|[[ブニャット]]
+|Purugly
+|Shnurgarst
+|Chaffreux
+|lang="ko"|몬냥이
+|lang="zh-hans"|东施喵
+|lang="zh-hant"|東施喵
+|-
+| 0433
+|[[リーシャン]]
+|Chingling
+|Klingplim
+|Korillon
+|lang="ko"|랑딸랑
+|lang="zh-hans"|铃铛响
+|lang="zh-hant"|鈴鐺響
+|-
+| 0434
+|[[スカンプー]]
+|Stunky
+|Skunkapuh
+|Moufouette
+|lang="ko"|스컹뿡
+|lang="zh-hans"|臭鼬噗
+|lang="zh-hant"|臭鼬噗
+|-
+| 0435
+|[[スカタンク]]
+|Skuntank
+|Skuntank
+|Moufflair
+|lang="ko"|스컹탱크
+|lang="zh-hans"|坦克臭鼬
+|lang="zh-hant"|坦克臭鼬
+|-
+| 0436
+|[[ドーミラー]]
+|Bronzor
+|Bronzel
+|Archéomire
+|lang="ko"|동미러
+|lang="zh-hans"|铜镜怪
+|lang="zh-hant"|銅鏡怪
+|-
+| 0437
+|[[ドータクン]]
+|Bronzong
+|Bronzong
+|Archéodong
+|lang="ko"|동탁군
+|lang="zh-hans"|青铜钟
+|lang="zh-hant"|青銅鐘
+|-
+| 0438
+|[[ウソハチ]]
+|Bonsly
+|Mobai
+|Manzaï
+|lang="ko"|꼬지지
+|lang="zh-hans"|盆才怪
+|lang="zh-hant"|盆才怪
+|-
+| 0439
+|[[マネネ]]
+|Mime Jr.
+|Pantimimi
+|Mime Jr.
+|lang="ko"|흉내내
+|lang="zh-hans"|魔尼尼
+|lang="zh-hant"|魔尼尼
+|-
+| 0440
+|[[ピンプク]]
+|Happiny
+|Wonneira
+|Ptiravi
+|lang="ko"|핑복
+|lang="zh-hans"|小福蛋
+|lang="zh-hant"|小福蛋
+|-
+| 0441
+|[[ペラップ]]
+|Chatot
+|Plaudagei
+|Pijako
+|lang="ko"|페라페
+|lang="zh-hans"|聒噪鸟
+|lang="zh-hant"|聒噪鳥
+|-
+| 0442
+|[[ミカルゲ]]
+|Spiritomb
+|Kryppuk
+|Spiritomb
+|lang="ko"|화강돌
+|lang="zh-hans"|花岩怪
+|lang="zh-hant"|花岩怪
+|-
+| 0443
+|[[フカマル]]
+|Gible
+|Kaumalat
+|Griknot
+|lang="ko"|딥상어동
+|lang="zh-hans"|圆陆鲨
+|lang="zh-hant"|圓陸鯊
+|-
+| 0444
+|[[ガバイト]]
+|Gabite
+|Knarksel
+|Carmache
+|lang="ko"|한바이트
+|lang="zh-hans"|尖牙陆鲨
+|lang="zh-hant"|尖牙陸鯊
+|-
+| 0445
+|[[ガブリアス]]
+|Garchomp
+|Knakrack
+|Carchacrok
+|lang="ko"|한카리아스
+|lang="zh-hans"|烈咬陆鲨
+|lang="zh-hant"|烈咬陸鯊
+|-
+| 0446
+|[[ゴンベ]]
+|Munchlax
+|Mampfaxo
+|Goinfrex
+|lang="ko"|먹고자
+|lang="zh-hans"|小卡比兽
+|lang="zh-hant"|小卡比獸
+|-
+| 0447
+|[[リオル]]
+|Riolu
+|Riolu
+|Riolu
+|lang="ko"|리오르
+|lang="zh-hans"|利欧路
+|lang="zh-hant"|利歐路
+|-
+| 0448
+|[[ルカリオ]]
+|Lucario
+|Lucario
+|Lucario
+|lang="ko"|루카리오
+|lang="zh-hans"|路卡利欧
+|lang="zh-hant"|路卡利歐
+|-
+| 0449
+|[[ヒポポタス]]
+|Hippopotas
+|Hippopotas
+|Hippopotas
+|lang="ko"|히포포타스
+|lang="zh-hans"|沙河马
+|lang="zh-hant"|沙河馬
+|-
+| 0450
+|[[カバルドン]]
+|Hippowdon
+|Hippoterus
+|Hippodocus
+|lang="ko"|하마돈
+|lang="zh-hans"|河马兽
+|lang="zh-hant"|河馬獸
+|-
+| 0451
+|[[スコルピ]]
+|Skorupi
+|Pionskora
+|Rapion
+|lang="ko"|스콜피
+|lang="zh-hans"|钳尾蝎
+|lang="zh-hant"|鉗尾蠍
+|-
+| 0452
+|[[ドラピオン]]
+|Drapion
+|Piondragi
+|Drascore
+|lang="ko"|드래피온
+|lang="zh-hans"|龙王蝎
+|lang="zh-hant"|龍王蠍
+|-
+| 0453
+|[[グレッグル]]
+|Croagunk
+|Glibunkel
+|Cradopaud
+|lang="ko"|삐딱구리
+|lang="zh-hans"|不良蛙
+|lang="zh-hant"|不良蛙
+|-
+| 0454
+|[[ドクロッグ]]
+|Toxicroak
+|Toxiquak
+|Coatox
+|lang="ko"|독개굴
+|lang="zh-hans"|毒骷蛙
+|lang="zh-hant"|毒骷蛙
+|-
+| 0455
+|[[マスキッパ]]
+|Carnivine
+|Venuflibis
+|Vortente
+|lang="ko"|무스틈니
+|lang="zh-hans"|尖牙笼
+|lang="zh-hant"|尖牙籠
+|-
+| 0456
+|[[ケイコウオ]]
+|Finneon
+|Finneon
+|Écayon
+|lang="ko"|형광어
+|lang="zh-hans"|荧光鱼
+|lang="zh-hant"|螢光魚
+|-
+| 0457
+|[[ネオラント]]
+|Lumineon
+|Lumineon
+|Luminéon
+|lang="ko"|네오라이트
+|lang="zh-hans"|霓虹鱼
+|lang="zh-hant"|霓虹魚
+|-
+| 0458
+|[[タマンタ]]
+|Mantyke
+|Mantirps
+|Babimanta
+|lang="ko"|타만타
+|lang="zh-hans"|小球飞鱼
+|lang="zh-hant"|小球飛魚
+|-
+| 0459
+|[[ユキカブリ]]
+|Snover
+|Shnebedeck
+|Blizzi
+|lang="ko"|눈쓰개
+|lang="zh-hans"|雪笠怪
+|lang="zh-hant"|雪笠怪
+|-
+| 0460
+|[[ユキノオー]]
+|Abomasnow
+|Rexblisar
+|Blizzaroi
+|lang="ko"|눈설왕
+|lang="zh-hans"|暴雪王
+|lang="zh-hant"|暴雪王
+|-
+| 0461
+|[[マニューラ]]
+|Weavile
+|Snibunna
+|Dimoret
+|lang="ko"|포푸니라
+|lang="zh-hans"|玛狃拉
+|lang="zh-hant"|瑪狃拉
+|-
+| 0462
+|[[ジバコイル]]
+|Magnezone
+|Magnezone
+|Magnézone
+|lang="ko"|자포코일
+|lang="zh-hans"|自爆磁怪
+|lang="zh-hant"|自爆磁怪
+|-
+| 0463
+|[[ベロベルト]]
+|Lickilicky
+|Schlurplek
+|Coudlangue
+|lang="ko"|내룸벨트
+|lang="zh-hans"|大舌舔
+|lang="zh-hant"|大舌舔
+|-
+| 0464
+|[[ドサイドン]]
+|Rhyperior
+|Rihornior
+|Rhinastoc
+|lang="ko"|거대코뿌리
+|lang="zh-hans"|超甲狂犀
+|lang="zh-hant"|超甲狂犀
+|-
+| 0465
+|[[モジャンボ]]
+|Tangrowth
+|Tangoloss
+|Bouldeneu
+|lang="ko"|덩쿠림보
+|lang="zh-hans"|巨蔓藤
+|lang="zh-hant"|巨蔓藤
+|-
+| 0466
+|[[エレキブル]]
+|Electivire
+|Elevoltek
+|Élekable
+|lang="ko"|에레키블
+|lang="zh-hans"|电击魔兽
+|lang="zh-hant"|電擊魔獸
+|-
+| 0467
+|[[ブーバーン]]
+|Magmortar
+|Magbrant
+|Maganon
+|lang="ko"|마그마번
+|lang="zh-hans"|鸭嘴炎兽
+|lang="zh-hant"|鴨嘴炎獸
+|-
+| 0468
+|[[トゲキッス]]
+|Togekiss
+|Togekiss
+|Togekiss
+|lang="ko"|토게키스
+|lang="zh-hans"|波克基斯
+|lang="zh-hant"|波克基斯
+|-
+| 0469
+|[[メガヤンマ]]
+|Yanmega
+|Yanmega
+|Yanmega
+|lang="ko"|메가자리
+|lang="zh-hans"|远古巨蜓
+|lang="zh-hant"|遠古巨蜓
+|-
+| 0470
+|[[リーフィア]]
+|Leafeon
+|Folipurba
+|Phyllali
+|lang="ko"|리피아
+|lang="zh-hans"|叶伊布
+|lang="zh-hant"|葉伊布
+|-
+| 0471
+|[[グレイシア]]
+|Glaceon
+|Glaziola
+|Givrali
+|lang="ko"|글레이시아
+|lang="zh-hans"|冰伊布
+|lang="zh-hant"|冰伊布
+|-
+| 0472
+|[[グライオン]]
+|Gliscor
+|Skorgro
+|Scorvol
+|lang="ko"|글라이온
+|lang="zh-hans"|天蝎王
+|lang="zh-hant"|天蠍王
+|-
+| 0473
+|[[マンムー]]
+|Mamoswine
+|Mamutel
+|Mammochon
+|lang="ko"|맘모꾸리
+|lang="zh-hans"|象牙猪
+|lang="zh-hant"|象牙豬
+|-
+| 0474
+|[[ポリゴンZ]]
+|Porygon-Z
+|Porygon-Z
+|Porygon-Z
+|lang="ko"|폴리곤Z
+|lang="zh-hans"|多边兽乙型
+|lang="zh-hant"|多邊獸Ｚ
+|-
+| 0475
+|[[エルレイド]]
+|Gallade
+|Galagladi
+|Gallame
+|lang="ko"|엘레이드
+|lang="zh-hans"|艾路雷朵
+|lang="zh-hant"|艾路雷朵
+|-
+| 0476
+|[[ダイノーズ]]
+|Probopass
+|Voluminas
+|Tarinorme
+|lang="ko"|대코파스
+|lang="zh-hans"|大朝北鼻
+|lang="zh-hant"|大朝北鼻
+|-
+| 0477
+|[[ヨノワール]]
+|Dusknoir
+|Zwirrfinst
+|Noctunoir
+|lang="ko"|야느와르몽
+|lang="zh-hans"|黑夜魔灵
+|lang="zh-hant"|黑夜魔靈
+|-
+| 0478
+|[[ユキメノコ]]
+|Froslass
+|Frosdedje
+|Momartik
+|lang="ko"|눈여아
+|lang="zh-hans"|雪妖女
+|lang="zh-hant"|雪妖女
+|-
+| 0479
+|[[ロトム]]
+|Rotom
+|Rotom
+|Motisma
+|lang="ko"|로토무
+|lang="zh-hans"|洛托姆
+|lang="zh-hant"|洛托姆
+|-
+| 0480
+|[[ユクシー]]
+|Uxie
+|Selfe
+|Créhelf
+|lang="ko"|유크시
+|lang="zh-hans"|由克希
+|lang="zh-hant"|由克希
+|-
+| 0481
+|[[エムリット]]
+|Mesprit
+|Vesprit
+|Créfollet
+|lang="ko"|엠라이트
+|lang="zh-hans"|艾姆利多
+|lang="zh-hant"|艾姆利多
+|-
+| 0482
+|[[アグノム]]
+|Azelf
+|Tobutz
+|Créfadet
+|lang="ko"|아그놈
+|lang="zh-hans"|亚克诺姆
+|lang="zh-hant"|亞克諾姆
+|-
+| 0483
+|[[ディアルガ]]
+|Dialga
+|Dialga
+|Dialga
+|lang="ko"|디아루가
+|lang="zh-hans"|帝牙卢卡
+|lang="zh-hant"|帝牙盧卡
+|-
+| 0484
+|[[パルキア]]
+|Palkia
+|Palkia
+|Palkia
+|lang="ko"|펄기아
+|lang="zh-hans"|帕路奇亚
+|lang="zh-hant"|帕路奇亞
+|-
+| 0485
+|[[ヒードラン]]
+|Heatran
+|Heatran
+|Heatran
+|lang="ko"|히드런
+|lang="zh-hans"|席多蓝恩
+|lang="zh-hant"|席多藍恩
+|-
+| 0486
+|[[レジギガス]]
+|Regigigas
+|Regigigas
+|Regigigas
+|lang="ko"|레지기가스
+|lang="zh-hans"|雷吉奇卡斯
+|lang="zh-hant"|雷吉奇卡斯
+|-
+| 0487
+|[[ギラティナ]]
+|Giratina
+|Giratina
+|Giratina
+|lang="ko"|기라티나
+|lang="zh-hans"|骑拉帝纳
+|lang="zh-hant"|騎拉帝納
+|-
+| 0488
+|[[クレセリア]]
+|Cresselia
+|Cresselia
+|Cresselia
+|lang="ko"|크레세리아
+|lang="zh-hans"|克雷色利亚
+|lang="zh-hant"|克雷色利亞
+|-
+| 0489
+|[[フィオネ]]
+|Phione
+|Phione
+|Phione
+|lang="ko"|피오네
+|lang="zh-hans"|霏欧纳
+|lang="zh-hant"|霏歐納
+|-
+| 0490
+|[[マナフィ]]
+|Manaphy
+|Manaphy
+|Manaphy
+|lang="ko"|마나피
+|lang="zh-hans"|玛纳霏
+|lang="zh-hant"|瑪納霏
+|-
+| 0491
+|[[ダークライ]]
+|Darkrai
+|Darkrai
+|Darkrai
+|lang="ko"|다크라이
+|lang="zh-hans"|达克莱伊
+|lang="zh-hant"|達克萊伊
+|-
+| 0492
+|[[シェイミ]]
+|Shaymin
+|Shaymin
+|Shaymin
+|lang="ko"|쉐이미
+|lang="zh-hans"|谢米
+|lang="zh-hant"|謝米
+|-
+| 0493
+|[[アルセウス]]
+|Arceus
+|Arceus
+|Arceus
+|lang="ko"|아르세우스
+|lang="zh-hans"|阿尔宙斯
+|lang="zh-hant"|阿爾宙斯
+|}
+
+== 第五世代 ==
+{| {{graytable|c}}
+! style="background-color:#f8f6f0;" class=c|番号
+! style="background-color:#ffc1c1;"|日本語
+! style="background-color:#ff6fff;"|英語、イタリア語、スペイン語
+! style="background-color:#eff19c;"|ドイツ語 
+! style="background-color:#c5e4f5;"|フランス語
+! style="background-color:#9481d8;"|韓国語
+! style="background-color:#FFE0C4;"|中国語（簡）
+! style="background-color:#FFE0C4;"|中国語（繁）
+|-
+| 0494
+|[[ビクティニ]]
+|Victini
+|Victini
+|Victini
+|lang="ko"|비크티니
+|lang="zh-hans"|比克提尼
+|lang="zh-hant"|比克提尼
+|-
+| 0495
+|[[ツタージャ]]
+|Snivy
+|Serpifeu
+|Vipélierre
+|lang="ko"|주리비얀
+|lang="zh-hans"|藤藤蛇
+|lang="zh-hant"|藤藤蛇
+|-
+| 0496
+|[[ジャノビー]]
+|Servine
+|Efoserp
+|Lianaja
+|lang="ko"|샤비
+|lang="zh-hans"|青藤蛇
+|lang="zh-hant"|青藤蛇
+|-
+| 0497
+|[[ジャローダ]]
+|Serperior
+|Serpiroyal
+|Majaspic
+|lang="ko"|샤로다
+|lang="zh-hans"|君主蛇
+|lang="zh-hant"|君主蛇
+|-
+| 0498
+|[[ポカブ]]
+|Tepig
+|Floink
+|Gruikui
+|lang="ko"|뚜꾸리
+|lang="zh-hans"|暖暖猪
+|lang="zh-hant"|暖暖豬
+|-
+| 0499
+|[[チャオブー]]
+|Pignite
+|Ferkokel
+|Grotichon
+|lang="ko"|챠오꿀
+|lang="zh-hans"|炒炒猪
+|lang="zh-hant"|炒炒豬
+|-
+| 0500
+|[[エンブオー]]
+|Emboar
+|Flambirex
+|Roitiflam
+|lang="ko"|염무왕
+|lang="zh-hans"|炎武王
+|lang="zh-hant"|炎武王
+|-
+| 0501
+|[[ミジュマル]]
+|Oshawott
+|Ottaro
+|Moustillon
+|lang="ko"|수댕이
+|lang="zh-hans"|水水獭
+|lang="zh-hant"|水水獺
+|-
+| 0502
+|[[フタチマル]]
+|Dewott
+|Zwottronin
+|Mateloutre
+|lang="ko"|쌍검자비
+|lang="zh-hans"|双刃丸
+|lang="zh-hant"|雙刃丸
+|-
+| 0503
+|[[ダイケンキ]]
+|Samurott
+|Admurai
+|Clamiral
+|lang="ko"|대검귀
+|lang="zh-hans"|大剑鬼
+|lang="zh-hant"|大劍鬼
+|-
+| 0504
+|[[ミネズミ]]
+|Patrat
+|Nagelotz
+|Ratentif
+|lang="ko"|보르쥐
+|lang="zh-hans"|探探鼠
+|lang="zh-hant"|探探鼠
+|-
+| 0505
+|[[ミルホッグ]]
+|Watchog
+|Kukmarda
+|Miradar
+|lang="ko"|보르그
+|lang="zh-hans"|步哨鼠
+|lang="zh-hant"|步哨鼠
+|-
+| 0506
+|[[ヨーテリー]]
+|Lillipup
+|Yorkleff
+|Ponchiot
+|lang="ko"|요테리
+|lang="zh-hans"|小约克
+|lang="zh-hant"|小約克
+|-
+| 0507
+|[[ハーデリア]]
+|Herdier
+|Terribark
+|Ponchien
+|lang="ko"|하데리어
+|lang="zh-hans"|哈约克
+|lang="zh-hant"|哈約克
+|-
+| 0508
+|[[ムーランド]]
+|Stoutland
+|Bissbark
+|Mastouffe
+|lang="ko"|바랜드
+|lang="zh-hans"|长毛狗
+|lang="zh-hant"|長毛狗
+|-
+| 0509
+|[[チョロネコ]]
+|Purrloin
+|Felilou
+|Chacripan
+|lang="ko"|쌔비냥
+|lang="zh-hans"|扒手猫
+|lang="zh-hant"|扒手貓
+|-
+| 0510
+|[[レパルダス]]
+|Liepard
+|Kleoparda
+|Léopardus
+|lang="ko"|레파르다스
+|lang="zh-hans"|酷豹
+|lang="zh-hant"|酷豹
+|-
+| 0511
+|[[ヤナップ]]
+|Pansage
+|Vegimak
+|Feuillajou
+|lang="ko"|야나프
+|lang="zh-hans"|花椰猴
+|lang="zh-hant"|花椰猴
+|-
+| 0512
+|[[ヤナッキー]]
+|Simisage
+|Vegichita
+|Feuiloutan
+|lang="ko"|야나키
+|lang="zh-hans"|花椰猿
+|lang="zh-hant"|花椰猿
+|-
+| 0513
+|[[バオップ]]
+|Pansear
+|Grillmak
+|Flamajou
+|lang="ko"|바오프
+|lang="zh-hans"|爆香猴
+|lang="zh-hant"|爆香猴
+|-
+| 0514
+|[[バオッキー]]
+|Simisear
+|Grillchita
+|Flamoutan
+|lang="ko"|바오키
+|lang="zh-hans"|爆香猿
+|lang="zh-hant"|爆香猿
+|-
+| 0515
+|[[ヒヤップ]]
+|Panpour
+|Sodamak
+|Flotajou
+|lang="ko"|앗차프
+|lang="zh-hans"|冷水猴
+|lang="zh-hant"|冷水猴
+|-
+| 0516
+|[[ヒヤッキー]]
+|Simipour
+|Sodachita
+|Flotoutan
+|lang="ko"|앗차키
+|lang="zh-hans"|冷水猿
+|lang="zh-hant"|冷水猿
+|-
+| 0517
+|[[ムンナ]]
+|Munna
+|Somniam
+|Munna
+|lang="ko"|몽나
+|lang="zh-hans"|食梦梦
+|lang="zh-hant"|食夢夢
+|-
+| 0518
+|[[ムシャーナ]]
+|Musharna
+|Somnivora
+|Mushana
+|lang="ko"|몽얌나
+|lang="zh-hans"|梦梦蚀
+|lang="zh-hant"|夢夢蝕
+|-
+| 0519
+|[[マメパト]]
+|Pidove
+|Dusselgurr
+|Poichigeon
+|lang="ko"|콩둘기
+|lang="zh-hans"|豆豆鸽
+|lang="zh-hant"|豆豆鴿
+|-
+| 0520
+|[[ハトーボー]]
+|Tranquill
+|Navitaub
+|Colombeau
+|lang="ko"|유토브
+|lang="zh-hans"|咕咕鸽
+|lang="zh-hant"|咕咕鴿
+|-
+| 0521
+|[[ケンホロウ]]
+|Unfezant
+|Fasasnob
+|Déflaisan
+|lang="ko"|켄호로우
+|lang="zh-hans"|高傲雉鸡
+|lang="zh-hant"|高傲雉雞
+|-
+| 0522
+|[[シママ]]
+|Blitzle
+|Elezeba
+|Zébibron
+|lang="ko"|줄뮤마
+|lang="zh-hans"|斑斑马
+|lang="zh-hant"|斑斑馬
+|-
+| 0523
+|[[ゼブライカ]]
+|Zebstrika
+|Zebritz
+|Zéblitz
+|lang="ko"|제브라이카
+|lang="zh-hans"|雷电斑马
+|lang="zh-hant"|雷電斑馬
+|-
+| 0524
+|[[ダンゴロ]]
+|Roggenrola
+|Kiesling
+|Nodulithe
+|lang="ko"|단굴
+|lang="zh-hans"|石丸子
+|lang="zh-hant"|石丸子
+|-
+| 0525
+|[[ガントル]]
+|Boldore
+|Sedimantur
+|Géolithe
+|lang="ko"|암트르
+|lang="zh-hans"|地幔岩
+|lang="zh-hant"|地幔岩
+|-
+| 0526
+|[[ギガイアス]]
+|Gigalith
+|Brockoloss
+|Gigalithe
+|lang="ko"|기가이어스
+|lang="zh-hans"|庞岩怪
+|lang="zh-hant"|龐岩怪
+|-
+| 0527
+|[[コロモリ]]
+|Woobat
+|Fleknoil
+|Chovsourir
+|lang="ko"|또르박쥐
+|lang="zh-hans"|滚滚蝙蝠
+|lang="zh-hant"|滾滾蝙蝠
+|-
+| 0528
+|[[ココロモリ]]
+|Swoobat
+|Fletiamo
+|Rhinolove
+|lang="ko"|맘박쥐
+|lang="zh-hans"|心蝙蝠
+|lang="zh-hant"|心蝙蝠
+|-
+| 0529
+|[[モグリュー]]
+|Drilbur
+|Rotomurf
+|Rototaupe
+|lang="ko"|두더류
+|lang="zh-hans"|螺钉地鼠
+|lang="zh-hant"|螺釘地鼠
+|-
+| 0530
+|[[ドリュウズ]]
+|Excadrill
+|Stalobor
+|Minotaupe
+|lang="ko"|몰드류
+|lang="zh-hans"|龙头地鼠
+|lang="zh-hant"|龍頭地鼠
+|-
+| 0531
+|[[タブンネ]]
+|Audino
+|Ohrdoch
+|Nanméouïe
+|lang="ko"|다부니
+|lang="zh-hans"|差不多娃娃
+|lang="zh-hant"|差不多娃娃
+|-
+| 0532
+|[[ドッコラー]]
+|Timburr
+|Praktibalk
+|Charpenti
+|lang="ko"|으랏차
+|lang="zh-hans"|搬运小匠
+|lang="zh-hant"|搬運小匠
+|-
+| 0533
+|[[ドテッコツ]]
+|Gurdurr
+|Strepoli
+|Ouvrifier
+|lang="ko"|토쇠골
+|lang="zh-hans"|铁骨土人
+|lang="zh-hant"|鐵骨土人
+|-
+| 0534
+|[[ローブシン]]
+|Conkeldurr
+|Meistagrif
+|Bétochef
+|lang="ko"|노보청
+|lang="zh-hans"|修建老匠
+|lang="zh-hant"|修建老匠
+|-
+| 0535
+|[[オタマロ]]
+|Tympole
+|Schallquap
+|Tritonde
+|lang="ko"|동챙이
+|lang="zh-hans"|圆蝌蚪
+|lang="zh-hant"|圓蝌蚪
+|-
+| 0536
+|[[ガマガル]]
+|Palpitoad
+|Mebrana
+|Batracné
+|lang="ko"|두까비
+|lang="zh-hans"|蓝蟾蜍
+|lang="zh-hant"|藍蟾蜍
+|-
+| 0537
+|[[ガマゲロゲ]]
+|Seismitoad
+|Branawarz
+|Crapustule
+|lang="ko"|두빅굴
+|lang="zh-hans"|蟾蜍王
+|lang="zh-hant"|蟾蜍王
+|-
+| 0538
+|[[ナゲキ]]
+|Throh
+|Jiutesto
+|Judokrak
+|lang="ko"|던지미
+|lang="zh-hans"|投摔鬼
+|lang="zh-hant"|投摔鬼
+|-
+| 0539
+|[[ダゲキ]]
+|Sawk
+|Karadonis
+|Karaclée
+|lang="ko"|타격귀
+|lang="zh-hans"|打击鬼
+|lang="zh-hant"|打擊鬼
+|-
+| 0540
+|[[クルミル]]
+|Sewaddle
+|Strawickl
+|Larveyette
+|lang="ko"|두르보
+|lang="zh-hans"|虫宝包
+|lang="zh-hant"|蟲寶包
+|-
+| 0541
+|[[クルマユ]]
+|Swadloon
+|Folikon
+|Couverdure
+|lang="ko"|두르쿤
+|lang="zh-hans"|宝包茧
+|lang="zh-hant"|寶包繭
+|-
+| 0542
+|[[ハハコモリ]]
+|Leavanny
+|Matrifol
+|Manternel
+|lang="ko"|모아머
+|lang="zh-hans"|保姆虫
+|lang="zh-hant"|保母蟲
+|-
+| 0543
+|[[フシデ]]
+|Venipede
+|Toxiped
+|Venipatte
+|lang="ko"|마디네
+|lang="zh-hans"|百足蜈蚣
+|lang="zh-hant"|百足蜈蚣
+|-
+| 0544
+|[[ホイーガ]]
+|Whirlipede
+|Rollum
+|Scobolide
+|lang="ko"|휠구
+|lang="zh-hans"|车轮球
+|lang="zh-hant"|車輪毬
+|-
+| 0545
+|[[ペンドラー]]
+|Scolipede
+|Cerapendra
+|Brutapode
+|lang="ko"|펜드라
+|lang="zh-hans"|蜈蚣王
+|lang="zh-hant"|蜈蚣王
+|-
+| 0546
+|[[モンメン]]
+|Cottonee
+|Waumboll
+|Doudouvet
+|lang="ko"|소미안
+|lang="zh-hans"|木棉球
+|lang="zh-hant"|木棉球
+|-
+| 0547
+|[[エルフーン]]
+|Whimsicott
+|Elfun
+|Farfaduvet
+|lang="ko"|엘풍
+|lang="zh-hans"|风妖精
+|lang="zh-hant"|風妖精
+|-
+| 0548
+|[[チュリネ]]
+|Petilil
+|Lilminip
+|Chlorobule
+|lang="ko"|치릴리
+|lang="zh-hans"|百合根娃娃
+|lang="zh-hant"|百合根娃娃
+|-
+| 0549
+|[[ドレディア]]
+|Lilligant
+|Dressella
+|Fragilady
+|lang="ko"|드레디어
+|lang="zh-hans"|裙儿小姐
+|lang="zh-hant"|裙兒小姐
+|-
+| 0550
+|[[バスラオ]]
+|Basculin
+|Barschuft
+|Bargantua
+|lang="ko"|배쓰나이
+|lang="zh-hans"|野蛮鲈鱼
+|lang="zh-hant"|野蠻鱸魚
+|-
+| 0551
+|[[メグロコ]]
+|Sandile
+|Ganovil
+|Mascaïman
+|lang="ko"|깜눈크
+|lang="zh-hans"|黑眼鳄
+|lang="zh-hant"|黑眼鱷
+|-
+| 0552
+|[[ワルビル]]
+|Krokorok
+|Rokkaiman
+|Escroco
+|lang="ko"|악비르
+|lang="zh-hans"|混混鳄
+|lang="zh-hant"|混混鱷
+|-
+| 0553
+|[[ワルビアル]]
+|Krookodile
+|Rabigator
+|Crocorible
+|lang="ko"|악비아르
+|lang="zh-hans"|流氓鳄
+|lang="zh-hant"|流氓鱷
+|-
+| 0554
+|[[ダルマッカ]]
+|Darumaka
+|Flampion
+|Darumarond
+|lang="ko"|달막화
+|lang="zh-hans"|火红不倒翁
+|lang="zh-hant"|火紅不倒翁
+|-
+| 0555
+|[[ヒヒダルマ]]
+|Darmanitan
+|Flampivian
+|Darumacho
+|lang="ko"|불비달마
+|lang="zh-hans"|达摩狒狒
+|lang="zh-hant"|達摩狒狒
+|-
+| 0556
+|[[マラカッチ]]
+|Maractus
+|Maracamba
+|Maracachi
+|lang="ko"|마라카치
+|lang="zh-hans"|沙铃仙人掌
+|lang="zh-hant"|沙鈴仙人掌
+|-
+| 0557
+|[[イシズマイ]]
+|Dwebble
+|Lithomith
+|Crabicoque
+|lang="ko"|돌살이
+|lang="zh-hans"|石居蟹
+|lang="zh-hant"|石居蟹
+|-
+| 0558
+|[[イワパレス]]
+|Crustle
+|Castellith
+|Crabaraque
+|lang="ko"|암팰리스
+|lang="zh-hans"|岩殿居蟹
+|lang="zh-hant"|岩殿居蟹
+|-
+| 0559
+|[[ズルッグ]]
+|Scraggy
+|Zurrokex
+|Baggiguane
+|lang="ko"|곤율랭
+|lang="zh-hans"|滑滑小子
+|lang="zh-hant"|滑滑小子
+|-
+| 0560
+|[[ズルズキン]]
+|Scrafty
+|Irokex
+|Baggaïd
+|lang="ko"|곤율거니
+|lang="zh-hans"|头巾混混
+|lang="zh-hant"|頭巾混混
+|-
+| 0561
+|[[シンボラー]]
+|Sigilyph
+|Symvolara
+|Cryptéro
+|lang="ko"|심보러
+|lang="zh-hans"|象征鸟
+|lang="zh-hant"|象徵鳥
+|-
+| 0562
+|[[デスマス]]
+|Yamask
+|Makabaja
+|Tutafeh
+|lang="ko"|데스마스
+|lang="zh-hans"|哭哭面具
+|lang="zh-hant"|哭哭面具
+|-
+| 0563
+|[[デスカーン]]
+|Cofagrigus
+|Echnatoll
+|Tutankafer
+|lang="ko"|데스니칸
+|lang="zh-hans"|迭失棺
+|lang="zh-hant"|死神棺
+|-
+| 0564
+|[[プロトーガ]]
+|Tirtouga
+|Galapaflos
+|Carapagos
+|lang="ko"|프로토가
+|lang="zh-hans"|原盖海龟
+|lang="zh-hant"|原蓋海龜
+|-
+| 0565
+|[[アバゴーラ]]
+|Carracosta
+|Karippas
+|Mégapagos
+|lang="ko"|늑골라
+|lang="zh-hans"|肋骨海龟
+|lang="zh-hant"|肋骨海龜
+|-
+| 0566
+|[[アーケン]]
+|Archen
+|Flapteryx
+|Arkéapti
+|lang="ko"|아켄
+|lang="zh-hans"|始祖小鸟
+|lang="zh-hant"|始祖小鳥
+|-
+| 0567
+|[[アーケオス]]
+|Archeops
+|Aeropteryx
+|Aéroptéryx
+|lang="ko"|아케오스
+|lang="zh-hans"|始祖大鸟
+|lang="zh-hant"|始祖大鳥
+|-
+| 0568
+|[[ヤブクロン]]
+|Trubbish
+|Unratütox
+|Miamiasme
+|lang="ko"|깨봉이
+|lang="zh-hans"|破破袋
+|lang="zh-hant"|破破袋
+|-
+| 0569
+|[[ダストダス]]
+|Garbodor
+|Deponitox
+|Miasmax
+|lang="ko"|더스트나
+|lang="zh-hans"|灰尘山
+|lang="zh-hant"|灰塵山
+|-
+| 0570
+|[[ゾロア]]
+|Zorua
+|Zorua
+|Zorua
+|lang="ko"|조로아
+|lang="zh-hans"|索罗亚
+|lang="zh-hant"|索羅亞
+|-
+| 0571
+|[[ゾロアーク]]
+|Zoroark
+|Zoroark
+|Zoroark
+|lang="ko"|조로아크
+|lang="zh-hans"|索罗亚克
+|lang="zh-hant"|索羅亞克
+|-
+| 0572
+|[[チラーミィ]]
+|Minccino
+|Picochilla
+|Chinchidou
+|lang="ko"|치라미
+|lang="zh-hans"|泡沫栗鼠
+|lang="zh-hant"|泡沫栗鼠
+|-
+| 0573
+|[[チラチーノ]]
+|Cinccino
+|Chillabell
+|Pashmilla
+|lang="ko"|치라치노
+|lang="zh-hans"|奇诺栗鼠
+|lang="zh-hant"|奇諾栗鼠
+|-
+| 0574
+|[[ゴチム]]
+|Gothita
+|Mollimorba
+|Scrutella
+|lang="ko"|고디탱
+|lang="zh-hans"|哥德宝宝
+|lang="zh-hant"|哥德寶寶
+|-
+| 0575
+|[[ゴチミル]]
+|Gothorita
+|Hypnomorba
+|Mesmérella
+|lang="ko"|고디보미
+|lang="zh-hans"|哥德小童
+|lang="zh-hant"|哥德小童
+|-
+| 0576
+|[[ゴチルゼル]]
+|Gothitelle
+|Morbitesse
+|Sidérella
+|lang="ko"|고디모아젤
+|lang="zh-hans"|哥德小姐
+|lang="zh-hant"|哥德小姐
+|-
+| 0577
+|[[ユニラン]]
+|Solosis
+|Monozyto
+|Nucléos
+|lang="ko"|유니란
+|lang="zh-hans"|单卵细胞球
+|lang="zh-hant"|單卵細胞球
+|-
+| 0578
+|[[ダブラン]]
+|Duosion
+|Mitodos
+|Méios
+|lang="ko"|듀란
+|lang="zh-hans"|双卵细胞球
+|lang="zh-hant"|雙卵細胞球
+|-
+| 0579
+|[[ランクルス]]
+|Reuniclus
+|Zytomega
+|Symbios
+|lang="ko"|란쿨루스
+|lang="zh-hans"|人造细胞卵
+|lang="zh-hant"|人造細胞卵
+|-
+| 0580
+|[[コアルヒー]]
+|Ducklett
+|Piccolente
+|Couaneton
+|lang="ko"|꼬지보리
+|lang="zh-hans"|鸭宝宝
+|lang="zh-hant"|鴨寶寶
+|-
+| 0581
+|[[スワンナ]]
+|Swanna
+|Swaroness
+|Lakmécygne
+|lang="ko"|스완나
+|lang="zh-hans"|舞天鹅
+|lang="zh-hant"|舞天鵝
+|-
+| 0582
+|[[バニプッチ]]
+|Vanillite
+|Gelatini
+|Sorbébé
+|lang="ko"|바닐프티
+|lang="zh-hans"|迷你冰
+|lang="zh-hant"|迷你冰
+|-
+| 0583
+|[[バニリッチ]]
+|Vanillish
+|Gelatroppo
+|Sorboul
+|lang="ko"|바닐리치
+|lang="zh-hans"|多多冰
+|lang="zh-hant"|多多冰
+|-
+| 0584
+|[[バイバニラ]]
+|Vanilluxe
+|Gelatwino
+|Sorbouboul
+|lang="ko"|배바닐라
+|lang="zh-hans"|双倍多多冰
+|lang="zh-hant"|雙倍多多冰
+|-
+| 0585
+|[[シキジカ]]
+|Deerling
+|Sesokitz
+|Vivaldaim
+|lang="ko"|사철록
+|lang="zh-hans"|四季鹿
+|lang="zh-hant"|四季鹿
+|-
+| 0586
+|[[メブキジカ]]
+|Sawsbuck
+|Kronjuwild
+|Haydaim
+|lang="ko"|바라철록
+|lang="zh-hans"|萌芽鹿
+|lang="zh-hant"|萌芽鹿
+|-
+| 0587
+|[[エモンガ]]
+|Emolga
+|Emolga
+|Emolga
+|lang="ko"|에몽가
+|lang="zh-hans"|电飞鼠
+|lang="zh-hant"|電飛鼠
+|-
+| 0588
+|[[カブルモ]]
+|Karrablast
+|Laukaps
+|Carabing
+|lang="ko"|딱정곤
+|lang="zh-hans"|盖盖虫
+|lang="zh-hant"|蓋蓋蟲
+|-
+| 0589
+|[[シュバルゴ]]
+|Escavalier
+|Cavalanzas
+|Lançargot
+|lang="ko"|슈바르고
+|lang="zh-hans"|骑士蜗牛
+|lang="zh-hant"|騎士蝸牛
+|-
+| 0590
+|[[タマゲタケ]]
+|Foongus
+|Tarnpignon
+|Trompignon
+|lang="ko"|깜놀버슬
+|lang="zh-hans"|哎呀球菇
+|lang="zh-hant"|哎呀球菇
+|-
+| 0591
+|[[モロバレル]]
+|Amoonguss
+|Hutsassa
+|Gaulet
+|lang="ko"|뽀록나
+|lang="zh-hans"|败露球菇
+|lang="zh-hant"|敗露球菇
+|-
+| 0592
+|[[プルリル]]
+|Frillish
+|Quabbel
+|Viskuse
+|lang="ko"|탱그릴
+|lang="zh-hans"|轻飘飘
+|lang="zh-hant"|輕飄飄
+|-
+| 0593
+|[[ブルンゲル]]
+|Jellicent
+|Apoquallyp
+|Moyade
+|lang="ko"|탱탱겔
+|lang="zh-hans"|胖嘟嘟
+|lang="zh-hant"|胖嘟嘟
+|-
+| 0594
+|[[ママンボウ]]
+|Alomomola
+|Mamolida
+|Mamanbo
+|lang="ko"|맘복치
+|lang="zh-hans"|保姆曼波
+|lang="zh-hant"|保母曼波
+|-
+| 0595
+|[[バチュル]]
+|Joltik
+|Wattzapf
+|Statitik
+|lang="ko"|피쪼옥
+|lang="zh-hans"|电电虫
+|lang="zh-hant"|電電蟲
+|-
+| 0596
+|[[デンチュラ]]
+|Galvantula
+|Voltula
+|Mygavolt
+|lang="ko"|전툴라
+|lang="zh-hans"|电蜘蛛
+|lang="zh-hant"|電蜘蛛
+|-
+| 0597
+|[[テッシード]]
+|Ferroseed
+|Kastadur
+|Grindur
+|lang="ko"|철시드
+|lang="zh-hans"|种子铁球
+|lang="zh-hant"|種子鐵球
+|-
+| 0598
+|[[ナットレイ]]
+|Ferrothorn
+|Tentantel
+|Noacier
+|lang="ko"|너트령
+|lang="zh-hans"|坚果哑铃
+|lang="zh-hant"|堅果啞鈴
+|-
+| 0599
+|[[ギアル]]
+|Klink
+|Klikk
+|Tic
+|lang="ko"|기어르
+|lang="zh-hans"|齿轮儿
+|lang="zh-hant"|齒輪兒
+|-
+| 0600
+|[[ギギアル]]
+|Klang
+|Kliklak
+|Clic
+|lang="ko"|기기어르
+|lang="zh-hans"|齿轮组
+|lang="zh-hant"|齒輪組
+|-
+| 0601
+|[[ギギギアル]]
+|Klinklang
+|Klikdiklak
+|Cliticlic
+|lang="ko"|기기기어르
+|lang="zh-hans"|齿轮怪
+|lang="zh-hant"|齒輪怪
+|-
+| 0602
+|[[シビシラス]]
+|Tynamo
+|Zapplardin
+|Anchwatt
+|lang="ko"|저리어
+|lang="zh-hans"|麻麻小鱼
+|lang="zh-hant"|麻麻小魚
+|-
+| 0603
+|[[シビビール]]
+|Eelektrik
+|Zapplalek
+|Lampéroie
+|lang="ko"|저리릴
+|lang="zh-hans"|麻麻鳗
+|lang="zh-hant"|麻麻鰻
+|-
+| 0604
+|[[シビルドン]]
+|Eelektross
+|Zapplarang
+|Ohmassacre
+|lang="ko"|저리더프
+|lang="zh-hans"|麻麻鳗鱼王
+|lang="zh-hant"|麻麻鰻魚王
+|-
+| 0605
+|[[リグレー]]
+|Elgyem
+|Pygraulon
+|Lewsor
+|lang="ko"|리그레
+|lang="zh-hans"|小灰怪
+|lang="zh-hant"|小灰怪
+|-
+| 0606
+|[[オーベム]]
+|Beheeyem
+|Megalon
+|Neitram
+|lang="ko"|벰크
+|lang="zh-hans"|大宇怪
+|lang="zh-hant"|大宇怪
+|-
+| 0607
+|[[ヒトモシ]]
+|Litwick
+|Lichtel
+|Funécire
+|lang="ko"|불켜미
+|lang="zh-hans"|烛光灵
+|lang="zh-hant"|燭光靈
+|-
+| 0608
+|[[ランプラー]]
+|Lampent
+|Laternecto
+|Mélancolux
+|lang="ko"|램프라
+|lang="zh-hans"|灯火幽灵
+|lang="zh-hant"|燈火幽靈
+|-
+| 0609
+|[[シャンデラ]]
+|Chandelure
+|Skelabra
+|Lugulabre
+|lang="ko"|샹델라
+|lang="zh-hans"|水晶灯火灵
+|lang="zh-hant"|水晶燈火靈
+|-
+| 0610
+|[[キバゴ]]
+|Axew
+|Milza
+|Coupenotte
+|lang="ko"|터검니
+|lang="zh-hans"|牙牙
+|lang="zh-hant"|牙牙
+|-
+| 0611
+|[[オノンド]]
+|Fraxure
+|Sharfax
+|Incisache
+|lang="ko"|액슨도
+|lang="zh-hans"|斧牙龙
+|lang="zh-hant"|斧牙龍
+|-
+| 0612
+|[[オノノクス]]
+|Haxorus
+|Maxax
+|Tranchodon
+|lang="ko"|액스라이즈
+|lang="zh-hans"|双斧战龙
+|lang="zh-hant"|雙斧戰龍
+|-
+| 0613
+|[[クマシュン]]
+|Cubchoo
+|Petznief
+|Polarhume
+|lang="ko"|코고미
+|lang="zh-hans"|喷嚏熊
+|lang="zh-hant"|噴嚏熊
+|-
+| 0614
+|[[ツンベアー]]
+|Beartic
+|Siberio
+|Polagriffe
+|lang="ko"|툰베어
+|lang="zh-hans"|冻原熊
+|lang="zh-hant"|凍原熊
+|-
+| 0615
+|[[フリージオ]]
+|Cryogonal
+|Frigometri
+|Hexagel
+|lang="ko"|프리지오
+|lang="zh-hans"|几何雪花
+|lang="zh-hant"|幾何雪花
+|-
+| 0616
+|[[チョボマキ]]
+|Shelmet
+|Schnuthelm
+|Escargaume
+|lang="ko"|쪼마리
+|lang="zh-hans"|小嘴蜗
+|lang="zh-hant"|小嘴蝸
+|-
+| 0617
+|[[アギルダー]]
+|Accelgor
+|Hydragil
+|Limaspeed
+|lang="ko"|어지리더
+|lang="zh-hans"|敏捷虫
+|lang="zh-hant"|敏捷蟲
+|-
+| 0618
+|[[マッギョ]]
+|Stunfisk
+|Flunschlik
+|Limonde
+|lang="ko"|메더
+|lang="zh-hans"|泥巴鱼
+|lang="zh-hant"|泥巴魚
+|-
+| 0619
+|[[コジョフー]]
+|Mienfoo
+|Lin-Fu
+|Kungfouine
+|lang="ko"|비조푸
+|lang="zh-hans"|功夫鼬
+|lang="zh-hant"|功夫鼬
+|-
+| 0620
+|[[コジョンド]]
+|Mienshao
+|Wie-Shu
+|Shaofouine
+|lang="ko"|비조도
+|lang="zh-hans"|师父鼬
+|lang="zh-hant"|師父鼬
+|-
+| 0621
+|[[クリムガン]]
+|Druddigon
+|Shardrago
+|Drakkarmin
+|lang="ko"|크리만
+|lang="zh-hans"|赤面龙
+|lang="zh-hant"|赤面龍
+|-
+| 0622
+|[[ゴビット]]
+|Golett
+|Golbit
+|Gringolem
+|lang="ko"|골비람
+|lang="zh-hans"|泥偶小人
+|lang="zh-hant"|泥偶小人
+|-
+| 0623
+|[[ゴルーグ]]
+|Golurk
+|Golgantes
+|Golemastoc
+|lang="ko"|골루그
+|lang="zh-hans"|泥偶巨人
+|lang="zh-hant"|泥偶巨人
+|-
+| 0624
+|[[コマタナ]]
+|Pawniard
+|Gladiantri
+|Scalpion
+|lang="ko"|자망칼
+|lang="zh-hans"|驹刀小兵
+|lang="zh-hant"|駒刀小兵
+|-
+| 0625
+|[[キリキザン]]
+|Bisharp
+|Caesurio
+|Scalproie
+|lang="ko"|절각참
+|lang="zh-hans"|劈斩司令
+|lang="zh-hant"|劈斬司令
+|-
+| 0626
+|[[バッフロン]]
+|Bouffalant
+|Bisofank
+|Frison
+|lang="ko"|버프론
+|lang="zh-hans"|爆炸头水牛
+|lang="zh-hant"|爆炸頭水牛
+|-
+| 0627
+|[[ワシボン]]
+|Rufflet
+|Geronimatz
+|Furaiglon
+|lang="ko"|수리둥보
+|lang="zh-hans"|毛头小鹰
+|lang="zh-hant"|毛頭小鷹
+|-
+| 0628
+|[[ウォーグル]]
+|Braviary
+|Washakwil
+|Gueriaigle
+|lang="ko"|워글
+|lang="zh-hans"|勇士雄鹰
+|lang="zh-hant"|勇士雄鷹
+|-
+| 0629
+|[[バルチャイ]]
+|Vullaby
+|Skallyk
+|Vostourno
+|lang="ko"|벌차이
+|lang="zh-hans"|秃鹰丫头
+|lang="zh-hant"|禿鷹丫頭
+|-
+| 0630
+|[[バルジーナ]]
+|Mandibuzz
+|Grypheldis
+|Vaututrice
+|lang="ko"|버랜지나
+|lang="zh-hans"|秃鹰娜
+|lang="zh-hant"|禿鷹娜
+|-
+| 0631
+|[[クイタラン]]
+|Heatmor
+|Furnifraß
+|Aflamanoir
+|lang="ko"|앤티골
+|lang="zh-hans"|熔蚁兽
+|lang="zh-hant"|熔蟻獸
+|-
+| 0632
+|[[アイアント]]
+|Durant
+|Fermicula
+|Fermite
+|lang="ko"|아이앤트
+|lang="zh-hans"|铁蚁
+|lang="zh-hant"|鐵蟻
+|-
+| 0633
+|[[モノズ]]
+|Deino
+|Kapuno
+|Solochi
+|lang="ko"|모노두
+|lang="zh-hans"|单首龙
+|lang="zh-hant"|單首龍
+|-
+| 0634
+|[[ジヘッド]]
+|Zweilous
+|Duodino
+|Diamat
+|lang="ko"|디헤드
+|lang="zh-hans"|双首暴龙
+|lang="zh-hant"|雙首暴龍
+|-
+| 0635
+|[[サザンドラ]]
+|Hydreigon
+|Trikephalo
+|Trioxhydre
+|lang="ko"|삼삼드래
+|lang="zh-hans"|三首恶龙
+|lang="zh-hant"|三首惡龍
+|-
+| 0636
+|[[メラルバ]]
+|Larvesta
+|Ignivor
+|Pyronille
+|lang="ko"|활화르바
+|lang="zh-hans"|燃烧虫
+|lang="zh-hant"|燃燒蟲
+|-
+| 0637
+|[[ウルガモス]]
+|Volcarona
+|Ramoth
+|Pyrax
+|lang="ko"|불카모스
+|lang="zh-hans"|火神蛾
+|lang="zh-hant"|火神蛾
+|-
+| 0638
+|[[コバルオン]]
+|Cobalion
+|Kobalium
+|Cobaltium
+|lang="ko"|코바르온
+|lang="zh-hans"|勾帕路翁
+|lang="zh-hant"|勾帕路翁
+|-
+| 0639
+|[[テラキオン]]
+|Terrakion
+|Terrakium
+|Terrakium
+|lang="ko"|테라키온
+|lang="zh-hans"|代拉基翁
+|lang="zh-hant"|代拉基翁
+|-
+| 0640
+|[[ビリジオン]]
+|Virizion
+|Viridium
+|Viridium
+|lang="ko"|비리디온
+|lang="zh-hans"|毕力吉翁
+|lang="zh-hant"|畢力吉翁
+|-
+| 0641
+|[[トルネロス]]
+|Tornadus
+|Boreos
+|Boréas
+|lang="ko"|토네로스
+|lang="zh-hans"|龙卷云
+|lang="zh-hant"|龍捲雲
+|-
+| 0642
+|[[ボルトロス]]
+|Thundurus
+|Voltolos
+|Fulguris
+|lang="ko"|볼트로스
+|lang="zh-hans"|雷电云
+|lang="zh-hant"|雷電雲
+|-
+| 0643
+|[[レシラム]]
+|Reshiram
+|Reshiram
+|Reshiram
+|lang="ko"|레시라무
+|lang="zh-hans"|莱希拉姆
+|lang="zh-hant"|萊希拉姆
+|-
+| 0644
+|[[ゼクロム]]
+|Zekrom
+|Zekrom
+|Zekrom
+|lang="ko"|제크로무
+|lang="zh-hans"|捷克罗姆
+|lang="zh-hant"|捷克羅姆
+|-
+| 0645
+|[[ランドロス]]
+|Landorus
+|Demeteros
+|Démétéros
+|lang="ko"|랜드로스
+|lang="zh-hans"|土地云
+|lang="zh-hant"|土地雲
+|-
+| 0646
+|[[キュレム]]
+|Kyurem
+|Kyurem
+|Kyurem
+|lang="ko"|큐레무
+|lang="zh-hans"|酋雷姆
+|lang="zh-hant"|酋雷姆
+|-
+| 0647
+|[[ケルディオ]]
+|Keldeo
+|Keldeo
+|Keldeo
+|lang="ko"|케르디오
+|lang="zh-hans"|凯路迪欧
+|lang="zh-hant"|凱路迪歐
+|-
+| 0648
+|[[メロエッタ]]
+|Meloetta
+|Meloetta
+|Meloetta
+|lang="ko"|메로엣타
+|lang="zh-hans"|美洛耶塔
+|lang="zh-hant"|美洛耶塔
+|-
+| 0649
+|[[ゲノセクト]]
+|Genesect
+|Genesect
+|Genesect
+|lang="ko"|게노세크트
+|lang="zh-hans"|盖诺赛克特
+|lang="zh-hant"|蓋諾賽克特
+|}
+
+== 第六世代 ==
+{| {{graytable|c}}
+! style="background-color:#f8f6f0;" class=c|番号
+! style="background-color:#ffc1c1;"|日本語
+! style="background-color:#ff6fff;"|英語、イタリア語、スペイン語
+! style="background-color:#eff19c;"|ドイツ語 
+! style="background-color:#c5e4f5;"|フランス語
+! style="background-color:#9481d8;"|韓国語
+! style="background-color:#FFE0C4;"|中国語（簡）
+! style="background-color:#FFE0C4;"|中国語（繁）
+|-
+| 0650
+|[[ハリマロン]]
+|Chespin
+|Igamaro
+|Marisson
+|lang="ko"|도치마론
+|lang="zh-hans"|哈力栗
+|lang="zh-hant"|哈力栗
+|-
+| 0651
+|[[ハリボーグ]]
+|Quilladin
+|Igastarnish
+|Boguérisse
+|lang="ko"|도치보구
+|lang="zh-hans"|胖胖哈力
+|lang="zh-hant"|胖胖哈力
+|-
+| 0652
+|[[ブリガロン]]
+|Chesnaught
+|Brigaron
+|Blindépique
+|lang="ko"|브리가론
+|lang="zh-hans"|布里卡隆
+|lang="zh-hant"|布里卡隆
+|-
+| 0653
+|[[フォッコ]]
+|Fennekin
+|Fynx
+|Feunnec
+|lang="ko"|푸호꼬
+|lang="zh-hans"|火狐狸
+|lang="zh-hant"|火狐狸
+|-
+| 0654
+|[[テールナー]]
+|Braixen
+|Rutena
+|Roussil
+|lang="ko"|테르나
+|lang="zh-hans"|长尾火狐
+|lang="zh-hant"|長尾火狐
+|-
+| 0655
+|[[マフォクシー]]
+|Delphox
+|Fennexis
+|Goupelin
+|lang="ko"|마폭시
+|lang="zh-hans"|妖火红狐
+|lang="zh-hant"|妖火紅狐
+|-
+| 0656
+|[[ケロマツ]]
+|Froakie
+|Froxy
+|Grenousse
+|lang="ko"|개구마르
+|lang="zh-hans"|呱呱泡蛙
+|lang="zh-hant"|呱呱泡蛙
+|-
+| 0657
+|[[ゲコガシラ]]
+|Frogadier
+|Amphizel
+|Croâporal
+|lang="ko"|개굴반장
+|lang="zh-hans"|呱头蛙
+|lang="zh-hant"|呱頭蛙
+|-
+| 0658
+|[[ゲッコウガ]]
+|Greninja
+|Quajutsu
+|Amphinobi
+|lang="ko"|개굴닌자
+|lang="zh-hans"|甲贺忍蛙
+|lang="zh-hant"|甲賀忍蛙
+|-
+| 0659
+|[[ホルビー]]
+|Bunnelby
+|Sapereau
+|Sapereau
+|lang="ko"|파르빗
+|lang="zh-hans"|掘掘兔
+|lang="zh-hant"|掘掘兔
+|-
+| 0660
+|[[ホルード]]
+|Diggersby
+|Grebbit
+|Excavarenne
+|lang="ko"|파르토
+|lang="zh-hans"|掘地兔
+|lang="zh-hant"|掘地兔
+|-
+| 0661
+|[[ヤヤコマ]]
+|Fletchling
+|Dartiri
+|Passerouge
+|lang="ko"|화살꼬빈
+|lang="zh-hans"|小箭雀
+|lang="zh-hant"|小箭雀
+|-
+| 0662
+|[[ヒノヤコマ]]
+|Fletchinder
+|Dartignis
+|Braisillon
+|lang="ko"|불화살빈
+|lang="zh-hans"|火箭雀
+|lang="zh-hant"|火箭雀
+|-
+| 0663
+|[[ファイアロー]]
+|Talonflame
+|Fiaro
+|Flambusard
+|lang="ko"|파이어로
+|lang="zh-hans"|烈箭鹰
+|lang="zh-hant"|烈箭鷹
+|-
+| 0664
+|[[コフキムシ]]
+|Scatterbug
+|Purmel
+|Lépidonille
+|lang="ko"|분이벌레
+|lang="zh-hans"|粉蝶虫
+|lang="zh-hant"|粉蝶蟲
+|-
+| 0665
+|[[コフーライ]]
+|Spewpa
+|Puponcho
+|Pérégrain
+|lang="ko"|분떠도리
+|lang="zh-hans"|粉蝶蛹
+|lang="zh-hant"|粉蝶蛹
+|-
+| 0666
+|[[ビビヨン]]
+|Vivillon
+|Vivillon
+|Prismillon
+|lang="ko"|비비용
+|lang="zh-hans"|彩粉蝶
+|lang="zh-hant"|彩粉蝶
+|-
+| 0667
+|[[シシコ]]
+|Litleo
+|Leufeo
+|Hélionceau
+|lang="ko"|레오꼬
+|lang="zh-hans"|小狮狮
+|lang="zh-hant"|小獅獅
+|-
+| 0668
+|[[カエンジシ]]
+|Pyroar
+|Pyroleo
+|Némélios
+|lang="ko"|화염레오
+|lang="zh-hans"|火炎狮
+|lang="zh-hant"|火炎獅
+|-
+| 0669
+|[[フラベベ]]
+|Flabébé
+|Flabébé
+|Flabébé
+|lang="ko"|플라베베
+|lang="zh-hans"|花蓓蓓
+|lang="zh-hant"|花蓓蓓
+|-
+| 0670
+|[[フラエッテ]]
+|Floette
+|Floette
+|Floette
+|lang="ko"|플라엣테
+|lang="zh-hans"|花叶蒂
+|lang="zh-hant"|花葉蒂
+|-
+| 0671
+|[[フラージェス]]
+|Florges
+|Florges
+|Florges
+|lang="ko"|플라제스
+|lang="zh-hans"|花洁夫人
+|lang="zh-hant"|花潔夫人
+|-
+| 0672
+|[[メェークル]]
+|Skiddo
+|Mähikel
+|Cabriolaine
+|lang="ko"|메이클
+|lang="zh-hans"|坐骑小羊
+|lang="zh-hant"|坐騎小羊
+|-
+| 0673
+|[[ゴーゴート]]
+|Gogoat
+|Chevrumm
+|Chevroum
+|lang="ko"|고고트
+|lang="zh-hans"|坐骑山羊
+|lang="zh-hant"|坐騎山羊
+|-
+| 0674
+|[[ヤンチャム]]
+|Pancham
+|Pam-Pam
+|Pandespiègle
+|lang="ko"|판짱
+|lang="zh-hans"|顽皮熊猫
+|lang="zh-hant"|頑皮熊貓
+|-
+| 0675
+|[[ゴロンダ]]
+|Pangoro
+|Pandagro
+|Pandarbare
+|lang="ko"|부란다
+|lang="zh-hans"|霸道熊猫
+|lang="zh-hant"|流氓熊貓
+|-
+| 0676
+|[[トリミアン]]
+|Furfrou
+|Coiffwaff
+|Couafarel
+|lang="ko"|트리미앙
+|lang="zh-hans"|多丽米亚
+|lang="zh-hant"|多麗米亞
+|-
+| 0677
+|[[ニャスパー]]
+|Espurr
+|Psiau
+|Psystigri
+|lang="ko"|냐스퍼
+|lang="zh-hans"|妙喵
+|lang="zh-hant"|妙喵
+|-
+| 0678
+|[[ニャオニクス]]
+|Meowstic
+|Psiaugon
+|Mistigrix
+|lang="ko"|냐오닉스
+|lang="zh-hans"|超能妙喵
+|lang="zh-hant"|超能妙喵
+|-
+| 0679
+|[[ヒトツキ]]
+|Honedge
+|Gramokles
+|Monorpale
+|lang="ko"|단칼빙
+|lang="zh-hans"|独剑鞘
+|lang="zh-hant"|獨劍鞘
+|-
+| 0680
+|[[ニダンギル]]
+|Doublade
+|Duokles
+|Dimoclès
+|lang="ko"|쌍검킬
+|lang="zh-hans"|双剑鞘
+|lang="zh-hant"|雙劍鞘
+|-
+| 0681
+|[[ギルガルド]]
+|Aegislash
+|Durengard
+|Exagide
+|lang="ko"|킬가르도
+|lang="zh-hans"|坚盾剑怪
+|lang="zh-hant"|堅盾劍怪
+|-
+| 0682
+|[[シュシュプ]]
+|Spritzee
+|Parfi
+|Fluvetin
+|lang="ko"|슈쁘
+|lang="zh-hans"|粉香香
+|lang="zh-hant"|粉香香
+|-
+| 0683
+|[[フレフワン]]
+|Aromatisse
+|Parfinesse
+|Cocotine
+|lang="ko"|프레프티르
+|lang="zh-hans"|芳香精
+|lang="zh-hant"|芳香精
+|-
+| 0684
+|[[ペロッパフ]]
+|Swirlix
+|Flauschling
+|Sucroquin
+|lang="ko"|나룸퍼프
+|lang="zh-hans"|绵绵泡芙
+|lang="zh-hant"|綿綿泡芙
+|-
+| 0685
+|[[ペロリーム]]
+|Slurpuff
+|Sabbaione
+|Cupcanaille
+|lang="ko"|나루림
+|lang="zh-hans"|胖甜妮
+|lang="zh-hant"|胖甜妮
+|-
+| 0686
+|[[マーイーカ]]
+|Inkay
+|Iscalar
+|Sepiatop
+|lang="ko"|오케이징
+|lang="zh-hans"|好啦鱿
+|lang="zh-hant"|好啦魷
+|-
+| 0687
+|[[カラマネロ]]
+|Malamar
+|Calamanero
+|Sepiatroce
+|lang="ko"|칼라마네로
+|lang="zh-hans"|乌贼王
+|lang="zh-hant"|烏賊王
+|-
+| 0688
+|[[カメテテ]]
+|Binacle
+|Bithora
+|Opermine
+|lang="ko"|거북손손
+|lang="zh-hans"|龟脚脚
+|lang="zh-hant"|龜腳腳
+|-
+| 0689
+|[[ガメノデス]]
+|Barbaracle
+|Thanathora
+|Golgopathe
+|lang="ko"|거북손데스
+|lang="zh-hans"|龟足巨铠
+|lang="zh-hant"|龜足巨鎧
+|-
+| 0690
+|[[クズモー]]
+|Skrelp
+|Algitt
+|Venalgue
+|lang="ko"|수레기
+|lang="zh-hans"|垃垃藻
+|lang="zh-hant"|垃垃藻
+|-
+| 0691
+|[[ドラミドロ]]
+|Dragalge
+|Tandrak
+|Kravarech
+|lang="ko"|드래캄
+|lang="zh-hans"|毒藻龙
+|lang="zh-hant"|毒藻龍
+|-
+| 0692
+|[[ウデッポウ]]
+|Clauncher
+|Scampisto
+|Flingouste
+|lang="ko"|완철포
+|lang="zh-hans"|铁臂枪虾
+|lang="zh-hant"|鐵臂槍蝦
+|-
+| 0693
+|[[ブロスター]]
+|Clawitzer
+|Wummer
+|Gamblast
+|lang="ko"|블로스터
+|lang="zh-hans"|钢炮臂虾
+|lang="zh-hant"|鋼炮臂蝦
+|-
+| 0694
+|[[エリキテル]]
+|Helioptile
+|Eguana
+|Galvaran
+|lang="ko"|목도리키텔
+|lang="zh-hans"|伞电蜥
+|lang="zh-hant"|傘電蜥
+|-
+| 0695
+|[[エレザード]]
+|Heliolisk
+|Elezard
+|Iguolta
+|lang="ko"|일레도리자드
+|lang="zh-hans"|光电伞蜥
+|lang="zh-hant"|光電傘蜥
+|-
+| 0696
+|[[チゴラス]]
+|Tyrunt
+|Balgoras
+|Ptyranidur
+|lang="ko"|티고라스
+|lang="zh-hans"|宝宝暴龙
+|lang="zh-hant"|寶寶暴龍
+|-
+| 0697
+|[[ガチゴラス]]
+|Tyrantrum
+|Monargoras
+|Rexillius
+|lang="ko"|견고라스
+|lang="zh-hans"|怪颚龙
+|lang="zh-hant"|怪顎龍
+|-
+| 0698
+|[[アマルス]]
+|Amaura
+|Amarino
+|Amagara
+|lang="ko"|아마루스
+|lang="zh-hans"|冰雪龙
+|lang="zh-hant"|冰雪龍
+|-
+| 0699
+|[[アマルルガ]]
+|Aurorus
+|Amagarga
+|Dragmara
+|lang="ko"|아마루르가
+|lang="zh-hans"|冰雪巨龙
+|lang="zh-hant"|冰雪巨龍
+|-
+| 0700
+|[[ニンフィア]]
+|Sylveon
+|Feelinara
+|Nymphali
+|lang="ko"|님피아
+|lang="zh-hans"|仙子伊布
+|lang="zh-hant"|仙子伊布
+|-
+| 0701
+|[[ルチャブル]]
+|Hawlucha
+|Resladero
+|Brutalibré
+|lang="ko"|루차불
+|lang="zh-hans"|摔角鹰人
+|lang="zh-hant"|摔角鷹人
+|-
+| 0702
+|[[デデンネ]]
+|Dedenne
+|Dedenne
+|Dedenne
+|lang="ko"|데덴네
+|lang="zh-hans"|咚咚鼠
+|lang="zh-hant"|咚咚鼠
+|-
+| 0703
+|[[メレシー]]
+|Carbink
+|Rocara
+|Strassie
+|lang="ko"|멜리시
+|lang="zh-hans"|小碎钻
+|lang="zh-hant"|小碎鑽
+|-
+| 0704
+|[[ヌメラ]]
+|Goomy
+|Viscora
+|Mucuscule
+|lang="ko"|미끄메라
+|lang="zh-hans"|黏黏宝
+|lang="zh-hant"|黏黏寶
+|-
+| 0705
+|[[ヌメイル]]
+|Sliggoo
+|Viscargot
+|Colimucus
+|lang="ko"|미끄네일
+|lang="zh-hans"|黏美儿
+|lang="zh-hant"|黏美兒
+|-
+| 0706
+|[[ヌメルゴン]]
+|Goodra
+|Viscogon
+|Muplodocus
+|lang="ko"|미끄래곤
+|lang="zh-hans"|黏美龙
+|lang="zh-hant"|黏美龍
+|-
+| 0707
+|[[クレッフィ]]
+|Klefki
+|Clavion
+|Trousselin
+|lang="ko"|클레피
+|lang="zh-hans"|钥圈儿
+|lang="zh-hant"|鑰圈兒
+|-
+| 0708
+|[[ボクレー]]
+|Phantump
+|Paragoni
+|Brocélôme
+|lang="ko"|나목령
+|lang="zh-hans"|小木灵
+|lang="zh-hant"|小木靈
+|-
+| 0709
+|[[オーロット]]
+|Trevenant
+|Trombork
+|Desséliande
+|lang="ko"|대로트
+|lang="zh-hans"|朽木妖
+|lang="zh-hant"|朽木妖
+|-
+| 0710
+|[[バケッチャ]]
+|Pumpkaboo
+|Irrbis
+|Pitrouille
+|lang="ko"|호바귀
+|lang="zh-hans"|南瓜精
+|lang="zh-hant"|南瓜精
+|-
+| 0711
+|[[パンプジン]]
+|Gourgeist
+|Pumpdjinn
+|Banshitrouye
+|lang="ko"|펌킨인
+|lang="zh-hans"|南瓜怪人
+|lang="zh-hant"|南瓜怪人
+|-
+| 0712
+|[[カチコール]]
+|Bergmite
+|Arktip
+|Grelaçon
+|lang="ko"|꽁어름
+|lang="zh-hans"|冰宝
+|lang="zh-hant"|冰寶
+|-
+| 0713
+|[[クレベース]]
+|Avalugg
+|Arktilas
+|Séracrawl
+|lang="ko"|크레베이스
+|lang="zh-hans"|冰岩怪
+|lang="zh-hant"|冰岩怪
+|-
+| 0714
+|[[オンバット]]
+|Noibat
+|eF-eM
+|Sonistrelle
+|lang="ko"|음뱃
+|lang="zh-hans"|嗡蝠
+|lang="zh-hant"|嗡蝠
+|-
+| 0715
+|[[オンバーン]]
+|Noivern
+|UHaFnir
+|Bruyverne
+|lang="ko"|음번
+|lang="zh-hans"|音波龙
+|lang="zh-hant"|音波龍
+|-
+| 0716
+|[[ゼルネアス]]
+|Xerneas
+|Xerneas
+|Xerneas
+|lang="ko"|제르네아스
+|lang="zh-hans"|哲尔尼亚斯
+|lang="zh-hant"|哲爾尼亞斯
+|-
+| 0717
+|[[イベルタル]]
+|Yveltal
+|Yveltal
+|Yveltal
+|lang="ko"|이벨타르
+|lang="zh-hans"|伊裴尔塔尔
+|lang="zh-hant"|伊裴爾塔爾
+|-
+| 0718
+|[[ジガルデ]]
+|Zygarde
+|Zygarde
+|Zygarde
+|lang="ko"|지가르데
+|lang="zh-hans"|基格尔德
+|lang="zh-hant"|基格爾德
+|-
+| 0719
+|[[ディアンシー]]
+|Diancie
+|Diancie
+|Diancie
+|lang="ko"|디안시
+|lang="zh-hans"|蒂安希
+|lang="zh-hant"|蒂安希
+|-
+| 0720
+|[[フーパ]]
+|Hoopa
+|Hoopa
+|Hoopa
+|lang="ko"|후파
+|lang="zh-hans"|胡帕
+|lang="zh-hant"|胡帕
+|-
+| 0721
+|[[ボルケニオン]]
+|Volcanion
+|Volcanion
+|Volcanion
+|볼케니온
+|lang="zh-hans"|波尔凯尼恩
+|lang="zh-hant"|波爾凱尼恩
+|}
+
+== 第七世代 ==
+{| {{graytable|c}}
+! style="background-color:#f8f6f0;" class=c|番号
+! style="background-color:#ffc1c1;"|日本語
+! style="background-color:#ff6fff;"|英語、イタリア語、スペイン語
+! style="background-color:#eff19c;"|ドイツ語 
+! style="background-color:#c5e4f5;"|フランス語
+! style="background-color:#9481d8;"|韓国語
+! style="background-color:#FFE0C4;"|中国語（簡）
+! style="background-color:#FFE0C4;"|中国語（繁）
+|-
+| 0722 || [[モクロー]] || Rowlet || Bauz || Brindibou || 나몰빼미 || lang="zh-hans" | 木木枭 || lang="zh-hant" | 木木梟
+|-
+| 0723 || [[フクスロー]] || Dartrix || Arboretoss || Efflèche || 빼미스로우 || lang="zh-hans" | 投羽枭 || lang="zh-hant" | 投羽梟
+|-
+| 0724 || [[ジュナイパー]] || Decidueye || Silvarro || Archéduc || 모크나이퍼 || lang="zh-hans" | 狙射树枭 || lang="zh-hant" | 狙射樹梟
+|-
+| 0725 || [[ニャビー]] || Litten || Flamiau || Flamiaou || 냐오불 || lang="zh-hans" | 火斑喵 || lang="zh-hant" | 火斑喵
+|-
+| 0726 || [[ニャヒート]] || Torracat || Miezunder || Matoufeu || 냐오히트 || lang="zh-hans" | 炎热喵 || lang="zh-hant" | 炎熱喵
+|-
+| 0727 || [[ガオガエン]] || Incineroar || Fuegro || Félinferno || 어흥염 || lang="zh-hans" | 炽焰咆哮虎 || lang="zh-hant" | 熾焰咆哮虎
+|-
+| 0728 || [[アシマリ]] || Popplio || Robball || Otaquin || 누리공 || lang="zh-hans" | 球球海狮 || lang="zh-hant" | 球球海獅
+|-
+| 0729 || [[オシャマリ]] || Brionne || Marikeck || Otarlette || 키요공 || lang="zh-hans" | 花漾海狮 || lang="zh-hant" | 花漾海獅
+|-
+| 0730 || [[アシレーヌ]] || Primarina || Primarene || Oratoria || 누리레느 || lang="zh-hans" | 西狮海壬 || lang="zh-hant" | 西獅海壬
+|-
+| 0731 || [[ツツケラ]] || Pikipek || Peppeck || Picassaut || 콕코구리 || lang="zh-hans" | 小笃儿 || lang="zh-hant" | 小篤兒
+|-
+| 0732 || [[ケララッパ]] || Trumbeak || Trompeck || Piclairon || 크라파 || lang="zh-hans" | 喇叭啄鸟 || lang="zh-hant" | 喇叭啄鳥
+|-
+| 0733 || [[ドデカバシ]] || Toucannon || Tukanon || Bazoucan || 왕큰부리 || lang="zh-hans" | 铳嘴大鸟 || lang="zh-hant" | 銃嘴大鳥
+|-
+| 0734 || [[ヤングース]] || Yungoos || Mangunior || Manglouton || 영구스 || lang="zh-hans" | 猫鼬少 || lang="zh-hant" | 貓鼬少
+|-
+| 0735 || [[デカグース]] || Gumshoos || Manguspektor || Argouste || 형사구스 || lang="zh-hans" | 猫鼬探长 || lang="zh-hant" | 貓鼬探長
+|-
+| 0736 || [[アゴジムシ]] || Grubbin || Mabula || Larvibule || 턱지충이 || lang="zh-hans" | 强颚鸡母虫 || lang="zh-hant" | 強顎雞母蟲
+|-
+| 0737 || [[デンヂムシ]] || Charjabug || Akkup || Chrysapile || 전지충이 || lang="zh-hans" | 虫电宝 || lang="zh-hant" | 蟲電寶
+|-
+| 0738 || [[クワガノン]] || Vikavolt || Donarion || Lucanon || 투구뿌논 || lang="zh-hans" | 锹农炮虫 || lang="zh-hant" | 鍬農炮蟲
+|-
+| 0739 || [[マケンカニ]] || Crabrawler || Krabbox || Crabagarre || 오기지게 || lang="zh-hans" | 好胜蟹 || lang="zh-hant" | 好勝蟹
+|-
+| 0740 || [[ケケンカニ]] || Crabominable || Krawell || Crabominable || 모단단게 || lang="zh-hans" | 好胜毛蟹 || lang="zh-hant" | 好勝毛蟹
+|-
+| 0741 || [[オドリドリ]] || Oricorio || Choreogel || Plumeline || 춤추새 || lang="zh-hans" | 花舞鸟 || lang="zh-hant" | 花舞鳥
+|-
+| 0742 || [[アブリー]] || Cutiefly || Wommel || Bombydou || 에블리 || lang="zh-hans" | 萌虻 || lang="zh-hant" | 萌虻
+|-
+| 0743 || [[アブリボン]] || Ribombee || Bandelby || Rubombelle || 에리본 || lang="zh-hans" | 蝶结萌虻 || lang="zh-hant" | 蝶結萌虻
+|-
+| 0744 || [[イワンコ]] || Rockruff || Wuffels || Rocabot || 암멍이 || lang="zh-hans" | 岩狗狗 || lang="zh-hant" | 岩狗狗
+|-
+| 0745 || [[ルガルガン]] || Lycanroc || Wolwerock || Lougaroc || 루가루암 || lang="zh-hans" | 鬃岩狼人 || lang="zh-hant" | 鬃岩狼人
+|-
+| 0746 || [[ヨワシ]] || Wishiwashi || Lusardin || Froussardine || 약어리 || lang="zh-hans" | 弱丁鱼 || lang="zh-hant" | 弱丁魚
+|-
+| 0747 || [[ヒドイデ]] || Mareanie || Garstella || Vorastérie || 시마사리 || lang="zh-hans" | 好坏星 || lang="zh-hant" | 好壞星
+|-
+| 0748 || [[ドヒドイデ]] || Toxapex || Aggrostella || Prédastérie || 더시마사리 || lang="zh-hans" | 超坏星 || lang="zh-hant" | 超壞星
+|-
+| 0749 || [[ドロバンコ]] || Mudbray || Pampuli || Tiboudet || 머드나기 || lang="zh-hans" | 泥驴仔 || lang="zh-hant" | 泥驢仔
+|-
+| 0750 || [[バンバドロ]] || Mudsdale || Pampross || Bourrinos || 만마드 || lang="zh-hans" | 重泥挽马 || lang="zh-hant" | 重泥挽馬
+|-
+| 0751 || [[シズクモ]] || Dewpider || Araqua || Araqua || 물거미 || lang="zh-hans" | 滴蛛 || lang="zh-hant" | 滴蛛
+|-
+| 0752 || [[オニシズクモ]] || Araquanid || Aranestro || Tarenbulle || 깨비물거미 || lang="zh-hans" | 滴蛛霸 || lang="zh-hant" | 滴蛛霸
+|-
+| 0753 || [[カリキリ]] || Fomantis || Imantis || Mimantis || 짜랑랑 || lang="zh-hans" | 伪螳草 || lang="zh-hant" | 偽螳草
+|-
+| 0754 || [[ラランテス]] || Lurantis || Mantidea || Floramantis || 라란티스 || lang="zh-hans" | 兰螳花 || lang="zh-hant" | 蘭螳花
+|-
+| 0755 || [[ネマシュ]] || Morelull || Bubungus || Spododo || 자마슈 || lang="zh-hans" | 睡睡菇 || lang="zh-hant" | 睡睡菇
+|-
+| 0756 || [[マシェード]] || Shiinotic || Lamellux || Lampignon || 마셰이드 || lang="zh-hans" | 灯罩夜菇 || lang="zh-hant" | 燈罩夜菇
+|-
+| 0757 || [[ヤトウモリ]] || Salandit || Molunk || Tritox || 야도뇽 || lang="zh-hans" | 夜盗火蜥 || lang="zh-hant" | 夜盜火蜥
+|-
+| 0758 || [[エンニュート]] || Salazzle || Amfira || Malamandre || 염뉴트 || lang="zh-hans" | 焰后蜥 || lang="zh-hant" | 焰后蜥
+|-
+| 0759 || [[ヌイコグマ]] || Stufful || Velursi || Nounourson || 포곰곰 || lang="zh-hans" | 童偶熊 || lang="zh-hant" | 童偶熊
+|-
+| 0760 || [[キテルグマ]] || Bewear || Kosturso || Chelours || 이븐곰 || lang="zh-hans" | 穿着熊 || lang="zh-hant" | 穿著熊
+|-
+| 0761 || [[アマカジ]] || Bounsweet || Frubberl || Croquine || 달콤아 || lang="zh-hans" | 甜竹竹 || lang="zh-hant" | 甜竹竹
+|-
+| 0762 || [[アママイコ]] || Steenee || Frubaila || Candine || 달무리나 || lang="zh-hans" | 甜舞妮 || lang="zh-hant" | 甜舞妮
+|-
+| 0763 || [[アマージョ]] || Tsareena || Fruyal || Sucreine || 달코퀸 || lang="zh-hans" | 甜冷美后 || lang="zh-hant" | 甜冷美后
+|-
+| 0764 || [[キュワワー]] || Comfey || Curelei || Guérilande || 큐아링 || lang="zh-hans" | 花疗环环 || lang="zh-hant" | 花療環環
+|-
+| 0765 || [[ヤレユータン]] || Oranguru || Kommandutan || Gouroutan || 하랑우탄 || lang="zh-hans" | 智挥猩 || lang="zh-hant" | 智揮猩
+|-
+| 0766 || [[ナゲツケサル]] || Passimian || Quartermak || Quartermac || 내던숭이 || lang="zh-hans" | 投掷猴 || lang="zh-hant" | 投擲猴
+|-
+| 0767 || [[コソクムシ]] || Wimpod || Reißlaus || Sovkipou || 꼬시레 || lang="zh-hans" | 胆小虫 || lang="zh-hant" | 膽小蟲
+|-
+| 0768 || [[グソクムシャ]] || Golisopod || Tectass || Sarmuraï || 갑주무사 || lang="zh-hans" | 具甲武者 || lang="zh-hant" | 具甲武者
+|-
+| 0769 || [[スナバァ]] || Sandygast || Sankabuh || Bacabouh || 모래꿍 || lang="zh-hans" | 沙丘娃 || lang="zh-hant" | 沙丘娃
+|-
+| 0770 || [[シロデスナ]] || Palossand || Colossand || Trépassable || 모래성이당 || lang="zh-hans" | 噬沙堡爷 || lang="zh-hant" | 噬沙堡爺
+|-
+| 0771 || [[ナマコブシ]] || Pyukumuku || Gufa || Concombaffe || 해무기 || lang="zh-hans" | 拳海参 || lang="zh-hant" | 拳海參
+|-
+| 0772 || [[タイプ:ヌル]] || Type: Null (英語)<br />Tipo Zero (イタリア語)<br />Código Cero (スペイン語) || Typ:Null || Type:0 || 타입:널 || lang="zh-hans" | 属性：空 || lang="zh-hant" | 屬性：空
+|-
+| 0773 || [[シルヴァディ]] || Silvally || Amigento || Silvallié || 실버디 || lang="zh-hans" | 银伴战兽 || lang="zh-hant" | 銀伴戰獸
+|-
+| 0774 || [[メテノ]] || Minior || Meteno || Météno || 메테노 || lang="zh-hans" | 小陨星 || lang="zh-hant" | 小隕星
+|-
+| 0775 || [[ネッコアラ]] || Komala || Koalelu || Dodoala || 자말라 || lang="zh-hans" | 树枕尾熊 || lang="zh-hant" | 樹枕尾熊
+|-
+| 0776 || [[バクガメス]] || Turtonator || Tortunator || Boumata || 폭거북스 || lang="zh-hans" | 爆焰龟兽 || lang="zh-hant" | 爆焰龜獸
+|-
+| 0777 || [[トゲデマル]] || Togedemaru || Togedemaru || Togedemaru || 토게데마루 || lang="zh-hans" | 托戈德玛尔 || lang="zh-hant" | 托戈德瑪爾
+|-
+| 0778 || [[ミミッキュ]] || Mimikyu || Mimigma || Mimiqui || 따라큐 || lang="zh-hans" | 谜拟丘 || lang="zh-hant" | 謎擬Ｑ
+|-
+| 0779 || [[ハギギシリ]] || Bruxish || Knirfish || Denticrisse || 치갈기 || lang="zh-hans" | 磨牙彩皮鱼 || lang="zh-hant" | 磨牙彩皮魚
+|-
+| 0780 || [[ジジーロン]] || Drampa || Sen-Long || Draïeul || 할비롱 || lang="zh-hans" | 老翁龙 || lang="zh-hant" | 老翁龍
+|-
+| 0781 || [[ダダリン]] || Dhelmise || Moruda || Sinistrail || 타타륜 || lang="zh-hans" | 破破舵轮 || lang="zh-hant" | 破破舵輪
+|-
+| 0782 || [[ジャラコ]] || Jangmo-o || Miniras || Bébécaille || 짜랑꼬 || lang="zh-hans" | 心鳞宝 || lang="zh-hant" | 心鱗寶
+|-
+| 0783 || [[ジャランゴ]] || Hakamo-o || Mediras || Écaïd || 짜랑고우 || lang="zh-hans" | 鳞甲龙 || lang="zh-hant" | 鱗甲龍
+|-
+| 0784 || [[ジャラランガ]] || Kommo-o || Grandiras || Ékaïser || 짜랑고우거 || lang="zh-hans" | 杖尾鳞甲龙 || lang="zh-hant" | 杖尾鱗甲龍
+|-
+| 0785 || [[カプ・コケコ]] || Tapu Koko || Kapu-Riki || Tokorico || 카푸꼬꼬꼭 || lang="zh-hans" | 卡璞・鸣鸣 || lang="zh-hant" | 卡璞・鳴鳴
+|-
+| 0786 || [[カプ・テテフ]] || Tapu Lele || Kapu-Fala || Tokopiyon || 카푸나비나 || lang="zh-hans" | 卡璞・蝶蝶 || lang="zh-hant" | 卡璞・蝶蝶
+|-
+| 0787 || [[カプ・ブルル]] || Tapu Bulu || Kapu-Toro || Tokotoro || 카푸브루루 || lang="zh-hans" | 卡璞・哞哞 || lang="zh-hant" | 卡璞・哞哞
+|-
+| 0788 || [[カプ・レヒレ]] || Tapu Fini || Kapu-Kime || Tokopisco || 카푸느지느 || lang="zh-hans" | 卡璞・鳍鳍 || lang="zh-hant" | 卡璞・鰭鰭
+|-
+| 0789 || [[コスモッグ]] || Cosmog || Cosmog || Cosmog || 코스모그 || lang="zh-hans" | 科斯莫古 || lang="zh-hant" | 科斯莫古
+|-
+| 0790 || [[コスモウム]] || Cosmoem || Cosmovum || Cosmovum || 코스모움 || lang="zh-hans" | 科斯莫姆 || lang="zh-hant" | 科斯莫姆
+|-
+| 0791 || [[ソルガレオ]] || Solgaleo || Solgaleo || Solgaleo || 솔가레오 || lang="zh-hans" | 索尔迦雷欧 || lang="zh-hant" | 索爾迦雷歐
+|-
+| 0792 || [[ルナアーラ]] || Lunala || Lunala || Lunala || 루나아라 || lang="zh-hans" | 露奈雅拉 || lang="zh-hant" | 露奈雅拉
+|-
+| 0793 || [[ウツロイド]] || Nihilego || Anego || Zéroïd || 텅비드 || lang="zh-hans" | 虚吾伊德 || lang="zh-hant" | 虛吾伊德
+|-
+| 0794 || [[マッシブーン]] || Buzzwole || Masskito || Mouscoto || 매시붕 || lang="zh-hans" | 爆肌蚊 || lang="zh-hant" | 爆肌蚊
+|-
+| 0795 || [[フェローチェ]] || Pheromosa || Schabelle || Cancrelove || 페로코체 || lang="zh-hans" | 费洛美螂 || lang="zh-hant" | 費洛美螂
+|-
+| 0796 || [[デンジュモク]] || Xurkitree || Voltriant || Câblifère || 전수목 || lang="zh-hans" | 电束木 || lang="zh-hant" | 電束木
+|-
+| 0797 || [[テッカグヤ]] || Celesteela || Kaguron || Bamboiselle || 철화구야 || lang="zh-hans" | 铁火辉夜 || lang="zh-hant" | 鐵火輝夜
+|-
+| 0798 || [[カミツルギ]] || Kartana || Katagami || Katagami || 종이신도 || lang="zh-hans" | 纸御剑 || lang="zh-hant" | 紙御劍
+|-
+| 0799 || [[アクジキング]] || Guzzlord || Schlingking || Engloutyran || 악식킹 || lang="zh-hans" | 恶食大王 || lang="zh-hant" | 惡食大王
+|-
+| 0800 || [[ネクロズマ]] || Necrozma || Necrozma || Necrozma || 네크로즈마 || lang="zh-hans" | 奈克洛兹玛 || lang="zh-hant" | 奈克洛茲瑪
+|-
+| 0801 || [[マギアナ]] || Magearna || Magearna || Magearna || 마기아나 || lang="zh-hans" | 玛机雅娜 || lang="zh-hant" | 瑪機雅娜
+|-
+| 0802 || [[マーシャドー]] || Marshadow || Marshadow || Marshadow || 마샤도 || lang="zh-hans" | 玛夏多 || lang="zh-hant" | 瑪夏多
+|-
+| 0803 || [[ベベノム]] || Poipole || Venicro || Vémini || 베베놈 || lang="zh-hans" | 毒贝比 || lang="zh-hant" | 毒貝比
+|-
+| 0804 || [[アーゴヨン]] || Naganadel || Agoyon || Mandrillon || 아고용 || lang="zh-hans" | 四颚针龙 || lang="zh-hant" | 四顎針龍
+|-
+| 0805 || [[ツンデツンデ]] || Stakataka || Muramura || Ama-Ama || 차곡차곡 || lang="zh-hans" | 垒磊石 || lang="zh-hant" | 壘磊石
+|-
+| 0806 || [[ズガドーン]] || Blacephalon || Kopplosio || Pierroteknik || 두파팡 || lang="zh-hans" | 砰头小丑 || lang="zh-hant" | 砰頭小丑
+|-
+| 0807 || [[ゼラオラ]] || Zeraora || Zeraora || Zeraora || 제라오라 || lang="zh-hans" | 捷拉奥拉 || lang="zh-hant" | 捷拉奧拉
+|-
+| 0808 || [[メルタン]] || Meltan || Meltan || Meltan || 멜탄 || lang="zh-hans" | 美录坦 || lang="zh-hant" | 美錄坦
+|-
+| 0809 || [[メルメタル]] || Melmetal || Melmetal || Melmetal || 멜메탈 || lang="zh-hans" | 美录梅塔 || lang="zh-hant" | 美錄梅塔
+|}
+
+== 第八世代 ==
+{| {{graytable|c}}
+! style="background-color:#f8f6f0;" class=c|番号
+! style="background-color:#ffc1c1;"|日本語
+! style="background-color:#ff6fff;"|英語、イタリア語、スペイン語
+! style="background-color:#eff19c;"|ドイツ語 
+! style="background-color:#c5e4f5;"|フランス語
+! style="background-color:#9481d8;"|韓国語
+! style="background-color:#FFE0C4;"|中国語（簡）
+! style="background-color:#FFE0C4;"|中国語（繁）
+|-
+| 0810 || [[サルノリ]] || Grookey || Chimpep || Ouistempo || 흥나숭 || lang="zh-hans" | 敲音猴 || lang="zh-hant" | 敲音猴
+|-
+| 0811 || [[バチンキー]] || Thwackey || Chimstix || Badabouin || 채키몽 || lang="zh-hans" | 啪咚猴 || lang="zh-hant" | 啪咚猴
+|-
+| 0812 || [[ゴリランダー]] || Rillaboom || Gortrom || Gorythmic || 고릴타 || lang="zh-hans" | 轰擂金刚猩 || lang="zh-hant" | 轟擂金剛猩
+|-
+| 0813 || [[ヒバニー]] || Scorbunny || Hopplo || Flambino || 염버니 || lang="zh-hans" | 炎兔儿 || lang="zh-hant" | 炎兔兒
+|-
+| 0814 || [[ラビフット]] || Raboot || Kickerlo || Lapyro || 래비풋 || lang="zh-hans" | 腾蹴小将 || lang="zh-hant" | 騰蹴小將
+|-
+| 0815 || [[エースバーン]] || Cinderace || Liberlo || Pyrobut || 에이스번 || lang="zh-hans" | 闪焰王牌 || lang="zh-hant" | 閃焰王牌
+|-
+| 0816 || [[メッソン]] || Sobble || Memmeon || Larméléon || 울머기 || lang="zh-hans" | 泪眼蜥 || lang="zh-hant" | 淚眼蜥
+|-
+| 0817 || [[ジメレオン]] || Drizzile || Phlegleon || Arrozard || 누겔레온 || lang="zh-hans" | 变涩蜥 || lang="zh-hant" | 變澀蜥
+|-
+| 0818 || [[インテレオン]] || Inteleon || Intelleon || Lézargus || 인텔리레온 || lang="zh-hans" | 千面避役 || lang="zh-hant" | 千面避役
+|-
+| 0819 || [[ホシガリス]] || Skwovet || Raffel || Rongourmand || 탐리스 || lang="zh-hans" | 贪心栗鼠 || lang="zh-hant" | 貪心栗鼠
+|-
+| 0820 || [[ヨクバリス]] || Greedent || Schlaraffel || Rongrigou || 요씽리스 || lang="zh-hans" | 藏饱栗鼠 || lang="zh-hant" | 藏飽栗鼠
+|-
+| 0821 || [[ココガラ]] || Rookidee || Meikro || Minisange || 파라꼬 || lang="zh-hans" | 稚山雀 || lang="zh-hant" | 稚山雀
+|-
+| 0822 || [[アオガラス]] || Corvisquire || Kranoviz || Bleuseille || 파크로우 || lang="zh-hans" | 蓝鸦 || lang="zh-hant" | 藍鴉
+|-
+| 0823 || [[アーマーガア]] || Corviknight || Krarmor || Corvaillus || 아머까오 || lang="zh-hans" | 钢铠鸦 || lang="zh-hant" | 鋼鎧鴉
+|-
+| 0824 || [[サッチムシ]] || Blipbug || Sensect || Larvadar || 두루지벌레 || lang="zh-hans" | 索侦虫 || lang="zh-hant" | 索偵蟲
+|-
+| 0825 || [[レドームシ]] || Dottler || Keradar || Coléodôme || 레돔벌레 || lang="zh-hans" | 天罩虫 || lang="zh-hant" | 天罩蟲
+|-
+| 0826 || [[イオルブ]] || Orbeetle || Maritellit || Astronelle || 이올브 || lang="zh-hans" | 以欧路普 || lang="zh-hant" | 以歐路普
+|-
+| 0827 || [[クスネ]] || Nickit || Kleptifux || Goupilou || 훔처우 || lang="zh-hans" | 狡小狐 || lang="zh-hant" | 偷兒狐
+|-
+| 0828 || [[フォクスライ]] || Thievul || Gaunux || Roublenard || 폭슬라이 || lang="zh-hans" | 猾大狐 || lang="zh-hant" | 狐大盜
+|-
+| 0829 || [[ヒメンカ]] || Gossifleur || Cottini || Tournicoton || 꼬모카 || lang="zh-hans" | 幼棉棉 || lang="zh-hant" | 幼棉棉
+|-
+| 0830 || [[ワタシラガ]] || Eldegoss || Cottomi || Blancoton || 백솜모카 || lang="zh-hans" | 白蓬蓬 || lang="zh-hant" | 白蓬蓬
+|-
+| 0831 || [[ウールー]] || Wooloo || Wolly || Moumouton || 우르 || lang="zh-hans" | 毛辫羊 || lang="zh-hant" | 毛辮羊
+|-
+| 0832 || [[バイウールー]] || Dubwool || Zwollock || Moumouflon || 배우르 || lang="zh-hans" | 毛毛角羊 || lang="zh-hant" | 毛毛角羊
+|-
+| 0833 || [[カムカメ]] || Chewtle || Kamehaps || Khélocrok || 깨물부기 || lang="zh-hans" | 咬咬龟 || lang="zh-hant" | 咬咬龜
+|-
+| 0834 || [[カジリガメ]] || Drednaw || Kamalm || Torgamord || 갈가부기 || lang="zh-hans" | 暴噬龟 || lang="zh-hant" | 暴噬龜
+|-
+| 0835 || [[ワンパチ]] || Yamper || Voldi || Voltoutou || 멍파치 || lang="zh-hans" | 来电汪 || lang="zh-hant" | 來電汪
+|-
+| 0836 || [[パルスワン]] || Boltund || Bellektro || Fulgudog || 펄스멍 || lang="zh-hans" | 逐电犬 || lang="zh-hant" | 逐電犬
+|-
+| 0837 || [[タンドン]] || Rolycoly || Klonkett || Charbi || 탄동 || lang="zh-hans" | 小炭仔 || lang="zh-hant" | 小炭仔
+|-
+| 0838 || [[トロッゴン]] || Carkol || Wagong || Wagomine || 탄차곤 || lang="zh-hans" | 大炭车 || lang="zh-hant" | 大炭車
+|-
+| 0839 || [[セキタンザン]] || Coalossal || Montecarbo || Monthracite || 석탄산 || lang="zh-hans" | 巨炭山 || lang="zh-hant" | 巨炭山
+|-
+| 0840 || [[カジッチュ]] || Applin || Knapfel || Verpom || 과사삭벌레 || lang="zh-hans" | 啃果虫 || lang="zh-hant" | 啃果蟲
+|-
+| 0841 || [[アップリュー]] || Flapple || Drapfel || Pomdrapi || 애프룡 || lang="zh-hans" | 苹裹龙 || lang="zh-hant" | 蘋裹龍
+|-
+| 0842 || [[タルップル]] || Appletun || Schlapfel || Dratatin || 단지래플 || lang="zh-hans" | 丰蜜龙 || lang="zh-hant" | 豐蜜龍
+|-
+| 0843 || [[スナヘビ]] || Silicobra || Salanga || Dunaja || 모래뱀 || lang="zh-hans" | 沙包蛇 || lang="zh-hant" | 沙包蛇
+|-
+| 0844 || [[サダイジャ]] || Sandaconda || Sanaconda || Dunaconda || 사다이사 || lang="zh-hans" | 沙螺蟒 || lang="zh-hant" | 沙螺蟒
+|-
+| 0845 || [[ウッウ]] || Cramorant || Urgl || Nigosier || 윽우지 || lang="zh-hans" | 古月鸟 || lang="zh-hant" | 古月鳥
+|-
+| 0846 || [[サシカマス]] || Arrokuda || Pikuda || Embrochet || 찌로꼬치 || lang="zh-hans" | 刺梭鱼 || lang="zh-hant" | 刺梭魚
+|-
+| 0847 || [[カマスジョー]] || Barraskewda || Barrakiefa || Hastacuda || 꼬치조 || lang="zh-hans" | 戽斗尖梭 || lang="zh-hant" | 戽斗尖梭
+|-
+| 0848 || [[エレズン]] || Toxel || Toxel || Toxizap || 일레즌 || lang="zh-hans" | 电音婴 || lang="zh-hant" | 毒電嬰
+|-
+| 0849 || [[ストリンダー]] || Toxtricity || Riffex || Salarsen || 스트린더 || lang="zh-hans" | 颤弦蝾螈 || lang="zh-hant" | 顫弦蠑螈
+|-
+| 0850 || [[ヤクデ]] || Sizzlipede || Thermopod || Grillepattes || 태우지네 || lang="zh-hans" | 烧火蚣 || lang="zh-hant" | 燒火蚣
+|-
+| 0851 || [[マルヤクデ]] || Centiskorch || Infernopod || Scolocendre || 다태우지네 || lang="zh-hans" | 焚焰蚣 || lang="zh-hant" | 焚焰蚣
+|-
+| 0852 || [[タタッコ]] || Clobbopus || Klopptopus || Poulpaf || 때때무노 || lang="zh-hans" | 拳拳蛸 || lang="zh-hant" | 拳拳蛸
+|-
+| 0853 || [[オトスパス]] || Grapploct || Kaocto || Krakos || 케오퍼스 || lang="zh-hans" | 八爪武师 || lang="zh-hant" | 八爪武師
+|-
+| 0854 || [[ヤバチャ]] || Sinistea || Fatalitee || Théffroi || 데인차 || lang="zh-hans" | 来悲茶 || lang="zh-hant" | 來悲茶
+|-
+| 0855 || [[ポットデス]] || Polteageist || Mortipot || Polthégeist || 포트데스 || lang="zh-hans" | 怖思壶 || lang="zh-hant" | 怖思壺
+|-
+| 0856 || [[ミブリム]] || Hatenna || Brimova || Bibichut || 몸지브림 || lang="zh-hans" | 迷布莉姆 || lang="zh-hant" | 迷布莉姆
+|-
+| 0857 || [[テブリム]] || Hattrem || Brimano || Chapotus || 손지브림 || lang="zh-hans" | 提布莉姆 || lang="zh-hant" | 提布莉姆
+|-
+| 0858 || [[ブリムオン]] || Hatterene || Silembrim || Sorcilence || 브리무음 || lang="zh-hans" | 布莉姆温 || lang="zh-hant" | 布莉姆溫
+|-
+| 0859 || [[ベロバー]] || Impidimp || Bähmon || Grimalin || 메롱꿍 || lang="zh-hans" | 捣蛋小妖 || lang="zh-hant" | 搗蛋小妖
+|-
+| 0860 || [[ギモー]] || Morgrem || Pelzebub || Fourbelin || 쏘겨모 || lang="zh-hans" | 诈唬魔 || lang="zh-hant" | 詐唬魔
+|-
+| 0861 || [[オーロンゲ]] || Grimmsnarl || Olangaar || Angoliath || 오롱털 || lang="zh-hans" | 长毛巨魔 || lang="zh-hant" | 長毛巨魔
+|-
+| 0862 || [[タチフサグマ]] || Obstagoon || Barrikadax || Ixon || 가로막구리 || lang="zh-hans" | 堵拦熊 || lang="zh-hant" | 堵攔熊
+|-
+| 0863 || [[ニャイキング]] || Perrserker || Mauzinger || Berserkatt || 나이킹 || lang="zh-hans" | 喵头目 || lang="zh-hant" | 喵頭目
+|-
+| 0864 || [[サニゴーン]] || Cursola || Gorgasonn || Corayôme || 산호르곤 || lang="zh-hans" | 魔灵珊瑚 || lang="zh-hant" | 魔靈珊瑚
+|-
+| 0865 || [[ネギガナイト]] || Sirfetch'd || Lauchzelot || Palarticho || 창파나이트 || lang="zh-hans" | 葱游兵 || lang="zh-hant" | 蔥遊兵
+|-
+| 0866 || [[バリコオル]] || Mr. Rime || Pantifrost || M. Glaquette || 마임꽁꽁 || lang="zh-hans" | 踏冰人偶 || lang="zh-hant" | 踏冰人偶
+|-
+| 0867 || [[デスバーン]] || Runerigus || Oghnatoll || Tutétékri || 데스판 || lang="zh-hans" | 迭失板 || lang="zh-hant" | 死神板
+|-
+| 0868 || [[マホミル]] || Milcery || Hokumil || Crèmy || 마빌크 || lang="zh-hans" | 小仙奶 || lang="zh-hant" | 小仙奶
+|-
+| 0869 || [[マホイップ]] || Alcremie || Pokusan || Charmilly || 마휘핑 || lang="zh-hans" | 霜奶仙 || lang="zh-hant" | 霜奶仙
+|-
+| 0870 || [[タイレーツ]] || Falinks || Legios || Hexadron || 대여르 || lang="zh-hans" | 列阵兵 || lang="zh-hant" | 列陣兵
+|-
+| 0871 || [[バチンウニ]] || Pincurchin || Britzigel || Wattapik || 찌르성게 || lang="zh-hans" | 啪嚓海胆 || lang="zh-hant" | 啪嚓海膽
+|-
+| 0872 || [[ユキハミ]] || Snom || Snomnom || Frissonille || 누니머기 || lang="zh-hans" | 雪吞虫 || lang="zh-hant" | 雪吞蟲
+|-
+| 0873 || [[モスノウ]] || Frosmoth || Mottineva || Beldeneige || 모스노우 || lang="zh-hans" | 雪绒蛾 || lang="zh-hant" | 雪絨蛾
+|-
+| 0874 || [[イシヘンジン]] || Stonjourner || Humanolith || Dolman || 돌헨진 || lang="zh-hans" | 巨石丁 || lang="zh-hant" | 巨石丁
+|-
+| 0875 || [[コオリッポ]] || Eiscue || Kubuin || Bekaglaçon || 빙큐보 || lang="zh-hans" | 冰砌鹅 || lang="zh-hant" | 冰砌鵝
+|-
+| 0876 || [[イエッサン]] || Indeedee || Servol || Wimessir || 에써르 || lang="zh-hans" | 爱管侍 || lang="zh-hant" | 愛管侍
+|-
+| 0877 || [[モルペコ]] || Morpeko || Morpeko || Morpeko || 모르페코 || lang="zh-hans" | 莫鲁贝可 || lang="zh-hant" | 莫魯貝可
+|-
+| 0878 || [[ゾウドウ]] || Cufant || Kupfanti || Charibari || 끼리동 || lang="zh-hans" | 铜象 || lang="zh-hant" | 銅象
+|-
+| 0879 || [[ダイオウドウ]] || Copperajah || Patinaraja || Pachyradjah || 대왕끼리동 || lang="zh-hans" | 大王铜象 || lang="zh-hant" | 大王銅象
+|-
+| 0880 || [[パッチラゴン]] || Dracozolt || Lectragon || Galvagon || 파치래곤 || lang="zh-hans" | 雷鸟龙 || lang="zh-hant" | 雷鳥龍
+|-
+| 0881 || [[パッチルドン]] || Arctozolt || Lecryodon || Galvagla || 파치르돈 || lang="zh-hans" | 雷鸟海兽 || lang="zh-hant" | 雷鳥海獸
+|-
+| 0882 || [[ウオノラゴン]] || Dracovish || Pescragon || Hydragon || 어래곤 || lang="zh-hans" | 鳃鱼龙 || lang="zh-hant" | 鰓魚龍
+|-
+| 0883 || [[ウオチルドン]] || Arctovish || Pescryodon || Hydragla || 어치르돈 || lang="zh-hans" | 鳃鱼海兽 || lang="zh-hant" | 鰓魚海獸
+|-
+| 0884 || [[ジュラルドン]] || Duraludon || Duraludon || Duralugon || 두랄루돈 || lang="zh-hans" | 铝钢龙 || lang="zh-hant" | 鋁鋼龍
+|-
+| 0885 || [[ドラメシヤ]] || Dreepy || Grolldra || Fantyrm || 드라꼰 || lang="zh-hans" | 多龙梅西亚 || lang="zh-hant" | 多龍梅西亞
+|-
+| 0886 || [[ドロンチ]] || Drakloak || Phandra || Dispareptil || 드래런치 || lang="zh-hans" | 多龙奇 || lang="zh-hant" | 多龍奇
+|-
+| 0887 || [[ドラパルト]] || Dragapult || Katapuldra || Lanssorien || 드래펄트 || lang="zh-hans" | 多龙巴鲁托 || lang="zh-hant" | 多龍巴魯托
+|-
+| 0888 || [[ザシアン]] || Zacian || Zacian || Zacian || 자시안 || lang="zh-hans" | 苍响 || lang="zh-hant" | 蒼響
+|-
+| 0889 || [[ザマゼンタ]] || Zamazenta || Zamazenta || Zamazenta || 자마젠타 || lang="zh-hans" | 藏玛然特 || lang="zh-hant" | 藏瑪然特
+|-
+| 0890 || [[ムゲンダイナ]] || Eternatus || Endynalos || Éthernatos || 무한다이노 || lang="zh-hans" | 无极汰那 || lang="zh-hant" | 無極汰那
+|-
+| 0891 || [[ダクマ]] || Kubfu || Dakuma || Wushours || 치고마 || lang="zh-hans" | 熊徒弟 || lang="zh-hant" | 熊徒弟
+|-
+| 0892 || [[ウーラオス]] || Urshifu || Wulaosu || Shifours || 우라오스 || lang="zh-hans" | 武道熊师 || lang="zh-hant" | 武道熊師
+|-
+| 0893 || [[ザルード]] || Zarude || Zarude || Zarude || 자루도 || lang="zh-hans" | 萨戮德 || lang="zh-hant" | 薩戮德
+|-
+| 0894 || [[レジエレキ]] || Regieleki || Regieleki || Regieleki || 레지에레키 || lang="zh-hans" | 雷吉艾勒奇 || lang="zh-hant" | 雷吉艾勒奇
+|-
+| 0895 || [[レジドラゴ]] || Regidrago || Regidrago || Regidrago || 레지드래고 || lang="zh-hans" | 雷吉铎拉戈 || lang="zh-hant" | 雷吉鐸拉戈
+|-
+| 0896 || [[ブリザポス]] || Glastrier || Polaross || Blizzeval || 블리자포스 || lang="zh-hans" | 雪暴马 || lang="zh-hant" | 雪暴馬
+|-
+| 0897 || [[レイスポス]] || Spectrier || Phantoross || Spectreval || 레이스포스 || lang="zh-hans" | 灵幽马 || lang="zh-hant" | 靈幽馬
+|-
+| 0898 || [[バドレックス]] || Calyrex || Coronospa || Sylveroy || 버드렉스 || lang="zh-hans" | 蕾冠王 || lang="zh-hant" | 蕾冠王
+|-
+| 0899 || [[アヤシシ]] || Wyrdeer || Damythir || Cerbyllin || 신비록 || lang="zh-hans" | 诡角鹿 || lang="zh-hant" | 詭角鹿
+|-
+| 0900 || [[バサギリ]] || Kleavor || Axantor || Hachécateur || 사마자르 || lang="zh-hans" | 劈斧螳螂 || lang="zh-hant" | 劈斧螳螂
+|-
+| 0901 || [[ガチグマ]] || Ursaluna || Ursaluna || Ursaking || 다투곰 || lang="zh-hans" | 月月熊 || lang="zh-hant" | 月月熊
+|-
+| 0902 || [[イダイトウ]] || Basculegion || Salmagnis || Paragruel || 대쓰여너 || lang="zh-hans" | 幽尾玄鱼 || lang="zh-hant" | 幽尾玄魚
+|-
+| 0903 || [[オオニューラ]] || Sneasler || Snieboss || Farfurex || 포푸니크 || lang="zh-hans" | 大狃拉 || lang="zh-hant" | 大狃拉
+|-
+| 0904 || [[ハリーマン]] || Overqwil || Myriador || Qwilpik || 장침바루 || lang="zh-hans" | 万针鱼 || lang="zh-hant" | 萬針魚
+|-
+| 0905 || [[ラブトロス]] || Enamorus || Cupidos || Amovénus || 러브로스 || lang="zh-hans" | 眷恋云 || lang="zh-hant" | 眷戀雲
+|}
+
+== 第九世代 ==
+{| {{graytable|c}}
+! style="background-color:#f8f6f0;" class=c|番号
+! style="background-color:#ffc1c1;"|日本語
+! style="background-color:#ff6fff;"|英語、イタリア語、スペイン語
+! style="background-color:#eff19c;"|ドイツ語 
+! style="background-color:#c5e4f5;"|フランス語
+! style="background-color:#9481d8;"|韓国語
+! style="background-color:#FFE0C4;"|中国語（簡）
+! style="background-color:#FFE0C4;"|中国語（繁）
+|-
+| 0906 || [[ニャオハ]] || Sprigatito || Felori || Poussacha || 나오하 || lang="zh-hans" | 新叶喵 || lang="zh-hant" | 新葉喵
+|-
+| 0907 || [[ニャローテ]] || Floragato || Feliospa || Matourgeon || 나로테 || lang="zh-hans" | 蒂蕾喵 || lang="zh-hant" | 蒂蕾喵
+|-
+| 0908 || [[マスカーニャ]] || Meowscarada || Maskagato || Miascarade || 마스카나 || lang="zh-hans" | 魔幻假面喵 || lang="zh-hant" | 魔幻假面喵
+|-
+| 0909 || [[ホゲータ]] || Fuecoco || Krokel || Chochodile || 뜨아거 || lang="zh-hans" | 呆火鳄 || lang="zh-hant" | 呆火鱷
+|-
+| 0910 || [[アチゲータ]] || Crocalor || Lokroko || Crocogril || 악뜨거 || lang="zh-hans" | 炙烫鳄 || lang="zh-hant" | 炙燙鱷
+|-
+| 0911 || [[ラウドボーン]] || Skeledirge || Skelokrok || Flâmigator || 라우드본 || lang="zh-hans" | 骨纹惊声鳄 || lang="zh-hant" | 骨紋驚聲鱷
+|-
+| 0912 || [[クワッス]] || Quaxly || Kwaks || Coiffeton || 꾸왁스 || lang="zh-hans" | 润水鸭 || lang="zh-hant" | 潤水鴨
+|-
+| 0913 || [[ウェルカモ]] || Quaxwell || Fuentente || Canarbello || 아꾸왁 || lang="zh-hans" | 涌跃鸭 || lang="zh-hant" | 湧躍鴨
+|-
+| 0914 || [[ウェーニバル]] || Quaquaval || Bailonda || Palmaval || 웨이니발 || lang="zh-hans" | 狂欢浪舞鸭 || lang="zh-hant" | 狂歡浪舞鴨
+|-
+| 0915 || [[グルトン]] || Lechonk || Ferkuli || Gourmelet || 맛보돈 || lang="zh-hans" | 爱吃豚 || lang="zh-hant" | 愛吃豚
+|-
+| 0916 || [[パフュートン]] || Oinkologne || Fragrunz || Fragroin || 퍼퓨돈 || lang="zh-hans" | 飘香豚 || lang="zh-hant" | 飄香豚
+|-
+| 0917 || [[タマンチュラ]] || Tarountula || Tarundel || Tissenboule || 타랜툴라 || lang="zh-hans" | 团珠蛛 || lang="zh-hant" | 團珠蛛
+|-
+| 0918 || [[ワナイダー]] || Spidops || Spinsidias || Filentrappe || 트래피더 || lang="zh-hans" | 操陷蛛 || lang="zh-hant" | 操陷蛛
+|-
+| 0919 || [[マメバッタ]] || Nymble || Micrick || Lilliterelle || 콩알뚜기 || lang="zh-hans" | 豆蟋蟀 || lang="zh-hant" | 豆蟋蟀
+|-
+| 0920 || [[エクスレッグ]] || Lokix || Lextremo || Gambex || 엑스레그 || lang="zh-hans" | 烈腿蝗 || lang="zh-hant" | 烈腿蝗
+|-
+| 0921 || [[パモ]] || Pawmi || Pamo || Pohm || 빠모 || lang="zh-hans" | 布拨 || lang="zh-hant" | 布撥
+|-
+| 0922 || [[パモット]] || Pawmo || Pamamo || Pohmotte || 빠모트 || lang="zh-hans" | 布土拨 || lang="zh-hant" | 布土撥
+|-
+| 0923 || [[パーモット]] || Pawmot || Pamomamo || Pohmarmotte || 빠르모트 || lang="zh-hans" | 巴布土拨 || lang="zh-hant" | 巴布土撥
+|-
+| 0924 || [[ワッカネズミ]] || Tandemaus || Zwieps || Compagnol || 두리쥐 || lang="zh-hans" | 一对鼠 || lang="zh-hant" | 一對鼠
+|-
+| 0925 || [[イッカネズミ]] || Maushold || Famieps || Famignol || 파밀리쥐 || lang="zh-hans" | 一家鼠 || lang="zh-hant" | 一家鼠
+|-
+| 0926 || [[パピモッチ]] || Fidough || Hefel || Pâtachiot || 쫀도기 || lang="zh-hans" | 狗仔包 || lang="zh-hant" | 狗仔包
+|-
+| 0927 || [[バウッツェル]] || Dachsbun || Backel || Briochien || 바우첼 || lang="zh-hans" | 麻花犬 || lang="zh-hant" | 麻花犬
+|-
+| 0928 || [[ミニーブ]] || Smoliv || Olini || Olivini || 미니브 || lang="zh-hans" | 迷你芙 || lang="zh-hant" | 迷你芙
+|-
+| 0929 || [[オリーニョ]] || Dolliv || Olivinio || Olivado || 올리뇨 || lang="zh-hans" | 奥利纽 || lang="zh-hant" | 奧利紐
+|-
+| 0930 || [[オリーヴァ]] || Arboliva || Olithena || Arboliva || 올리르바 || lang="zh-hans" | 奥利瓦 || lang="zh-hant" | 奧利瓦
+|-
+| 0931 || [[イキリンコ]] || Squawkabilly || Krawalloro || Tapatoès || 시비꼬 || lang="zh-hans" | 怒鹦哥 || lang="zh-hant" | 怒鸚哥
+|-
+| 0932 || [[コジオ]] || Nacli || Geosali || Selutin || 베베솔트 || lang="zh-hans" | 盐石宝 || lang="zh-hant" | 鹽石寶
+|-
+| 0933 || [[ジオヅム]] || Naclstack || Sedisal || Amassel || 스태솔트 || lang="zh-hans" | 盐石垒 || lang="zh-hant" | 鹽石壘
+|-
+| 0934 || [[キョジオーン]] || Garganacl || Saltigant || Gigansel || 콜로솔트 || lang="zh-hans" | 盐石巨灵 || lang="zh-hant" | 鹽石巨靈
+|-
+| 0935 || [[カルボウ]] || Charcadet || Knarbon || Charbambin || 카르본 || lang="zh-hans" | 炭小侍 || lang="zh-hant" | 炭小侍
+|-
+| 0936 || [[グレンアルマ]] || Armarouge || Crimanzo || Carmadura || 카디나르마 || lang="zh-hans" | 红莲铠骑 || lang="zh-hant" | 紅蓮鎧騎
+|-
+| 0937 || [[ソウブレイズ]] || Ceruledge || Azugladis || Malvalame || 파라블레이즈 || lang="zh-hans" | 苍炎刃鬼 || lang="zh-hant" | 蒼炎刃鬼
+|-
+| 0938 || [[ズピカ]] || Tadbulb || Blipp || Têtampoule || 빈나두 || lang="zh-hans" | 光蚪仔 || lang="zh-hant" | 光蚪仔
+|-
+| 0939 || [[ハラバリー]] || Bellibolt || Wampitz || Ampibidou || 찌리배리 || lang="zh-hans" | 电肚蛙 || lang="zh-hant" | 電肚蛙
+|-
+| 0940 || [[カイデン]] || Wattrel || Voltrel || Zapétrel || 찌리비 || lang="zh-hans" | 电海燕 || lang="zh-hant" | 電海燕
+|-
+| 0941 || [[タイカイデン]] || Kilowattrel || Voltrean || Fulgulairo || 찌리비크 || lang="zh-hans" | 大电海燕 || lang="zh-hant" | 大電海燕
+|-
+| 0942 || [[オラチフ]] || Maschiff || Mobtiff || Grondogue || 오라티프 || lang="zh-hans" | 偶叫獒 || lang="zh-hant" | 偶叫獒
+|-
+| 0943 || [[マフィティフ]] || Mabosstiff || Mastifioso || Dogrino || 마피티프 || lang="zh-hans" | 獒教父 || lang="zh-hant" | 獒教父
+|-
+| 0944 || [[シルシュルー]] || Shroodle || Sproxi || Gribouraigne || 땃쭈르 || lang="zh-hans" | 滋汁鼹 || lang="zh-hant" | 滋汁鼴
+|-
+| 0945 || [[タギングル]] || Grafaiai || Affiti || Tag-Tag || 태깅구르 || lang="zh-hans" | 涂标客 || lang="zh-hant" | 塗標客
+|-
+| 0946 || [[アノクサ]] || Bramblin || Weherba || Virovent || 그푸리 || lang="zh-hans" | 纳噬草 || lang="zh-hant" | 納噬草
+|-
+| 0947 || [[アノホラグサ]] || Brambleghast || Horrerba || Virevorreur || 공푸리 || lang="zh-hans" | 怖纳噬草 || lang="zh-hant" | 怖納噬草
+|-
+| 0948 || [[ノノクラゲ]] || Toedscool || Tentagra || Terracool || 들눈해 || lang="zh-hans" | 原野水母 || lang="zh-hant" | 原野水母
+|-
+| 0949 || [[リククラゲ]] || Toedscruel || Tenterra || Terracruel || 육파리 || lang="zh-hans" | 陆地水母 || lang="zh-hant" | 陸地水母
+|-
+| 0950 || [[ガケガニ]] || Klawf || Klibbe || Craparoi || 절벼게 || lang="zh-hans" | 毛崖蟹 || lang="zh-hant" | 毛崖蟹
+|-
+| 0951 || [[カプサイジ]] || Capsakid || Chilingel || Pimito || 캡싸이 || lang="zh-hans" | 热辣娃 || lang="zh-hant" | 熱辣娃
+|-
+| 0952 || [[スコヴィラン]] || Scovillain || Halupenjo || Scovilain || 스코빌런 || lang="zh-hans" | 狠辣椒 || lang="zh-hant" | 狠辣椒
+|-
+| 0953 || [[シガロコ]] || Rellor || Relluk || Léboulérou || 구르데 || lang="zh-hans" | 虫滚泥 || lang="zh-hant" | 蟲滾泥
+|-
+| 0954 || [[ベラカス]] || Rabsca || Skarabaks || Bérasca || 베라카스 || lang="zh-hans" | 虫甲圣 || lang="zh-hant" | 蟲甲聖
+|-
+| 0955 || [[ヒラヒナ]] || Flittle || Flattutu || Flotillon || 하느라기 || lang="zh-hans" | 飘飘雏 || lang="zh-hant" | 飄飄雛
+|-
+| 0956 || [[クエスパトラ]] || Espathra || Psiopatra || Cléopsytra || 클레스퍼트라 || lang="zh-hans" | 超能艳鸵 || lang="zh-hant" | 超能豔鴕
+|-
+| 0957 || [[カヌチャン]] || Tinkatink || Forgita || Forgerette || 어리짱 || lang="zh-hans" | 小锻匠 || lang="zh-hant" | 小鍛匠
+|-
+| 0958 || [[ナカヌチャン]] || Tinkatuff || Tafforgita || Forgella || 벼리짱 || lang="zh-hans" | 巧锻匠 || lang="zh-hant" | 巧鍛匠
+|-
+| 0959 || [[デカヌチャン]] || Tinkaton || Granforgita || Forgelina || 두드리짱 || lang="zh-hans" | 巨锻匠 || lang="zh-hant" | 巨鍛匠
+|-
+| 0960 || [[ウミディグダ]] || Wiglett || Schligda || Taupikeau || 바다그다 || lang="zh-hans" | 海地鼠 || lang="zh-hant" | 海地鼠
+|-
+| 0961 || [[ウミトリオ]] || Wugtrio || Schligdri || Triopikeau || 바닥트리오 || lang="zh-hans" | 三海地鼠 || lang="zh-hant" | 三海地鼠
+|-
+| 0962 || [[オトシドリ]] || Bombirdier || Adebom || Lestombaile || 떨구새 || lang="zh-hans" | 下石鸟 || lang="zh-hant" | 下石鳥
+|-
+| 0963 || [[ナミイルカ]] || Finizen || Normifin || Dofin || 맨돌핀 || lang="zh-hans" | 波普海豚 || lang="zh-hant" | 波普海豚
+|-
+| 0964 || [[イルカマン]] || Palafin || Delfinator || Superdofin || 돌핀맨 || lang="zh-hans" | 海豚侠 || lang="zh-hant" | 海豚俠
+|-
+| 0965 || [[ブロロン]] || Varoom || Knattox || Vrombi || 부르롱 || lang="zh-hans" | 噗隆隆 || lang="zh-hant" | 噗隆隆
+|-
+| 0966 || [[ブロロローム]] || Revavroom || Knattatox || Vrombotor || 부르르룸 || lang="zh-hans" | 普隆隆姆 || lang="zh-hant" | 普隆隆姆
+|-
+| 0967 || [[モトトカゲ]] || Cyclizar || Mopex || Motorizard || 모토마 || lang="zh-hans" | 摩托蜥 || lang="zh-hant" | 摩托蜥
+|-
+| 0968 || [[ミミズズ]] || Orthworm || Schlurm || Ferdeter || 꿈트렁 || lang="zh-hans" | 拖拖蚓 || lang="zh-hant" | 拖拖蚓
+|-
+| 0969 || [[キラーメ]] || Glimmet || Lumispross || Germéclat || 초롱순 || lang="zh-hans" | 晶光芽 || lang="zh-hant" | 晶光芽
+|-
+| 0970 || [[キラフロル]] || Glimmora || Lumiflora || Floréclat || 킬라플로르 || lang="zh-hans" | 晶光花 || lang="zh-hant" | 晶光花
+|-
+| 0971 || [[ボチ]] || Greavard || Gruff || Toutombe || 망망이 || lang="zh-hans" | 墓仔狗 || lang="zh-hant" | 墓仔狗
+|-
+| 0972 || [[ハカドッグ]] || Houndstone || Friedwuff || Tomberro || 묘두기 || lang="zh-hans" | 墓扬犬 || lang="zh-hant" | 墓揚犬
+|-
+| 0973 || [[カラミンゴ]] || Flamigo || Flaminkno || Flamenroule || 꼬이밍고 || lang="zh-hans" | 缠红鹤 || lang="zh-hant" | 纏紅鶴
+|-
+| 0974 || [[アルクジラ]] || Cetoddle || Flaniwal || Piétacé || 터벅고래 || lang="zh-hans" | 走鲸 || lang="zh-hant" | 走鯨
+|-
+| 0975 || [[ハルクジラ]] || Cetitan || Kolowal || Balbalèze || 우락고래 || lang="zh-hans" | 浩大鲸 || lang="zh-hant" | 浩大鯨
+|-
+| 0976 || [[ミガルーサ]] || Veluza || Agiluza || Délestin || 가비루사 || lang="zh-hans" | 轻身鳕 || lang="zh-hant" | 輕身鱈
+|-
+| 0977 || [[ヘイラッシャ]] || Dondozo || Heerashai || Oyacata || 어써러셔 || lang="zh-hans" | 吃吼霸 || lang="zh-hant" | 吃吼霸
+|-
+| 0978 || [[シャリタツ]] || Tatsugiri || Nigiragi || Nigirigon || 싸리용 || lang="zh-hans" | 米立龙 || lang="zh-hant" | 米立龍
+|-
+| 0979 || [[コノヨザル]] || Annihilape || Epitaff || Courrousinge || 저승갓숭 || lang="zh-hans" | 弃世猴 || lang="zh-hant" | 棄世猴
+|-
+| 0980 || [[ドオー]] || Clodsire || Suelord || Terraiste || 토오 || lang="zh-hans" | 土王 || lang="zh-hant" | 土王
+|-
+| 0981 || [[リキキリン]] || Farigiraf || Farigiraf || Farigiraf || 키키링 || lang="zh-hans" | 奇麒麟 || lang="zh-hant" | 奇麒麟
+|-
+| 0982 || [[ノココッチ]] || Dudunsparce || Dummimisel || Deusolourdo || 노고고치 || lang="zh-hans" | 土龙节节 || lang="zh-hant" | 土龍節節
+|-
+| 0983 || [[ドドゲザン]] || Kingambit || Gladimperio || Scalpereur || 대도각참 || lang="zh-hans" | 仆刀将军 || lang="zh-hant" | 仆斬將軍
+|-
+| 0984 || [[イダイナキバ]] || Great Tusk (英語)<br />Grandizanne (イタリア語)<br />Colmilargo (スペイン語) || Riesenzahn || Fort-Ivoire || 위대한엄니 || lang="zh-hans" | 雄伟牙 || lang="zh-hant" | 雄偉牙
+|-
+| 0985 || [[サケブシッポ]] || Scream Tail (英語)<br />Codaurlante (イタリア語)<br />Colagrito (スペイン語) || Brüllschweif || Hurle-Queue || 우렁찬꼬리 || lang="zh-hans" | 吼叫尾 || lang="zh-hant" | 吼叫尾
+|-
+| 0986 || [[アラブルタケ]] || Brute Bonnet (英語)<br />Fungofurioso (イタリア語)<br />Furioseta (スペイン語) || Wutpilz || Fongus-Furie || 사나운버섯 || lang="zh-hans" | 猛恶菇 || lang="zh-hant" | 猛惡菇
+|-
+| 0987 || [[ハバタクカミ]] || Flutter Mane (英語)<br />Crinealato (イタリア語)<br />Melenaleteo (スペイン語) || Flatterhaar || Flotte-Mèche || 날개치는머리 || lang="zh-hans" | 振翼发 || lang="zh-hant" | 振翼髮
+|-
+| 0988 || [[チヲハウハネ]] || Slither Wing (英語)<br />Alirasenti (イタリア語)<br />Reptalada (スペイン語) || Kriechflügel || Rampe-Ailes || 땅을기는날개 || lang="zh-hans" | 爬地翅 || lang="zh-hant" | 爬地翅
+|-
+| 0989 || [[スナノケガワ]] || Sandy Shocks (英語)<br />Peldisabbia (イタリア語)<br />Pelarena (スペイン語) || Sandfell || Pelage-Sablé || 모래털가죽 || lang="zh-hans" | 沙铁皮 || lang="zh-hant" | 沙鐵皮
+|-
+| 0990 || [[テツノワダチ]] || Iron Treads (英語)<br />Solcoferro (イタリア語)<br />Ferrodada (スペイン語) || Eisenrad || Roue-de-Fer || 무쇠바퀴 || lang="zh-hans" | 铁辙迹 || lang="zh-hant" | 鐵轍跡
+|-
+| 0991 || [[テツノツツミ]] || Iron Bundle (英語)<br />Saccoferreo (イタリア語)<br />Ferrosaco (スペイン語) || Eisenbündel || Hotte-de-Fer || 무쇠보따리 || lang="zh-hans" | 铁包袱 || lang="zh-hant" | 鐵包袱
+|-
+| 0992 || [[テツノカイナ]] || Iron Hands (英語)<br />Manoferrea (イタリア語)<br />Ferropalmas (スペイン語) || Eisenhand || Paume-de-Fer || 무쇠손 || lang="zh-hans" | 铁臂膀 || lang="zh-hant" | 鐵臂膀
+|-
+| 0993 || [[テツノコウベ]] || Iron Jugulis (英語)<br />Colloferreo (イタリア語)<br />Ferrocuello (スペイン語) || Eisenhals || Têtes-de-Fer || 무쇠머리 || lang="zh-hans" | 铁脖颈 || lang="zh-hant" | 鐵脖頸
+|-
+| 0994 || [[テツノドクガ]] || Iron Moth (英語)<br />Falenaferrea (イタリア語)<br />Ferropolilla (スペイン語) || Eisenfalter || Mite-de-Fer || 무쇠독나방 || lang="zh-hans" | 铁毒蛾 || lang="zh-hant" | 鐵毒蛾
+|-
+| 0995 || [[テツノイバラ]] || Iron Thorns (英語)<br />Spineferree (イタリア語)<br />Ferropúas (スペイン語) || Eisendorn || Épine-de-Fer || 무쇠가시 || lang="zh-hans" | 铁荆棘 || lang="zh-hant" | 鐵荊棘
+|-
+| 0996 || [[セビエ]] || Frigibax || Frospino || Frigodo || 드니차 || lang="zh-hans" | 凉脊龙 || lang="zh-hant" | 涼脊龍
+|-
+| 0997 || [[セゴール]] || Arctibax || Cryospino || Cryodo || 드니꽁 || lang="zh-hans" | 冻脊龙 || lang="zh-hant" | 凍脊龍
+|-
+| 0998 || [[セグレイブ]] || Baxcalibur || Espinodon || Glaivodo || 드닐레이브 || lang="zh-hans" | 戟脊龙 || lang="zh-hant" | 戟脊龍
+|-
+| 0999 || [[コレクレー]] || Gimmighoul || Gierspenst || Mordudor || 모으령 || lang="zh-hans" | 索财灵 || lang="zh-hant" | 索財靈
+|-
+| 1000 || [[サーフゴー]] || Gholdengo || Monetigo || Gromago || 타부자고 || lang="zh-hans" | 赛富豪 || lang="zh-hant" | 賽富豪
+|-
+| 1001 || [[チオンジェン]] || Wo-Chien || Chongjian || Chongjian || 총지엔 || lang="zh-hans" | 古简蜗 || lang="zh-hant" | 古簡蝸
+|-
+| 1002 || [[パオジアン]] || Chien-Pao || Baojian || Baojian || 파오젠 || lang="zh-hans" | 古剑豹 || lang="zh-hant" | 古劍豹
+|-
+| 1003 || [[ディンルー]] || Ting-Lu || Dinglu || Dinglu || 딩루 || lang="zh-hans" | 古鼎鹿 || lang="zh-hant" | 古鼎鹿
+|-
+| 1004 || [[イーユイ]] || Chi-Yu || Yuyu || Yuyu || 위유이 || lang="zh-hans" | 古玉鱼 || lang="zh-hant" | 古玉魚
+|-
+| 1005 || [[トドロクツキ]] || Roaring Moon (英語)<br />Lunaruggente (イタリア語)<br />Bramaluna (スペイン語) || Donnersichel || Rugit-Lune || 고동치는달 || lang="zh-hans" | 轰鸣月 || lang="zh-hant" | 轟鳴月
+|-
+| 1006 || [[テツノブジン]] || Iron Valiant (英語)<br />Eroeferreo (イタリア語)<br />Ferropaladín (スペイン語) || Eisenkrieger || Garde-de-Fer || 무쇠무인 || lang="zh-hans" | 铁武者 || lang="zh-hant" | 鐵武者
+|-
+| 1007 || [[コライドン]] || Koraidon || Koraidon || Koraidon || 코라이돈 || lang="zh-hans" | 故勒顿 || lang="zh-hant" | 故勒頓
+|-
+| 1008 || [[ミライドン]] || Miraidon || Miraidon || Miraidon || 미라이돈 || lang="zh-hans" | 密勒顿 || lang="zh-hant" | 密勒頓
+|-
+| 1009 || [[ウネルミナモ]] || Walking Wake (英語)<br />Acquecrespe (イタリア語)<br />Ondulagua (スペイン語) || Windewoge || Serpente-Eau || 굽이치는물결 || lang="zh-hans" | 波荡水 || lang="zh-hant" | 波盪水
+|-
+| 1010 || [[テツノイサハ]] || Iron Leaves (英語)<br />Fogliaferrea (イタリア語)<br />Ferroverdor (スペイン語) || Eisenblatt || Vert-de-Fer || 무쇠잎새 || lang="zh-hans" | 铁斑叶 || lang="zh-hant" | 鉄斑葉
+|-
+| 1011 || [[カミッチュ]] || Dipplin || Sirapfel || Pomdramour || 과미르 || lang="zh-hans" | 裹蜜虫 || lang="zh-hant" | 裹蜜蟲
+|-
+| 1012 || [[チャデス]] || Poltchageist || Mortcha || Poltchageist || 차데스 || lang="zh-hans" | 斯魔茶 || lang="zh-hant" | 斯魔茶
+|-
+| 1013 || [[ヤバソチャ]] || Sinistcha || Fatalitcha || Théffroyable || 그우린차 || lang="zh-hans" | 来悲粗茶 || lang="zh-hant" | 來悲粗茶
+|-
+| 1014 || [[イイネイヌ]] || Okidogi || Boninu || Félicanis || 조타구 || lang="zh-hans" | 够赞狗 || lang="zh-hant" | 夠讚狗
+|-
+| 1015 || [[マシマシラ]] || Munkidori || Benesaru || Fortusimia || 이야후 || lang="zh-hans" | 愿增猿 || lang="zh-hant" | 願增猿
+|-
+| 1016 || [[キチキギス]] || Fezandipiti || Beatori || Favianos || 기로치 || lang="zh-hans" | 吉雉鸡 || lang="zh-hant" | 吉雉雞
+|-
+| 1017 || [[オーガポン]] || Ogerpon || Ogerpon || Ogerpon || 오거폰 || lang="zh-hans" | 厄诡椪 || lang="zh-hant" | 厄鬼椪
+|-
+| 1018 || [[ブリジュラス]] || Archaludon || Briduradon || Pondralugon || 브리두라스 || lang="zh-hans" | 铝钢桥龙 || lang="zh-hant" | 鋁鋼橋龍
+|-
+| 1019 || [[カミツオロチ]] || Hydrapple || Hydrapfel || Pomdorochi || 과미드라 || lang="zh-hans" | 蜜集大蛇 || lang="zh-hant" | 蜜集大蛇
+|-
+| 1020 || [[ウガツホムラ]] || Gouging Fire (英語)<br />Vampeaguzze (イタリア語)<br />Flamariete (スペイン語) || Keilflamme || Feu-Perçant || 꿰뚫는화염 || lang="zh-hans" | 破空焰 || lang="zh-hant" | 破空焰
+|-
+| 1021 || [[タケルライコ]] || Raging Bolt (英語)<br />Furiatonante (イタリア語)<br />Electrofuria (スペイン語) || Furienblitz || Ire-Foudre || 날뛰는우레 || lang="zh-hans" | 猛雷鼓 || lang="zh-hant" | 猛雷鼓
+|-
+| 1022 || [[テツノイワオ]] || Iron Boulder (英語)<br />Massoferreo (イタリア語)<br />Ferromole (スペイン語) || Eisenfels || Roc-de-Fer || 무쇠암석 || lang="zh-hans" | 铁磐岩 || lang="zh-hant" | 鐵磐岩
+|-
+| 1023 || [[テツノカシラ]] || Iron Crown (英語)<br />Capoferreo (イタリア語)<br />Ferrotesta (スペイン語) || Eisenhaupt || Chef-de-Fer || 무쇠감투 || lang="zh-hans" | 铁头壳 || lang="zh-hant" | 鐵頭殼
+|-
+| 1024 || [[テラパゴス]] || Terapagos || Terapagos || Terapagos || 테라파고스 || lang="zh-hans" | 太乐巴戈斯 || lang="zh-hant" | 太樂巴戈斯
+|-
+| 1025 || [[モモワロウ]] || Pecharunt || Infamomo || Pêchaminus || 복숭악동 || lang="zh-hans" | 桃歹郎 || lang="zh-hant" | 桃歹郎
+|}
+
+== 第十世代 ==
+{| {{graytable|c}}
+! style="background-color:#f8f6f0;" class=c|番号
+! style="background-color:#ffc1c1;"|日本語
+! style="background-color:#ff6fff;"|英語、イタリア語、スペイン語
+! style="background-color:#eff19c;"|ドイツ語 
+! style="background-color:#c5e4f5;"|フランス語
+! style="background-color:#9481d8;"|韓国語
+! style="background-color:#FFE0C4;"|中国語（簡）
+! style="background-color:#FFE0C4;"|中国語（繁）
+|-
+|  || [[ハブロウ]] || Browt || Braubel || Broussatif || 초로삐 || lang="zh-hans" | 叶眉鸟 || lang="zh-hant" | 葉眉鳥
+|-
+|  || [[ポムケン]] || Pombon || Pomfifi || Caloulou || 포뭉이 || lang="zh-hans" | 博姆耿 || lang="zh-hant" | 博姆耿
+|-
+|  || [[ミオリー]] || Gecqua || Gekkua || Ogéko || 미초리 || lang="zh-hans" | 妙澪儿 || lang="zh-hant" | 妙澪兒
+|}
+<!--
+|-
+|  || [[]] || 英伊西 || 独 || 仏 || 韓 || lang="zh-hans" | 簡体字 || lang="zh-hant" | 繁体字
+-->
+
+== 関連項目 ==
+* [[ポケモン一覧]]
+* [[ポケモンの公式ローマ字表記一覧]]
+* [[:en:List of Pokémon by National Dex number|英語版ポケモン一覧(Bulbapedia)]]
+* [https://www.pokemon.com/it/pokedex/ Pokédex|イタリア語版ポケモン一覧(Pokédex)]
+* [https://www.pokemon.com/es/pokedex/ Pokédex|スペイン語版ポケモン一覧(Pokédex)]
+* [[:en:List of German Pokémon names|ドイツ語版ポケモン一覧(Bulbapedia)]]
+* [[:en:List of French Pokémon names|フランス語版ポケモン一覧(Bulbapedia)]]
+* [[:en:List of Korean Pokémon names|韓国語版ポケモン一覧(Bulbapedia)]]
+* [[:en:List of Chinese Pokémon names|中国語版ポケモン一覧(Bulbapedia)]]
+
+[[Category:外国語名一覧|ほけもんのかいこくこめいいちらん]]
+[[Category:ポケモンの一覧|かいこくこめいいちらん]]
+[[zh:宝可梦列表（在其他语言中）]]

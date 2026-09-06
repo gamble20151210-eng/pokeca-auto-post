@@ -19,7 +19,7 @@ def main():
     post = create_post_text(top30_cards, top10_boxes, rates)
 
     # X に投稿
-    post_to_x(post)
+    post_to_x("【お知らせ】毎日決まった時間に、取引履歴の多いポケモンカードのシングル・ボックスの相場情報を自動投稿します。初回テスト投稿です。よろしくお願いします！")
 
 if __name__ == "__main__":
     main()

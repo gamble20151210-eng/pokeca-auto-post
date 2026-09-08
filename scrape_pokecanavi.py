@@ -7,24 +7,28 @@ def scrape_pokecanavi():
     html = requests.get(RANKING_URL).text
     soup = BeautifulSoup(html, "html.parser")
 
+    # -------------------------
     # シングルカードランキング
-    single_items = soup.select(".ranking-list .ranking-item")
+    # -------------------------
+    single_items = soup.select("div#single-ranking .ranking-item")
     singles = []
 
     for item in single_items[:30]:
-        name = item.select_one(".card-name").get_text(strip=True)
-        price = item.select_one(".price").get_text(strip=True)
-        volume = item.select_one(".volume").get_text(strip=True)
+        name = item.select_one(".ranking-item-name").get_text(strip=True)
+        price = item.select_one(".ranking-item-price").get_text(strip=True)
+        volume = item.select_one(".ranking-item-volume").get_text(strip=True)
         singles.append((name, price, volume))
 
+    # -------------------------
     # BOXランキング
-    box_items = soup.select(".box-ranking-list .ranking-item")
+    # -------------------------
+    box_items = soup.select("div#box-ranking .ranking-item")
     boxes = []
 
     for item in box_items[:10]:
-        name = item.select_one(".card-name").get_text(strip=True)
-        price = item.select_one(".price").get_text(strip=True)
-        volume = item.select_one(".volume").get_text(strip=True)
+        name = item.select_one(".ranking-item-name").get_text(strip=True)
+        price = item.select_one(".ranking-item-price").get_text(strip=True)
+        volume = item.select_one(".ranking-item-volume").get_text(strip=True)
         boxes.append((name, price, volume))
 
     return singles, boxes

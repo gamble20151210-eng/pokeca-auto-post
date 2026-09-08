@@ -1,37 +1,10 @@
-name: Auto Post
+from scrape_pokecanavi import scrape_pokecanavi, build_post_text
+from post_to_x import post_to_x
 
-on:
-  schedule:
-    - cron: "0 0 * * *"  # 毎日0時
-  workflow_dispatch:
+def main():
+    singles, boxes = scrape_pokecanavi()
+    text = build_post_text(singles, boxes)
+    post_to_x(text)
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.10"
-
-      - name: Install Chrome
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y chromium-browser
-
-      - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
-
-      - name: Run script
-        env:
-          API_KEY: ${{ secrets.API_KEY }}
-          API_KEY_SECRET: ${{ secrets.API_KEY_SECRET }}
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          ACCESS_TOKEN_SECRET: ${{ secrets.ACCESS_TOKEN_SECRET }}
-        run: |
-          python main.py
+if __name__ == "__main__":
+    main()

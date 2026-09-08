@@ -1,46 +1,34 @@
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.common.by import By
-from webdriver_manager.chrome import ChromeDriverManager
-import time
+import requests
+from bs4 import BeautifulSoup
 
 URL = "https://www.pokecanavi.jp/ranking"
 
 def scrape_pokecanavi():
-    options = Options()
-    options.add_argument("--headless")
-    options.add_argument("--no-sandbox")
-    options.add_argument("--disable-dev-shm-usage")
-    options.binary_location = "/usr/bin/chromium-browser"
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept-Language": "ja,en-US;q=0.9,en;q=0.8",
+    }
 
-    # ★ Selenium 4 正しい起動方法（GitHub Actions対応）
-    service = Service(ChromeDriverManager().install())
-    driver = webdriver.Chrome(service=service, options=options)
-
-    driver.get(URL)
-    time.sleep(5)
+    html = requests.get(URL, headers=headers).text
+    soup = BeautifulSoup(html, "html.parser")
 
     singles = []
     boxes = []
 
     # シングルランキング
-    single_items = driver.find_elements(By.CSS_SELECTOR, "#single-ranking li")
-    for item in single_items[:30]:
-        name = item.find_element(By.CSS_SELECTOR, ".name").text
-        price = item.find_element(By.CSS_SELECTOR, ".price").text
-        volume = item.find_element(By.CSS_SELECTOR, ".volume").text
+    for item in soup.select("#single-ranking li")[:30]:
+        name = item.select_one(".name").get_text(strip=True)
+        price = item.select_one(".price").get_text(strip=True)
+        volume = item.select_one(".volume").get_text(strip=True)
         singles.append((name, price, volume))
 
     # BOXランキング
-    box_items = driver.find_elements(By.CSS_SELECTOR, "#box-ranking li")
-    for item in box_items[:10]:
-        name = item.find_element(By.CSS_SELECTOR, ".name").text
-        price = item.find_element(By.CSS_SELECTOR, ".price").text
-        volume = item.find_element(By.CSS_SELECTOR, ".volume").text
+    for item in soup.select("#box-ranking li")[:10]:
+        name = item.select_one(".name").get_text(strip=True)
+        price = item.select_one(".price").get_text(strip=True)
+        volume = item.select_one(".volume").get_text(strip=True)
         boxes.append((name, price, volume))
 
-    driver.quit()
     return singles, boxes
 
 
@@ -49,10 +37,4 @@ def build_post_text(singles, boxes):
 
     text += "▼シングル取引数TOP30\n"
     for i, (name, price, volume) in enumerate(singles, 1):
-        text += f"{i}. {name}（{price} / {volume}件）\n"
-
-    text += "\n▼BOX取引数TOP10\n"
-    for i, (name, price, volume) in enumerate(boxes, 1):
-        text += f"{i}. {name}（{price} / {volume}件）\n"
-
-    return text
+        text += f"{i}. {

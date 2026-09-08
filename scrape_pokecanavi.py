@@ -55,3 +55,8 @@ def scrape_pokecanavi():
     soup = BeautifulSoup(html, "html.parser")
 
     return [], []  # 一旦空で返す
+
+import requests
+
+html = requests.get("https://www.pokecanavi.jp/ranking").text
+print(html[:5000])

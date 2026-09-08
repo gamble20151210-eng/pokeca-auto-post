@@ -37,5 +37,3 @@ def scrape_pokecanavi():
 
     driver.quit()
     return singles, boxes
-
-options.binary_location = "/usr/bin/chromium-browser"

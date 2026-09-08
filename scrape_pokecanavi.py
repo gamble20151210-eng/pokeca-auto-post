@@ -9,18 +9,20 @@ def scrape_pokecanavi():
 
     singles, boxes = [], []
 
-    # シングルカードランキング（仮セレクタ）
-    for item in soup.select(".ranking-item")[:30]:
-        name = item.select_one(".ranking-item-name").get_text(strip=True)
-        price = item.select_one(".ranking-item-price").get_text(strip=True)
-        volume = item.select_one(".ranking-item-volume").get_text(strip=True)
+    # シングルカードランキング
+    single_items = soup.select("div#single-ranking ul li")
+    for item in single_items[:30]:
+        name = item.select_one(".name").get_text(strip=True)
+        price = item.select_one(".price").get_text(strip=True)
+        volume = item.select_one(".volume").get_text(strip=True)
         singles.append((name, price, volume))
 
-    # BOXランキング（仮セレクタ）
-    for item in soup.select(".box-ranking-item")[:10]:
-        name = item.select_one(".ranking-item-name").get_text(strip=True)
-        price = item.select_one(".ranking-item-price").get_text(strip=True)
-        volume = item.select_one(".ranking-item-volume").get_text(strip=True)
+    # BOXランキング
+    box_items = soup.select("div#box-ranking ul li")
+    for item in box_items[:10]:
+        name = item.select_one(".name").get_text(strip=True)
+        price = item.select_one(".price").get_text(strip=True)
+        volume = item.select_one(".volume").get_text(strip=True)
         boxes.append((name, price, volume))
 
     return singles, boxes

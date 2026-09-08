@@ -7,25 +7,17 @@ def scrape_pokecanavi():
     html = requests.get(RANKING_URL).text
     soup = BeautifulSoup(html, "html.parser")
 
-    # -------------------------
-    # シングルカードランキング
-    # -------------------------
-    single_items = soup.select("div#single-ranking .ranking-item")
-    singles = []
+    singles, boxes = [], []
 
-    for item in single_items[:30]:
+    # シングルカードランキング（仮セレクタ）
+    for item in soup.select(".ranking-item")[:30]:
         name = item.select_one(".ranking-item-name").get_text(strip=True)
         price = item.select_one(".ranking-item-price").get_text(strip=True)
         volume = item.select_one(".ranking-item-volume").get_text(strip=True)
         singles.append((name, price, volume))
 
-    # -------------------------
-    # BOXランキング
-    # -------------------------
-    box_items = soup.select("div#box-ranking .ranking-item")
-    boxes = []
-
-    for item in box_items[:10]:
+    # BOXランキング（仮セレクタ）
+    for item in soup.select(".box-ranking-item")[:10]:
         name = item.select_one(".ranking-item-name").get_text(strip=True)
         price = item.select_one(".ranking-item-price").get_text(strip=True)
         volume = item.select_one(".ranking-item-volume").get_text(strip=True)

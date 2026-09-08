@@ -40,3 +40,18 @@ def build_post_text(singles, boxes):
         text += f"{i}. {name}（{price} / {volume}件）\n"
 
     return text
+
+import requests
+from bs4 import BeautifulSoup
+
+RANKING_URL = "https://www.pokecanavi.jp/ranking"
+
+def scrape_pokecanavi():
+    html = requests.get(RANKING_URL).text
+
+    # ★ まずは HTML を確認する（最短ルート）
+    print(html[:2000])  # 最初の2000文字だけ表示
+
+    soup = BeautifulSoup(html, "html.parser")
+
+    return [], []  # 一旦空で返す

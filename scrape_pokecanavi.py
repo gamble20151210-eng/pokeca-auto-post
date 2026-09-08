@@ -13,14 +13,19 @@ def scrape_pokecanavi():
     options.add_argument("--disable-dev-shm-usage")
     options.binary_location = "/usr/bin/chromium-browser"
 
-    driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
-    driver.get(URL)
+    # ★ GitHub Actions で正しく動く ChromeDriver の起動方法
+    driver = webdriver.Chrome(
+        executable_path=ChromeDriverManager().install(),
+        options=options
+    )
 
+    driver.get(URL)
     time.sleep(5)
 
     singles = []
     boxes = []
 
+    # シングルランキング
     single_items = driver.find_elements(By.CSS_SELECTOR, "#single-ranking li")
     for item in single_items[:30]:
         name = item.find_element(By.CSS_SELECTOR, ".name").text
@@ -28,6 +33,7 @@ def scrape_pokecanavi():
         volume = item.find_element(By.CSS_SELECTOR, ".volume").text
         singles.append((name, price, volume))
 
+    # BOXランキング
     box_items = driver.find_elements(By.CSS_SELECTOR, "#box-ranking li")
     for item in box_items[:10]:
         name = item.find_element(By.CSS_SELECTOR, ".name").text
@@ -37,6 +43,7 @@ def scrape_pokecanavi():
 
     driver.quit()
     return singles, boxes
+
 
 def build_post_text(singles, boxes):
     text = "【ポケカ相場速報（直近72時間）】\n\n"
@@ -50,4 +57,3 @@ def build_post_text(singles, boxes):
         text += f"{i}. {name}（{price} / {volume}件）\n"
 
     return text
-

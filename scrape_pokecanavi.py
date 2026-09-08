@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
 import time
@@ -13,11 +14,9 @@ def scrape_pokecanavi():
     options.add_argument("--disable-dev-shm-usage")
     options.binary_location = "/usr/bin/chromium-browser"
 
-    # ★ GitHub Actions で正しく動く ChromeDriver の起動方法
-    driver = webdriver.Chrome(
-        executable_path=ChromeDriverManager().install(),
-        options=options
-    )
+    # ★ Selenium 4 正しい起動方法（GitHub Actions対応）
+    service = Service(ChromeDriverManager().install())
+    driver = webdriver.Chrome(service=service, options=options)
 
     driver.get(URL)
     time.sleep(5)

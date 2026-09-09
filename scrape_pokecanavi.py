@@ -1,9 +1,9 @@
 import requests
 from bs4 import BeautifulSoup
 
-URL = "https://www.pokecanavi.jp/ranking"
+URL = "https://pokeca-chart.com/all-card/?sort=rise7"
 
-def scrape_pokecanavi():
+def scrape_pokeca_chart():
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Accept-Language": "ja,en-US;q=0.9,en;q=0.8",
@@ -12,35 +12,29 @@ def scrape_pokecanavi():
     html = requests.get(URL, headers=headers).text
     soup = BeautifulSoup(html, "html.parser")
 
-    singles = []
-    boxes = []
+    rows = soup.select("table tbody tr")
 
-    # シングルランキング
-    for item in soup.select("#single-ranking li")[:30]:
-        name = item.select_one(".name").get_text(strip=True)
-        price = item.select_one(".price").get_text(strip=True)
-        volume = item.select_one(".volume").get_text(strip=True)
-        singles.append((name, price, volume))
+    results = []
 
-    # BOXランキング
-    for item in soup.select("#box-ranking li")[:10]:
-        name = item.select_one(".name").get_text(strip=True)
-        price = item.select_one(".price").get_text(strip=True)
-        volume = item.select_one(".volume").get_text(strip=True)
-        boxes.append((name, price, volume))
+    for row in rows[:10]:  # 上位10件だけ
+        cols = row.select("td")
+        if len(cols) < 4:
+            continue
 
-    return singles, boxes
+        name = cols[1].get_text(strip=True)
+        price = cols[2].get_text(strip=True)
+        rise7 = cols[3].get_text(strip=True)
+
+        results.append((name, price, rise7))
+
+    return results
 
 
-def build_post_text(singles, boxes):
-    text = "【ポケカ相場速報（直近72時間）】\n\n"
+def build_post_text(results):
+    text = "【ポケカ値上がりランキング（直近7日）】\n\n"
 
-    text += "▼シングル取引数TOP30\n"
-    for i, (name, price, volume) in enumerate(singles, 1):
-        text += f"{i}. {name}（{price} / {volume}件）\n"
+    for i, (name, price, rise7) in enumerate(results, 1):
+        text += f"{i}. {name}（{price} / {rise7}）\n"
 
-    text += "\n▼BOX取引数TOP10\n"
-    for i, (name, price, volume) in enumerate(boxes, 1):
-        text += f"{i}. {name}（{price} / {volume}件）\n"
-
+    text += "\n#ポケカ #ポケカ相場 #ポケカ高騰"
     return text

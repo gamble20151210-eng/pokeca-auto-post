@@ -1,40 +1,43 @@
-import requests
-from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
+from webdriver_manager.chrome import ChromeDriverManager
+import time
 
 URL = "https://pokeca-chart.com/all-card/?sort=rise7"
 
 def scrape_pokeca_chart():
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Accept-Language": "ja,en-US;q=0.9,en;q=0.8",
-    }
+    options = Options()
+    options.add_argument("--headless")
+    options.add_argument("--no-sandbox")
+    options.add_argument("--disable-dev-shm-usage")
 
-    html = requests.get(URL, headers=headers).text
-    soup = BeautifulSoup(html, "html.parser")
+    service = Service(ChromeDriverManager().install())
+    driver = webdriver.Chrome(service=service, options=options)
 
-    rows = soup.select("table tbody tr")
+    driver.get(URL)
+    time.sleep(5)  # JS描画待ち
 
     results = []
+    cards = driver.find_elements(By.CSS_SELECTOR, "div.card-item")  # ページ構造に合わせて調整
 
-    for row in rows[:10]:  # 上位10件だけ
-        cols = row.select("td")
-        if len(cols) < 4:
+    for card in cards[:10]:
+        try:
+            name = card.find_element(By.CSS_SELECTOR, ".card-name").text
+            price = card.find_element(By.CSS_SELECTOR, ".price").text
+            rise7 = card.find_element(By.CSS_SELECTOR, ".rise7").text
+            results.append((name, price, rise7))
+        except Exception:
             continue
 
-        name = cols[1].get_text(strip=True)
-        price = cols[2].get_text(strip=True)
-        rise7 = cols[3].get_text(strip=True)
-
-        results.append((name, price, rise7))
-
+    driver.quit()
     return results
 
 
 def build_post_text(results):
     text = "【ポケカ値上がりランキング（直近7日）】\n\n"
-
     for i, (name, price, rise7) in enumerate(results, 1):
         text += f"{i}. {name}（{price} / {rise7}）\n"
-
     text += "\n#ポケカ #ポケカ相場 #ポケカ高騰"
     return text

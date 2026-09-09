@@ -20,14 +20,13 @@ def scrape_pokeca_chart():
     time.sleep(5)  # JS描画待ち
 
     results = []
-    cards = driver.find_elements(By.CSS_SELECTOR, "div.card-item")  # ページ構造に合わせて調整
+    cards = driver.find_elements(By.CSS_SELECTOR, "div.card-item")
 
-    for card in cards[:10]:
+    for card in cards[:10]:  # 上位10件だけ
         try:
-            name = card.find_element(By.CSS_SELECTOR, ".card-name").text
-            price = card.find_element(By.CSS_SELECTOR, ".price").text
-            rise7 = card.find_element(By.CSS_SELECTOR, ".rise7").text
-            results.append((name, price, rise7))
+            name = card.find_element(By.CSS_SELECTOR, "p.card-name").text
+            price = card.find_element(By.CSS_SELECTOR, "p.card-price").text
+            results.append((name, price))
         except Exception:
             continue
 
@@ -37,7 +36,7 @@ def scrape_pokeca_chart():
 
 def build_post_text(results):
     text = "【ポケカ値上がりランキング（直近7日）】\n\n"
-    for i, (name, price, rise7) in enumerate(results, 1):
-        text += f"{i}. {name}（{price} / {rise7}）\n"
+    for i, (name, price) in enumerate(results, 1):
+        text += f"{i}. {name}（{price}）\n"
     text += "\n#ポケカ #ポケカ相場 #ポケカ高騰"
     return text

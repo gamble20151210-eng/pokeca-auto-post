@@ -32,9 +32,11 @@ def scrape_pokeca_chart():
 
     driver.quit()
     return results
-
-
+    
 def build_post_text(results):
+    if not results:
+        return "【ポケカ値上がりランキング（直近7日）】\n\nデータ取得に失敗しました。\n#ポケカ #ポケカ相場"
+
     text = "【ポケカ値上がりランキング（直近7日）】\n\n"
     for i, (name, price) in enumerate(results, 1):
         text += f"{i}. {name}（{price}）\n"
